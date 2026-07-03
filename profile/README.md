@@ -45,9 +45,8 @@
 
  <br>
 
-###### <p align="center"> ⋆Reference Readings⋆
-
-<br>
+<!-- ###### <p align="center">⋆Reference Readings-->
+###### <p align="center"> *Reference Readings*
 
 ###### <p align="center"> 𖤐 [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf), 𖤐
 
@@ -127,7 +126,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 
 
-#### <p align="center"> <sub>  ✠ [Lo Ringraziamo Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
+#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 
 
 <br><br>
