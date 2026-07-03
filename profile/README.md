@@ -98,10 +98,11 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 <br>
 
-#### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* </sub>
+#### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub>
 #### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()* </sub>
 
  <br><br>
+
 
   
 <p align="center">
