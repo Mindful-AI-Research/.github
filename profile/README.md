@@ -137,7 +137,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
-Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
+Founded by [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
@@ -525,17 +525,17 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 ###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of [40+]() collaborators*
 
-<br>
+<br><br>
 
 
 > [!TIP]
 > **Core Contributors**
 >
-> ⟡ [Fabiana ⚡ Campanari](https://github.com/FabianaCampanari) — Founder · BSc in Human-Centered Data Science & Psychology (PUC-SP) · Researcher in Human-Centered AI & Data Science (PUC-SP) · Software Developer · Designer · Psychologist  
+> ⟡ [Fabiana ⚡ Campanari]() — Founder · BSc in Human-Centered Data Science & Psychology (PUC-SP) · Researcher in Human-Centered AI & Data Science (PUC-SP) · Software Developer · Designer · Psychologist  
 >
 > ⟡ [Andson Ribeiro](https://github.com/andsonandreribeiro09) — BSc in Human-Centered Data Science (PUC-SP) · Postgraduate in TIDD — Intelligent Technologies and Digital Design (PUC-SP)  
 >
-> ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — Contributor in Human-Centered AI & Data Science  
+> ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — BSc in Human-Centered AI & Data Science  
 >
 > *Ordered by level of contribution to the project*
 
