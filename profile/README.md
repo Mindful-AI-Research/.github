@@ -45,7 +45,7 @@
 
  <br>
 
-###### <p align="center"> ⋆ Reference Readings ⋆
+###### <p align="center"> ⋆Reference Readings⋆
 
 <br>
 
@@ -528,17 +528,26 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 <br>
 
 > [!TIP]
->
 > **Core Contributors**
 >
-> * [**Fabiana ⚡️ Campanari**](https://github.com/FabianaCampanari) – — Founder · Designer · Software Developer · Psychologist · Researcher (PUC–SP) 
+> ⟡ [Fabiana ⚡ Campanari](https://github.com/FabianaCampanari) — Founder · Designer · Software Developer · Psychologist · Researcher (PUC-SP)  
 >
-> * [**Prof. Dr. Daniel Gatti**](https://www.linkedin.com/in/dgatti/) –  Academic Advisor (PUC–SP)
+> ⟡[Andson Ribeiro](https://github.com/andsonandreribeiro09) — Contributor (PUC-SP)  
 >
-> * [**Pedro Vyctor**](https://github.com/ppvyctor) - Contributor (PUC–SP)  
+> ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — Contributor (PUC-SP)  
 >
-> * [**Andson Ribeiro**](https://github.com/andsonandreribeiro09) - Contributor (PUC–SP)  
+> **Ordered by level of contribution to the project**
 
+<br><br>
+
+> [!NOTE]
+> **CDIA — Human-Centered AI & Data Science**
+>
+> ✦ [Prof. Dr. Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) — Director  
+>
+> ✦ [Prof. Dr. Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/) — Coordinator  
+>
+> ✦ [Prof. Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) — Academic Advisor (TIDD — Intelligent Technologies and Digital Design, PUC-SP)
 
 
 <br><br>
