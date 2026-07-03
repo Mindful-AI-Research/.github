@@ -523,25 +523,28 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 <br>
 
-###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of 42+ collaborators*
+###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of [40+]() collaborators*
 
 <br>
+
 
 > [!TIP]
 > **Core Contributors**
 >
-> ⟡ [Fabiana ⚡ Campanari](https://github.com/FabianaCampanari) — Founder · Designer · Software Developer · Psychologist · Researcher (PUC-SP)  
+> ⟡ [Fabiana ⚡ Campanari](https://github.com/FabianaCampanari) — Founder · BSc in Human-Centered Data Science & Psychology (PUC-SP) · Researcher in Human-Centered AI & Data Science (PUC-SP) · Software Developer · Designer · Psychologist  
 >
-> ⟡[Andson Ribeiro](https://github.com/andsonandreribeiro09) — Contributor (PUC-SP)  
+> ⟡ [Andson Ribeiro](https://github.com/andsonandreribeiro09) — BSc in Human-Centered Data Science (PUC-SP) · Postgraduate in TIDD — Intelligent Technologies and Digital Design (PUC-SP)  
 >
-> ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — Contributor (PUC-SP)  
+> ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — Contributor in Human-Centered AI & Data Science  
 >
-> **Ordered by level of contribution to the project**
+> *Ordered by level of contribution to the project*
+
 
 <br><br>
 
+
 > [!NOTE]
-> **CDIA — Human-Centered AI & Data Science**
+> **CDIA — Human-Centered AI & Data Science (PUC-SP)**
 >
 > ✦ [Prof. Dr. Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) — Director  
 >
