@@ -444,6 +444,8 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 #### <p align="center"> [***Learn AI for Free from the world's leading AI companies 🪷  turn knowledge into wisdom***](https://jazzy-gingersnap-38b5e2.netlify.app/)
 
+#### <p align="center"> [***Oh My OpenAgent - Agent Harness](https://omo.dev/#agents)
+
 <br>
 
 ### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
