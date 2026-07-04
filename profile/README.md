@@ -8,12 +8,12 @@
 
 ⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　[✦](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-　　　　　　*　　　　　　　　　　　.　✦
+　　　　　　*　　　　　　　　　　　.　
 　　　　　　*　　　　　　　　. 　　
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝚿](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)  𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚   .⭒⋅⊹｡
+ 　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝚿](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c) *𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚*  .⭒⋅⊹｡
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　　　　　　　　
 
@@ -43,42 +43,58 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 
 
- <br>
+ <br> 
 
-<!-- ###### <p align="center">⋆Reference Readings-->
-###### <p align="center"> *Reference Readings*
+<!-- ###### <p align="center">⋆Reference Readings   -- GRAY SMALL REGULAR-->
+<!-- ###### <p align="center"> *Reference Readings*  -- GRAY MEDIUM ITALIC-->
 
-###### <p align="center"> 𖤐 [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf), 𖤐
+###### <p align="center">⋆Curated AI Learning Resources⋆ 
+
+###### <p align="center">[↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide*[↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework*
+
+</p>
+
+
+
+
+
+
+ <!-- 
+#### <p align="center"> 𖤐 [***Learn AI for Free from the world's leading AI companies 🪷  turn knowledge into wisdom***](https://jazzy-gingersnap-38b5e2.netlify.app/) 𖤐
+
+#### <p align="center"> 𖤐 [***Oh My OpenAgent - Agent Harness](https://omo.dev/#agents) 𖤐
+
+###### <p align="center"> 𖤐 [Goolge Prompt Engineering Paper - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) 
+
+----------
+###### <p align="center">  [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf), 𖤐
 
 ###### <p align="center"> 𖤐 [AI for the Good of All - Brazilian Artificial Intelligence Plan - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) 𖤐
 
 
 ###### <p align="center"> 𖤐 [Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) 𖤐
+𖤐
 
-<!--
-###### <p align="center"> 𖤐 [Goolge Prompt Engineering Paper - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) 𖤐
 -->
+
 
  <br>
 
 
-⠀⠀⠀⠀⠀⠀.　　　　　　　　　　✦ 　　　　　　　　　　　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  [𖤐](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀⠀⠀
+⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀
 　　　　　　*　　　　　　　　　　　.
-.　　　　　　　　　　　　　. 　　✦⠀　  
-　　　　　⠀　　　　⠀　　, 　　　,　　　　　　　　　*          
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　　　　　　.
-　　　　　　　　　　　　　.
-　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　
+.　　　　　　　　　　　　　. 　　⠀　  
+　　　　　　　　⠀　　, 　　　,　　　　　　　　　*          
+⠀⠀⠀⠀⠀⠀⠀
 　　　
-
-
-
-<br>
 
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
+
+⠀⠀⠀⠀⠀..
+　　　　　　　　　　　　　.   𖤐
+　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　
 
 <br><br>
 
@@ -250,21 +266,12 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 [-]() Automate complex workflows <br>
 [-]() Scale intelligent systems responsibly
 
-<br>
-
-
-✭　.　　. 　   ˚　.˚　  　🛸　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ⋆　.   　　˚　✯ 　　*　　 　　✦　　　.　　.　　　　*　　 　　　　. 　　 ˚　　　　 . ⋆　.  　　 　　　　　.   . ⋆　. ✦　
-
-
-### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪ ⊹˚. ݁ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚. ݁ ₊ 𖥔 ݁ 
+#
 
 <br>
 
 
- #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!***
-
- <br>
-  
+##### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
 
  <p align="center">
   <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
@@ -273,11 +280,7 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 </p>
 
 
-<br>
-
-
-#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-
+###### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED , BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION !*** 🖤
 
  <br><br>
 
@@ -442,9 +445,7 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 </p>
 
 
-#### <p align="center"> [***Learn AI for Free from the world's leading AI companies 🪷  turn knowledge into wisdom***](https://jazzy-gingersnap-38b5e2.netlify.app/)
 
-#### <p align="center"> [***Oh My OpenAgent - Agent Harness](https://omo.dev/#agents)
 
 <br>
 
