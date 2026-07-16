@@ -377,9 +377,11 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 </sub>Ready to join the Mindful AI ecosystem? Here are a few ways you can help:</sub>
 
-- ⭐ If this project has been helpful, consider giving it a star. It helps others discover the project and supports the community.
--  Share your ideas, suggestions, or feedback by opening an issue.
--  Contribute code or improvements by submitting a pull request.
+[-]() ⭐ If this project has been helpful, consider giving it a star. It helps others discover the project and supports the community. <br>
+
+[-]() Share your ideas, suggestions, or feedback by opening an issue. <br>
+
+[-]()  Contribute code or improvements by submitting a pull request.
 
 <br>
 
