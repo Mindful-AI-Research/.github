@@ -362,7 +362,7 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 [𖤐]() Code is intention <br>
 [𖤐]() Systems are extensions of thought <br>
-[𖤐]() Innovation is a collective awakening <br>
+[𖤐]() Innovation is a collective awakening 
 
 <br><br>
 
@@ -373,8 +373,8 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 
 [-]() ⭐ Star the repositories you find useful <br>
-[-]() 💬 Open an issue with your idea or feedback <br>
-[-]() 🔀 Submit a pull request — see the [Contribution](#-contribution) section below
+[-]()  Open an issue with your idea or feedback <br>
+[-]() Submit a pull request — see the [Contribution](#-contribution) section below
 
 
 <br><br>
@@ -509,7 +509,11 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 <br>
 
-[1.]() Create an issue and share your idea ⚡️ (use **new idea label**).  
+[1.]() Have an idea or suggestion ? 
+Create an issue and share it with us. 
+Every idea is welcome, respected, and thoughtfully considered. Together, we can make this project even better.⚡️ (use **new idea label**).  
+
+
 [2.]() Fork and submit a pull request with your idea — see [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTING.md). ⊹🔭๋
 
 
