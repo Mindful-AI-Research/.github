@@ -268,8 +268,9 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 
 <br>
 
+### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
 
-##### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
+
 
  <p align="center">
   <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
@@ -278,7 +279,9 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 </p>
 
 
-###### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED , BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION !*** 🖤
+#### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
+
+###### <p align="center"> 🪷 ***LET’S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED , BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION !*** 
 
  <br><br>
 
