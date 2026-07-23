@@ -1,3 +1,4 @@
+<!--STARET  🇬🇧English LANGUAGE BUTTON  --  -->
 <br>
 
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
