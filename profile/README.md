@@ -102,8 +102,8 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/sponsors/Mindful-AI-Research">
-    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor Mindful AI Assistants" height="28">
-  </a>
+  <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI 𖤐 ⋆" height="28">
+</a>
 </p>
 
 
