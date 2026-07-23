@@ -1,3 +1,4 @@
+<!--STARET  🇬🇧English LANGUAGE BUTTON  --  -->
 <br>
 
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
@@ -6,14 +7,14 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
+⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[✦](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-　　　　　　*　　　　　　　　　　　.　✦
+　　　　　　*　　　　　　　　　　　.　
 　　　　　　*　　　　　　　　. 　　
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
- 　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝛹](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c)  𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚   .⭒⋅⊹｡
+ 　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝚿](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c) *𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚*  .⭒⋅⊹｡
 　　　　　　　　　　　　　.
 　　　　　　*⠀　　⠀  　　　　　　　　　　　　
 
@@ -30,89 +31,97 @@
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
 
 
- <br> <br>
+ <br><br>
   <!--  START HEADER   -->
+
+
 
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
 
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 
- <br>
-
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 
 
-<br>
 
-###### <p align="center">  𖤐 Curated AI Knowledge, Learning & Perspectives*  𖤐
 
+<!--   START Reference Readings   -- GRAY SMALL REGULAR-->
+ <br> 
+ 
+###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
 ###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf) *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026* ✧
 
-<!--
-###### <p align="center"> 𖤐 [Goolge Prompt Engineering Paper - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a318b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) 𖤐
--->
+ <br>
+<!--   END Reference Readings   -- GRAY SMALL REGULAR-->
 
 
-⠀⠀⠀⠀⠀⠀.　　　　　　　　　　✦ 　　　　　　　　　　　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.
-⠀⠀⠀⠀⠀
 
 
+⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
+.　　　　　　　　　　　　　. 　　⠀　  
+　　　　　　　　⠀　　, 　　　,　　　　　　　　　*          
+⠀⠀⠀⠀⠀⠀⠀
+　　　
 
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 
-<br><br>
+⠀⠀⠀⠀⠀..
+.　　　　　　　　　　　　　. 　　⠀　  
+　　　　　　　.　　　ﾟ .　　　　　　　　　　　　.       
+　　　　　　　⠀  　　　　　⠀　
 
- ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)** ✯
+
+### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 
 
 <br>
 
 
-
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
-###### <p align="center"> *A visual reflection on digital consciousness and human identity*
+###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
-###### <p align="center"> 🎶 *Creation by Fabi* 🖤
+<br>
 
+#
 
+<br>
 
+### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub>
+### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
-<br><br>
-
-#### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐]() *Discover your essence* </sub>
-#### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2) in the infinity field of possibilities... [⚝]()* </sub>
-
-  <br><br>
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44)]([https://github.com/sponsors/Mindful-AI-Assistants](https://committers.top/brazil_public))
+ <br><br>
 
 
+  
+<p align="center">
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
+  <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI 𖤐 ⋆" height="28">
+</a>
+  &nbsp;&nbsp;
+ <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
+    <img src="https://img.shields.io/badge/🇧🇷_Top_Committer-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
+  </a>
+</p>
 
-<br><br>
+
+
+
+<br>
 
 
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
 
 
- <br>
-
 
 #### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
 
 
- <br>
- 
-#### <p align="center"> <sub>  ✠ [Lo Ringraziamo Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 
-
-
-
+#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 
 
 <br><br>
@@ -120,12 +129,9 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ## [About Us]()
 
-<br><br>
+𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
-
-𖤐 **Mindful AI**  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
-
-Founded by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
+Founded by [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
@@ -137,17 +143,8 @@ Her multidisciplinary journey bridges technology, human behavior, cognition, and
 [𖤐]() Collective Intelligence <br>
 [𖤐]() Human-Centered Design
 
-<br><br><br>
+<br><br>
 
-
-<p align="center">
-  <a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img src="https://user-badge.committers.top/brazil/FabianaCampanari.svg" alt="committers.top badge">
-  </a>
-</p>
-
-
-<br><br><br>
 
 We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
 
@@ -159,7 +156,7 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 ## [Our Mission]()
 
-To design and develop intelligent systems that amplify human potential, while ensuring:
+</sub>To design and develop intelligent systems that amplify human potential, while ensuring:</sub>
 
 [-]()  Ethical alignment <br>
 [-]()  Responsible innovation <br>
@@ -168,7 +165,7 @@ To design and develop intelligent systems that amplify human potential, while en
 
 <br>
 
-[**We believe true progress is not only technological ; but human, ethical, and conscious.**]()
+</sub>We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()</sub>
 
 
 <br>
@@ -180,20 +177,16 @@ To design and develop intelligent systems that amplify human potential, while en
 > <br>
 >
 
-
-
 <br><br>
 
 
 ##  [Governance & Responsible AI]()
 
-We embed **AI Governance by Design** into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.
+</sub>We embed [**AI Governance by Design**]() into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.</sub>
 
 <b><b>
 
 [***Our approach is guided by***:]()
-
-<b>
 
 [-]()  🇧🇷 Brazilian AI Strategy  <br>
 [-]() 🌍 Global Responsible AI frameworks  <br>
@@ -203,14 +196,10 @@ We embed **AI Governance by Design** into every solution — ensuring that intel
 
 [***We design systems that are***:]()
 
-<br>
-
 [-]()  Explainable  <br>
 [-]()  Auditable  <br>
 [-]()  Secure  <br>
 [-]()  Human-centered and aligned with societal values  <br>
-
-
 
 
 <br><br>
@@ -218,15 +207,15 @@ We embed **AI Governance by Design** into every solution — ensuring that intel
 
 ##  [Governance, Risk & Compliance (GRC)]()
 
-At Mindful AI, compliance is a Core Pillar,  Not an Afterthought.
+At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 
-[***We operationalize governance through structured **risk management, regulatory alignment, and continuous oversight.***]()
+<sub>We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.</sub>
 
-<br><br>
+<br>
 
 [***Our framework ensures alignment with:***]()
 
-[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]()  🇧🇷 Alignment with the Brazilian AI Strategy <br>
 [-]()  🇪🇺 EU AI Act  <br>
 [-]()  🔐 Data protection regulations (LGPD/GDPR principles) 
 
@@ -234,18 +223,19 @@ At Mindful AI, compliance is a Core Pillar,  Not an Afterthought.
 
 [***Our approach integrates:***]()
 
-<br>
-
 [-]()  Risk assessment and mitigation <br> 
+
 [-]()  Continuous monitoring, auditing, and lifecycle management  <br>
+
 [-]()  Regulatory compliance and documentation practices  <br>
+
 [-]()  Transparency, explainability, and verifiable trustworthiness — ensuring AI systems are interpretable, auditable, aligned with global standards, and grounded in truthful, evidence-based, and reproducible outputs  
 
 <br><br>
 
 ## [What We Offer]()
 
-Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
+</sub>Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:</sub>
 
 <br>
 
@@ -254,33 +244,13 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 [-]() Automate complex workflows <br>
 [-]() Scale intelligent systems responsibly
 
+#
+
+<br>
+
+### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
 
 
-<br><br>
-
-
-˚　　　　✦　　　.　　. 　 ˚　.　　　 . ✦　　　 　˚　　　　 . ★⋆　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
-
-　✭　.　　. 　 ˚　.˚　　🛸　🛸　　. 　 ˚　.　　　　 . ✦　　　 　˚　　　　 . ★⋆　.   　　˚　✯✭　 🛰　　　*　　 　　✦　　　.　　.　　　　*　　 　　✦　　　. 　　*　　 　🛰　　　✦　　　.  
-
-
-
-<br><br>
-
-
-
-### <p align="center" style="font-size: 1000px"> .𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add) ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚.𖥔 ݁ ˖ִ ࣪⚝₊ ⊹˚
-
-
-
-
-
-<br><br><br>
-
- #### <p align="center"> ***LET’S BUILD A COMMUNITY WHERE [DIFFERENCE]() IS NOT [JUDGED]() , BUT RECOGNIZED AS A [SOURCE OF INTELLIGENCE AND INNOVATION]()!***
-
- <br><br>
-  
 
  <p align="center">
   <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
@@ -289,19 +259,13 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 </p>
 
 
-<br><br>
+#### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
 
-
-
-### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-
-
+###### <p align="center"> 🪷 ***LET’S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED , BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION !*** 
 
  <br><br>
 
 ## [Core Technologies]()
-
-<br>
 
 [-]() Generative AI <br>
 [-]() Content generation, summarization, ideation, and creative intelligence <br>
@@ -325,7 +289,7 @@ Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:
 
 ## [Strategic Value]()
 
-Our solutions enable organizations to:
+</sub>Our solutions enable organizations to:</sub>
 
 [-]() Optimize performance <br>
 [-]() Enhance productivity <br>
@@ -337,11 +301,9 @@ Our solutions enable organizations to:
 
 ## [Open Source Approach]()
 
-We believe in collective intelligence.
+</sub>We believe in collective intelligence.
 
 [***Our open-source model promotes:***]()
-
-<br>
 
 [𖤐]() Collaboration <br>
 [𖤐]() Transparency <br>
@@ -361,15 +323,13 @@ We believe in collective intelligence.
 
 ## [Philosophy]()
 
-We embrace the idea that:
+</sub>We embrace the idea that:</sub>
 
 Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Experienced***](), and [***Lived***]().
 
 <br>
 
 [***We explore the intersection of:***]()
-
-<br>
 
 [-]() Consciousness <br>
 [-]() Intelligence <br>
@@ -380,24 +340,49 @@ Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Exp
 
 [***At Mindful AI:***]()
 
-<br>
-
 [𖤐]() Code is intention <br>
 [𖤐]() Systems are extensions of thought <br>
-[𖤐]() Innovation is a collective awakening <br>
+[𖤐]() Innovation is a collective awakening 
 
 <br><br>
 
 
-## [Get Involved]()
+## 𖤐 [Contribute]()
 
-Ready to join the Mindful AI ecosystem? Here's where to start:
+</sub>Every contribution—big or small—helps make this project better. We'd love to hear your ideas and collaborate with you.</sub>
 
 <br>
 
-[-]() ⭐ Star the repositories you find useful <br>
-[-]() 💬 Open an issue with your idea or feedback <br>
-[-]() 🔀 Submit a pull request — see the [Contribution](#-contribution) section below
+## 🛸 [Get Involved & Spread the Word]()
+
+</sub>Ready to join the Mindful AI ecosystem? Here are a few ways you can help:</sub>
+
+[-]() ⭐ If this project has been helpful, consider giving it a star. It helps others discover the project and supports the community. <br>
+
+[-]() Share your ideas, suggestions, or feedback by opening an issue. <br>
+
+[-]()  Contribute code or improvements by submitting a pull request.
+
+<br>
+
+### 💡 Have an idea?
+
+Create an issue and tell us about it.
+
+[**Every idea is welcome, respected, and thoughtfully considered.**]() Whether it's a new feature, an improvement, a bug report, documentation, or simply a different perspective, we'd love to hear from you.
+
+Please use the **`new idea`** label when submitting new suggestions. ⚡
+
+<br>
+
+### 🔭 Ready to contribute?
+
+Fork the repository and submit a pull request.
+
+Before getting started, please read our **[Contribution Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTING.md)** for contribution guidelines and best practices.
+
+Together, we can build something meaningful for everyone. 💙
+
 
 
 <br><br>
@@ -409,11 +394,7 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 <br><br>
 
      
- ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
-
-
-
+### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
 
 
 #
@@ -421,9 +402,8 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 
 <br><br>
 
-
  
- ## [Overview and Comparison of Common]() ***Supervised*** [Machine Learning Algorithms]() (Part 1)
+## [Overview and Comparison of Common]() ***Supervised*** [Machine Learning Algorithms]() (Part 1)
 
 <br>
 
@@ -474,11 +454,11 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 </p>
 
 
-#### <p align="center"> [***Learn AI for Free from the world's leading AI companies 🪷  turn knowledge into wisdom***](https://jazzy-gingersnap-38b5e2.netlify.app/)
+
 
 <br>
 
-### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  ZΞΝ  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
+### <p align="center">  🦋˖𓂃🌸˖ ִֶָ🦩˖·🎀˳⋆ ִֶָ🌺 ִֶ˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖˳·🦩˖🎀˳⋆ ִֶָ🌺 ִֶ  [ZΞΝ](https://github.com/user-attachments/assets/7b8e4ed5-e6b9-4c84-bc1a-ef2046767add)  🌷𓍢 ִֶָ🍄⋆˳·🌸˖ ִֶָ🌷𓍢˖·🌹˖˳·🦩˳ ִֶ˖⋆˳·🌸˖ ִֶָ 🌷𓍢˖·🌹˖·🌸˖🍄⋆˳·🌸˖ ִֶָ 🌷
 
 
 
@@ -533,20 +513,16 @@ Ready to join the Mindful AI ecosystem? Here's where to start:
 
 ## 𖤐 [Contribution]()
 
-You can contribute in two ways:  
+</sub>You can contribute in two ways:</sub>  
 
 <br>
 
-[1.]() Create an issue and share your idea ⚡️ (use **new idea label**).  
-[2.]() Fork and submit a pull request with your idea — see [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTING.md). ⊹🔭๋
+[1.]() Have an idea or suggestion ? 
+Create an issue and share it with us. 
+Every idea is welcome, respected, and thoughtfully considered. Together, we can make this project even better.⚡️ (use **new idea label**).  
 
 
-<br><br>
-
-## 🌎 [Spread the word!]()  
-
-If this repo helped you, give it a star 🌟. Let’s grow the community together!  
-
+[2.]() Fork and submit a pull request with your idea; see [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTING.md). ⊹🔭๋
 
 
 <br><br>
@@ -556,24 +532,34 @@ If this repo helped you, give it a star 🌟. Let’s grow the community togethe
 
 <br>
 
-###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of 42+ collaborators*
+###### <p align="center"> *Showcasing our top contributors — explore the [full community](https://github.com/orgs/Mindful-AI-Assistants/people) of [40+]() collaborators*
 
 <br><br>
 
+
 > [!TIP]
->
 > **Core Contributors**
 >
-> * [**Fabiana ⚡️ Campanari**](https://github.com/FabianaCampanari) – — Founder · Designer · Software Developer · Psychologist · Researcher (PUC–SP) 
+> ⟡ [Fabiana ⚡ Campanari]() — Founder · BSc in Human-Centered Data Science & Psychology (PUC-SP) · Researcher in Human-Centered AI & Data Science (PUC-SP) · Software Developer · Designer · Psychologist  
 >
-> * [**Prof. Dr. Daniel Gatti**](https://www.linkedin.com/in/dgatti/) –  Academic Advisor (PUC–SP)
+> ⟡ [Andson Ribeiro](https://github.com/andsonandreribeiro09) — BSc in Human-Centered Data Science (PUC-SP) · Postgraduate in TIDD — Intelligent Technologies and Digital Design (PUC-SP)  
 >
-> * [**Pedro Vyctor**](https://github.com/ppvyctor) - Contributor (PUC–SP)  
+> ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — BSc in Human-Centered AI & Data Science  
 >
-> * [**Andson Ribeiro**](https://github.com/andsonandreribeiro09) - Contributor (PUC–SP)  
-> <br>
->
+> *Ordered by level of contribution to the project*
 
+
+<br><br>
+
+
+> [!NOTE]
+> **CDIA — Human-Centered AI & Data Science (PUC-SP)**
+>
+> ✦ [Prof. Dr. Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/) — Director  
+>
+> ✦ [Prof. Dr. Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/) — Coordinator  
+>
+> ✦ [Prof. Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) — Academic Advisor (TIDD — Intelligent Technologies and Digital Design, PUC-SP)
 
 
 <br><br>
