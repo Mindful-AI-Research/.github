@@ -1,9 +1,5 @@
-<!--STARET  🇬🇧English LANGUAGE BUTTON  --  -->
-<br>
-
+<!--STARET  🇬🇧English LANGUAGE BUTTON  -->
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
-
-<br><br>
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
@@ -21,36 +17,29 @@
 　　　　.　　　　.　　　⠀
 　　　　　　　　　　　.   
 　　　　　　　
-　　　˚　　　　　　　　　　　　　.     
+　　　˚　　　　　⠀[𖤐](https://github.com/user-attachments/assets/f239865a-de13-4975-a3fd-54d2bb456e01)　　　　　　　　　.     
 
  .⠀　　⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀‍⠀,    
 　　　*　　⠀.
-　　　　　.　　　　　　　　　　⠀[𖤐](https://github.com/user-attachments/assets/f239865a-de13-4975-a3fd-54d2bb456e01)
+　　　　　.　　　　　　　　　
 　˚　　　　　　　　　　　　　　
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
-
-  <!--  START HEADER   -->
+<!--  START HEADER   -->
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
 
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-
-
+⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
 
 
 <!--   START Reference Readings   -- GRAY SMALL REGULAR-->
- <br> 
- 
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
 ###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf) *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026* ✧
 
- <br>
+
 <!--   END Reference Readings   -- GRAY SMALL REGULAR-->
-
-
-
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
 .　　　　　　　　　　　　　. 　　⠀　  
