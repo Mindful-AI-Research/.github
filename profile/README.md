@@ -43,34 +43,19 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 
 
+
+
+<!--   START Reference Readings   -- GRAY SMALL REGULAR-->
  <br> 
+ 
+###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
-<!-- ###### <p align="center">⋆Reference Readings   -- GRAY SMALL REGULAR-->
-<!-- ###### <p align="center"> *Reference Readings*  -- GRAY MEDIUM ITALIC-->
-
-###### <p align="center">⋆Curated AI Learning Resources⋆ 
-
-###### <p align="center">[↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf) *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026*
-
-</p>
-
-
-
-
- <!-- 
-
-###### <p align="center">  [On the Economic and Governance Mechanisms for the Agentic Web:  A Global South Perspective](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf), 𖤐
-
-###### <p align="center"> 𖤐 [AI for the Good of All - Brazilian Artificial Intelligence Plan - Dec / 2025](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) 𖤐
-
-
-###### <p align="center"> 𖤐 [Stanford AI Experts Predict What Will Happen in 2026](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) 𖤐
-𖤐
-
--->
-
+###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf) *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026* ✧
 
  <br>
+<!--   END Reference Readings   -- GRAY SMALL REGULAR-->
+
+
 
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
