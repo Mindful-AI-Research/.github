@@ -101,10 +101,12 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
     <img src="https://img.shields.io/badge/🇧🇷_Top_Committer-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
     <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor Mindful AI Assistants" height="28">
   </a>
 </p>
+
+
 
 
 <br>
