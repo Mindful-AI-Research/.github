@@ -4,7 +4,7 @@ numpy==2.5.1
 
 
 # Bibliotecas para visualização de dados
-matplotlib==3.10.8
+matplotlib==3.11.1
 seaborn==0.13.2
 
 # Bibliotecas p
