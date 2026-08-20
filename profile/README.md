@@ -1,4 +1,4 @@
-<!--STARET  🇬🇧English LANGUAGE BUTTON  -->
+<!--START  🇬🇧English LANGUAGE BUTTON  -->
 ##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
@@ -84,8 +84,6 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
     <img src="https://img.shields.io/badge/🇧🇷_Top_Committer-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
   </a>
 </p>
-
-
 
 
 <br>
