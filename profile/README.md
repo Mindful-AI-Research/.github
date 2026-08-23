@@ -518,12 +518,15 @@ Every idea is welcome, respected, and thoughtfully considered. Together, we can 
 >
 > ⟡ [Fabiana ⚡ Campanari]() — Founder · BSc in Human-Centered Data Science & Psychology (PUC-SP) · Researcher in Human-Centered AI & Data Science (PUC-SP) · Software Developer · Designer · Psychologist  
 >
-> ⟡ [Andson Ribeiro](https://github.com/andsonandreribeiro09) — BSc in Human-Centered Data Science (PUC-SP) · Postgraduate in TIDD — Intelligent Technologies and Digital Design (PUC-SP)  
+> ⟡ [Andson Ribeiro](https://github.com/andsonandreribeiro09) — BSc in Human-Centered Data Science (PUC-SP) · Postgraduate in TIDD — Intelligent Technologies and Digital Design (PUC-SP)
+
+
+<!--
 >
 > ⟡ [Pedro Vyctor](https://github.com/ppvyctor) — BSc in Human-Centered AI & Data Science  
 >
 > *Ordered by level of contribution to the project*
-
+-->
 
 <br><br>
 
