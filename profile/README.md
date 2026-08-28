@@ -80,9 +80,8 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
   <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI 𖤐 ⋆" height="28">
 </a>
   &nbsp;&nbsp;
- <a href="
-https://committers.top/brazil_public">
-    <img src="https://img.shields.io/badge/🇧🇷_Top_Committer-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
+ <a href="https://committers.top/brazil_public">
+    <img src="https://img.shields.io/badge/🇧🇷_Top_Contributors-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
   </a>
 </p>
 
