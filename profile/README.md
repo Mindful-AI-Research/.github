@@ -58,28 +58,34 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 <br>
 
 
+<!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
 <br>
+<!-- ========= ENDT VIDEO ========= -->
 
-#
-
-<br>
 
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub>
 ### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
- <br><br>
+
+<br>
+
+#
+
+<br><br>
 
 
-  
+
+
+<!-- ========= START SPONSOR BADGE ========= -->
 <p align="center">
   <a href="https://github.com/sponsors/Mindful-AI-Research">
-  <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=flat-square&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI 𖤐 ⋆" height="28">
-</a>
-  &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆">
+  </a>
+   &nbsp;&nbsp;
  <a href="https://committers.top/brazil_public">
     <img src="https://img.shields.io/badge/🇧🇷_Top_Contributors-Brazil-00FFFF?style=flat-square&logoColor=white&labelColor=0a1f44" alt="committers.top badge" height="28">
   </a>
@@ -87,8 +93,10 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 
 <br>
+<!-- ========= END SPONSOR BADGE ========= -->
 
 
+<!-- ========= START DA VINCI  REF ========= -->
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
 
 
@@ -99,8 +107,9 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 #### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 
+<br><br><br>><br>
+<!-- ========= END DA VINCI  REF ========= -->
 
-<br><br>
 
 
 ## [About Us]()
