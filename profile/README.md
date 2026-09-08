@@ -47,6 +47,10 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
 .　　　　　　　　　　　　　. 　　⠀　  
 　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  
+      
+
+<br>
+
 <!-- ========= Start SPONSOR BADGE ========= -->
 <p align="center">
 
@@ -73,7 +77,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 </p>
 
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf)[A Definition of AGI]
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
 
 <br><br>
 
