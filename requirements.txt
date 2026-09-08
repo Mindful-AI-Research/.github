@@ -4,7 +4,7 @@ numpy==2.5.1
 
 
 # Bibliotecas para visualização de dados
-matplotlib==3.10.8
+matplotlib==3.11.1
 seaborn==0.13.2
 
 # Bibliotecas p
@@ -16,21 +16,23 @@ scikit-learn==1.9.0
 
 # Bibliotecas para machine learning
 tensorflow==2.21.0
-keras==3.13.2
+keras==3.15.0
 
 # Bibliotecas para web scraping
 beautifulsoup4==4.15.0
 requests==2.33.0
 
 # Bibliotecas para trabalhar com bancos de dados
-sqlalchemy==2.0.51
+
 psycopg2-binary==2.9.12
+sqlalchemy==2.0.52
+
 
 # Bibliotecas para Jupyter Notebook
 jupyter==1.1.1
-notebook==7.5.6
+notebook==7.6.2
 ipywidgets==8.1.8
-notebook==7.5.6
+notebook==7.6.2
 ipywidgets==8.1.8
 
 
