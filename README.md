@@ -32,59 +32,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
 
-$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
-
-
-　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
-
-<!--   START Reference Readings   -- GRAY SMALL REGULAR-->
-###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
-
-###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf)   *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026*  · [↗](https://github.com/Mindful-AI-Research/.github/blob/bb9041c852dee6cae224c7b1965f66d7ae96013d/Mission%20Intelligence_WAIC%20Report_2026.pdf) *Mission Intelligence · WAIC Report · 2026* ✧
-<!--   END Reference Readings   -- GRAY SMALL REGULAR-->
-
-⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
-.　　　　　　　　　　　　　. 　　⠀　  
-　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  
-
-
-
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
-<br>    
-
-
-<!-- ========= Start SPONSOR BADGE ========= -->
-<p align="center">
-
-  <a href="https://github.com/sponsors/Mindful-AI-Research">
-    <img
-      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
-      alt="Sponsor ॐ Mindful AI ⋆ Research & Consulting 𖤐"
-      height="36"
-  </a>
-</p>
-<!-- ========= END SPONSOR BADGE ========= -->
-
-⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
-　　　　　　　⠀  　　　　　⠀　
-.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.       
-　　　　　　　⠀  　　　　　⠀　
-### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
-
-###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
-　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀　　　　　　　⠀  　　　　　⠀
-<!-- ========= START VIDEO ========= -->
-https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
-
-###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
-<!-- ========= ENDT VIDEO ========= -->
-
-#
-
-<br>
-
-
 <!-- ========= START DA VINCI  REF ========= -->
 <!--  
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Study the science of art. Study the art of science… Realize that everything connects to everything else*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
@@ -95,7 +42,61 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 -->
 
-<h4 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.}  \space \textbf{\color{DodgerBlue}Study the art of science…}  \space \textbf{\color{DeepSkyBlue}Realize that everything connects} \space \textbf{\color{LightSkyBlue}to everything else}}$$
+<div align="center">
+
+$$\Huge{
+\textbf{\color{#0057D9}Study}
+\space
+\textbf{\color{#1265DA}the}
+\space
+\textbf{\color{#2474DC}science}
+\space
+\textbf{\color{#3583DE}of}
+\space
+\textbf{\color{#4692E0}art.}
+\space
+\textbf{\color{#579FE1}Study}
+\space
+\textbf{\color{#67ABE0}the}
+\space
+\textbf{\color{#76B6DF}art}
+\space
+\textbf{\color{#83C0DD}of}
+\space
+\textbf{\color{#8BC8DA}science.}
+\space
+\textbf{\color{#83C0DD}Develop}
+\space
+\textbf{\color{#76B6DF}your}
+\space
+\textbf{\color{#67ABE0}senses ...}
+}$$
+
+$$\Huge{
+\textbf{\color{#579FE1}Especially}
+\space
+\textbf{\color{#4692E0}learn}
+\space
+\textbf{\color{#3583DE}how}
+\space
+\textbf{\color{#2474DC}to see.}
+\space
+\textbf{\color{#1265DA}Realize}
+\space
+\textbf{\color{#0057D9}that}
+\space
+\textbf{\color{#1265DA}everything}
+\space
+\textbf{\color{#2474DC}connects}
+\space
+\textbf{\color{#3583DE}to}
+\space
+\textbf{\color{#4692E0}everything}
+\space
+\textbf{\color{#579FE1}else.}
+}$$
+
+</div>
 
 
 <br>
@@ -111,6 +112,64 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 
 
+
+$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
+
+
+　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
+⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
+
+<!--   START Reference Readings   -- GRAY SMALL REGULAR-->
+###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
+
+###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf)   *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026*  · [↗](https://github.com/Mindful-AI-Research/.github/blob/bb9041c852dee6cae224c7b1965f66d7ae96013d/Mission%20Intelligence_WAIC%20Report_2026.pdf) *Mission Intelligence · WAIC Report · 2026* ✧
+<!--   END Reference Readings   -- GRAY SMALL REGULAR-->
+
+⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
+.　　　　　　　　　　　　　. 　　⠀　  
+　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  　　　　　　　　⠀ V　　　　　　　*  
+
+
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
+<br>    
+　⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　⠀  　　　　　⠀　
+<!-- ========= Start SPONSOR BADGE ========= -->
+<p align="center">
+
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
+    <img
+      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
+      alt="Sponsor ॐ Mindful AI ⋆ Research & Consulting 𖤐"
+      height="36"
+  </a>
+</p>
+<!-- ========= END SPONSOR BADGE ========= -->
+
+⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.       
+　　　　　　　⠀  　　　　　⠀　
+### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
+
+　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀　　　　　　　⠀  　　　　　⠀
+<!-- ========= START VIDEO ========= -->
+https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
+
+###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
+
+<br>
+<!-- ========= ENDT VIDEO ========= -->
+
+
+#
+
+<br>
+
+###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
+
+<br><br><br>
+
+<!-- ========= START ABOUT US ========= -->
 ## [About Us]()
 
 𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
