@@ -42,7 +42,61 @@
 
 -->
 
-<h4 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.}  \space \textbf{\color{DodgerBlue}Study the art of science…}  \space \textbf{\color{DeepSkyBlue}Realize that everything connects} \space \textbf{\color{LightSkyBlue}to everything else}}$$
+<div align="center">
+
+$$\Huge{
+\textbf{\color{#0057D9}Study}
+\space
+\textbf{\color{#1265DA}the}
+\space
+\textbf{\color{#2474DC}science}
+\space
+\textbf{\color{#3583DE}of}
+\space
+\textbf{\color{#4692E0}art.}
+\space
+\textbf{\color{#579FE1}Study}
+\space
+\textbf{\color{#67ABE0}the}
+\space
+\textbf{\color{#76B6DF}art}
+\space
+\textbf{\color{#83C0DD}of}
+\space
+\textbf{\color{#8BC8DA}science.}
+\space
+\textbf{\color{#83C0DD}Develop}
+\space
+\textbf{\color{#76B6DF}your}
+\space
+\textbf{\color{#67ABE0}senses ...}
+}$$
+
+$$\Huge{
+\textbf{\color{#579FE1}Especially}
+\space
+\textbf{\color{#4692E0}learn}
+\space
+\textbf{\color{#3583DE}how}
+\space
+\textbf{\color{#2474DC}to see.}
+\space
+\textbf{\color{#1265DA}Realize}
+\space
+\textbf{\color{#0057D9}that}
+\space
+\textbf{\color{#1265DA}everything}
+\space
+\textbf{\color{#2474DC}connects}
+\space
+\textbf{\color{#3583DE}to}
+\space
+\textbf{\color{#4692E0}everything}
+\space
+\textbf{\color{#579FE1}else.}
+}$$
+
+</div>
 
 
 <br>
