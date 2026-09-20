@@ -35,8 +35,8 @@
 
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
-
 .　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　　　　　　✦ 　　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
+ .　　　　　.     　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
 
 $$
 \Huge{
