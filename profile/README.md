@@ -24,6 +24,7 @@
 　˚　　　　　　　　　　　　　　
 .⠀ 　　　　　　　　　　.　　　　　　　　.
 　　　　　✦⠀　   　　　,　　    　　　　　　　　.
+
 <!--  START HEADER   -->
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
 
@@ -70,7 +71,7 @@ $$
 \color{#67ABE0}{\textbf{senses ...}}
 }
 $$　  ⠀⠀⠀
-   .　　　　　.     　　. 　　　　✦ 　　　　　,　　　　　　　.　　　　　.　　　　　　　　　,　　　　　　　.　　　　　.
+   .　　　　　.     　　. 　　　　🛸 　　　　　,　　　　　　　.　　　　　.　　　　　　　　　,　　　　　　　.　　　　　.
  ⠀⠀⠀
 $$
 \Huge{
