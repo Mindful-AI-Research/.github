@@ -76,6 +76,24 @@
 <!-- ========= End MINDFUL AI ORGANIZATION BADGE ========= -->
 
 
+<!-- ========= Start MINDFUL AI ORGANIZATION BADGE ========= -->
+
+<p align="center">
+
+  <a href="https://github.com/Mindful-AI-Research">
+    <img
+      src="https://img.shields.io/badge/%E2%9C%A6%20%E2%94%80%E2%94%80%E2%94%80%20%E0%A5%90%20Mindful%20AI%20%E2%94%80%E2%94%80%E2%94%80%20%E2%9C%A6-07111F?style=for-the-badge&logo=github&logoColor=white&labelColor=3A424C"
+      alt="✦ ─── ॐ Mindful AI ─── ✦"
+      height="42"
+    />
+  </a>
+
+</p>
+<!-- ========= End MINDFUL AI ORGANIZATION BADGE ========= -->
+
+
+
+
 
 
 <div align="center">
