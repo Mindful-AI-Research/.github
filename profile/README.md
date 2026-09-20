@@ -32,86 +32,78 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
 
+$$
+\Huge{
+\color{#0057D9}{\textbf{Study}}
+\space
+\color{#1265DA}{\textbf{the}}
+\space
+\color{#2474DC}{\textbf{science}}
+\space
+\color{#3583DE}{\textbf{of}}
+\space
+\color{#4692E0}{\textbf{art.}}
+\space
+\color{#579FE1}{\textbf{Study}}
+\space
+\color{#67ABE0}{\textbf{the}}
+\space
+\color{#76B6DF}{\textbf{art}}
+\space
+\color{#83C0DD}{\textbf{of}}
+\space
+\color{#8BC8DA}{\textbf{science.}}
+\space
+\color{#83C0DD}{\textbf{Develop}}
+\space
+\color{#76B6DF}{\textbf{your}}
+\space
+\color{#67ABE0}{\textbf{senses ...}}
+}
+$$
 
+　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
 
-
-<div align="center">
-
-$$\Huge{
-\textbf{\color{#0057D9}Study}
+$$
+\Huge{
+\color{#579FE1}{\textbf{Especially}}
 \space
-\textbf{\color{#1265DA}the}
+\color{#4692E0}{\textbf{learn}}
 \space
-\textbf{\color{#2474DC}science}
+\color{#3583DE}{\textbf{how}}
 \space
-\textbf{\color{#3583DE}of}
+\color{#2474DC}{\textbf{to}}
 \space
-\textbf{\color{#4692E0}art.}
+\color{#1265DA}{\textbf{see.}}
 \space
-\textbf{\color{#579FE1}Study}
+\color{#0057D9}{\textbf{Realize}}
 \space
-\textbf{\color{#67ABE0}the}
+\color{#1265DA}{\textbf{that}}
 \space
-\textbf{\color{#76B6DF}art}
+\color{#2474DC}{\textbf{everything}}
 \space
-\textbf{\color{#83C0DD}of}
+\color{#3583DE}{\textbf{connects}}
 \space
-\textbf{\color{#8BC8DA}science.}
+\color{#4692E0}{\textbf{to}}
 \space
-\textbf{\color{#83C0DD}Develop}
+\color{#579FE1}{\textbf{everything}}
 \space
-\textbf{\color{#76B6DF}your}
-\space
-\textbf{\color{#67ABE0}senses ...}
-}$$
-
-$$\Huge{
-\textbf{\color{#579FE1}Especially}
-\space
-\textbf{\color{#4692E0}learn}
-\space
-\textbf{\color{#3583DE}how}
-\space
-\textbf{\color{#2474DC}to see.}
-\space
-\textbf{\color{#1265DA}Realize}
-\space
-\textbf{\color{#0057D9}that}
-\space
-\textbf{\color{#1265DA}everything}
-\space
-\textbf{\color{#2474DC}connects}
-\space
-\textbf{\color{#3583DE}to}
-\space
-\textbf{\color{#4692E0}everything}
-\space
-\textbf{\color{#579FE1}else.}
-}$$
-
-</div>
-
+\color{#67ABE0}{\textbf{else.}}
+}
+$$
 
 <br>
 
-#### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
-
-
-
-#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
-
-<br><br><br>
-<!-- ========= END DA VINCI  REF ========= -->
-
-
-
+  　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
 
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
-
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
+#### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
+#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
+<!-- ========= END DA VINCI  REF ========= -->
 　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
-
+⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    
 <!--   START Reference Readings   -- GRAY SMALL REGULAR-->
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
@@ -123,8 +115,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  　　　　　　　　⠀ V　　　　　　　*  
 
 
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
-<br>    
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*  
 　⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　⠀  　　　　　⠀　
 <!-- ========= Start SPONSOR BADGE ========= -->
 <p align="center">
