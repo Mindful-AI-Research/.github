@@ -105,6 +105,7 @@ $$
 <!-- ========= END DA VINCI  REF ========= -->
 　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    
+　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
 <!--   START Reference Readings   -- GRAY SMALL REGULAR-->
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
@@ -113,7 +114,6 @@ $$
 
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 
 　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  　　　　　　　　⠀ 　　　　　　　*  
-
 
 ###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*  　
 <!-- ========= Start SPONSOR BADGE ========= -->
@@ -136,10 +136,8 @@ $$
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
-
 <!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
-
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
       
 ###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
@@ -147,12 +145,7 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 <br>
 <!-- ========= ENDT VIDEO ========= -->
 
-
-
-#
-
-<br>
-
+　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
 
 
 <br><br><br>
