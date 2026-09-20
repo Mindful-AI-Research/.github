@@ -98,7 +98,6 @@ $$
 }
 $$
 
-<br>
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
 
 #### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
@@ -136,13 +135,13 @@ $$
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
-<br>
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
 
 <!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
-<br>
-
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+      
 ###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
 <br>
