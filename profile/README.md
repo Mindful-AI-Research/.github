@@ -36,11 +36,17 @@
 
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
-.　　,　　　　　　　.　　　　     　.     　　. 　　　　　　　　　　　　　　　　 　　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　 ⠀⠀⠀.　.　　　　　.     　,　　　　　　　.               　　　　　　　　　. ⠀⠀⠀⠀
- .　　　　　.     　,　　　　　　　.                 .　　　　　.     　,　                           　　　　　.
 
-  ⠀.　　　　　　　　　　. ⠀⠀⠀⠀　                        　.   .　　　　.　　　　　.     　,　　　　　　　.               .　　　　　.     　,　　　　　　　.      
+
+.　　,　　　　　　　.　　　　     　.     　　. 　　　　　　　　　　　　　　　　 　　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　 ⠀⠀⠀.　.　　　　　.     　,　　　　　　　.    
+
+. ⠀⠀⠀⠀
+ .　　　　　.     　,　　　　　　　.           .　　　　　    　,　                          　.     　　,　　　　　　　.　　　　     　.     　　. 　　
+
+
+  ⠀.　　　　　　　　　　. ⠀⠀⠀  　. ⠀         　. ⠀       　.   .　　  🛸 　　.　　   　　　.     　,　　　　　　　.               .　　　　　.     　,　　　　　　　.      
   
+
 <br>
 
 $$
@@ -102,7 +108,7 @@ $$
 }
 $$
 
-  ⠀　🛸　　　　　,　　　　　　　.　　　　　.   .　　　　　.     　　. 　　　  　　　　,　　　　　　　.　　　　　.     　　　　,　　　　　　　.　　
+  ⠀　✦⠀　　　　　,　　　　　　　.　　　　    　       　. 　　　  　　　　,　　　　　         　　.　　　　　.     　　　　,　　　　　　　.　　
   
 #### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
 #### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
@@ -136,6 +142,8 @@ $$
   </a>
 </p>
 <!-- ========= END SPONSOR BADGE ========= -->
+
+    
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
 
       
@@ -144,6 +152,7 @@ $$
 　　　　　　                    
                              . ⠀⠀⠀⠀　　. 　　　　　　　　　    　                 ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀
 ⠀  　　　　　
+
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　                                                           .　　　　　　　　　　　　.   
