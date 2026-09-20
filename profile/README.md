@@ -31,16 +31,21 @@
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
+<!-- ========= Start MINDFUL AI ORGANIZATION BADGE ========= -->
 
-<!-- ========= START DA VINCI  REF ========= -->
-<!--  
-### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Study the science of art. Study the art of science… Realize that everything connects to everything else*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
+<p align="center">
 
+  <a href="https://github.com/Mindful-AI-Research">
+    <img
+      src="https://img.shields.io/badge/%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research-07111F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=3A424C"
+      alt="ॐ Mindful AI ⋆ Research"
+      height="36"
+    />
+  </a>
 
+</p>
+<!-- ========= End MINDFUL AI ORGANIZATION BADGE ========= -->
 
-<h5 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Study the art of science…} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Everything connects to everything else} \space \textbf{\color{LightSkyBlue}𝚿}}$$
-
--->
 
 <div align="center">
 
