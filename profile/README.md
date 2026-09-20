@@ -6,7 +6,7 @@
 ⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[🛸](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 　　　　　　*　　　　　　　　　　　.　
-　　　　　　*　　　　　　　　. 　　
+　　　　　　　　　　　　　　. 　　
 .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
@@ -104,7 +104,8 @@ $$
 #### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 <!-- ========= END DA VINCI  REF ========= -->
 　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    
+⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 
+
 　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
 <!--   START Reference Readings   -- GRAY SMALL REGULAR-->
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
@@ -129,8 +130,8 @@ $$
 <!-- ========= END SPONSOR BADGE ========= -->
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
       
-.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　
-　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀
+.　　　　　　　　　　　　　      . 　　⠀　  　　　               .　　　ﾟ .　　
+　　　　　　                    　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                     * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀
 ⠀  　　　　　
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
@@ -138,6 +139,7 @@ $$
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
 <!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
+
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
       
 ###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
@@ -145,7 +147,8 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 <br>
 <!-- ========= ENDT VIDEO ========= -->
 
-　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
+　　　　　✦ 　　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
+
 
 
 <br><br><br>
