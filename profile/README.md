@@ -7,7 +7,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 　　　　　　*　　　　　　　　　　　.　
 　　　　　　　　　　　　　　. 　　
-.　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
  　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝚿](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c) *𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚*  .⭒⋅⊹｡
@@ -37,8 +36,7 @@
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
 
-.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-
+.　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　　　　　　✦ 　　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
 
 $$
 \Huge{
@@ -104,9 +102,7 @@ $$
 #### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 <!-- ========= END DA VINCI  REF ========= -->
 　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 
-
-　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
+⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　.   .　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
 <!--   START Reference Readings   -- GRAY SMALL REGULAR-->
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
@@ -130,7 +126,7 @@ $$
 <!-- ========= END SPONSOR BADGE ========= -->
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
       
-.　　　　　　　　　　　　　      . 　　⠀　  　　　               .　　　ﾟ .　　
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.      　
 　　　　　　                    　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                     * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀
 ⠀  　　　　　
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
