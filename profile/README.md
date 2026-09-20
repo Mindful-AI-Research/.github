@@ -139,14 +139,14 @@ $$
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
 
       
-.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.    
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　.   ⠀⠀⠀⠀⠀.  .               　ﾟ .　　　　　　　　　　　　.    
 
 　　　　　　                    
-                             . ⠀⠀⠀⠀　　. 　　　　　　　　　    　                     *    ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀
+                             . ⠀⠀⠀⠀　　. 　　　　　　　　　    　                 ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀
 ⠀  　　　　　
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 ###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
-.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.   
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　                                                           .　　　　　　　　　　　　.   
 <!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
