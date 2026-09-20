@@ -61,9 +61,7 @@ $$
 \color{#67ABE0}{\textbf{senses ...}}
 }
 $$
-
 　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
-
 $$
 \Huge{
 \color{#579FE1}{\textbf{Especially}}
