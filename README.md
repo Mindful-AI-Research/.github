@@ -6,13 +6,12 @@
 ⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[🛸](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 　　　　　　*　　　　　　　　　　　.　
-　　　　　　*　　　　　　　　. 　　
-.　　　　　　　　　　　　　. 　　✦⠀　   　　　,　　　　　　　　　*
+　　　　　　　　　　　　　　. 　　
 　　　　　⠀　　　　⠀　　,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　
  　　˚　　　⠀　⠀  　　,　  <p align="center">  [𝚿](https://github.com/user-attachments/assets/4d29c964-8c36-456e-8a04-68fab9ac710c) *𝑬𝒗𝒆𝒓𝒚 𝒐𝒏𝒆 𝒊𝒔 𝒖𝒏𝒊𝒒𝒖𝒆 𝒊𝒏 𝒕𝒉𝒆𝒊𝒓 𝒐𝒘𝒏 𝒘𝒂𝒚*  .⭒⋅⊹｡
 　　　　　　　　　　　　　.
-　　　　　　*⠀　　⠀  　　　　　　　　　　　　
+　　　　　　*　　⠀  　　　　　　　　　　　　
 
 　　　　.　　　　.　　　⠀
 　　　　　　　　　　　.   
@@ -23,116 +22,107 @@
 　　　*　　⠀.
 　　　　　.　　　　　　　　　
 　˚　　　　　　　　　　　　　　
-.⠀ 　　　　　　　　　　.　　　　　　　　.
-　　　　　✦⠀　   　　　,　　    　　　　　　　　.
+.⠀ 　　　　　　　　　　.　　　　　　　　      　.　  🛰️
+　　　　　✦⠀　   　　　,　　  　.　  　　　　　　　　. 
+
 <!--  START HEADER   -->
 <h1 align="center"> 𖤐 $$\Huge {\textbf{\color{cyan} Mindful} \space \textbf{\color{white} AI} \space \textbf{\color{cyan} ॐ}}$$ 
 
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　
 
-<!-- ========= START DA VINCI  REF ========= -->
-<!--  
-### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Study the science of art. Study the art of science… Realize that everything connects to everything else*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
-
-
-
-<h5 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Study the art of science…} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Everything connects to everything else} \space \textbf{\color{LightSkyBlue}𝚿}}$$
-
--->
-
-<div align="center">
-
-$$\Huge{
-\textbf{\color{#0057D9}Study}
-\space
-\textbf{\color{#1265DA}the}
-\space
-\textbf{\color{#2474DC}science}
-\space
-\textbf{\color{#3583DE}of}
-\space
-\textbf{\color{#4692E0}art.}
-\space
-\textbf{\color{#579FE1}Study}
-\space
-\textbf{\color{#67ABE0}the}
-\space
-\textbf{\color{#76B6DF}art}
-\space
-\textbf{\color{#83C0DD}of}
-\space
-\textbf{\color{#8BC8DA}science.}
-\space
-\textbf{\color{#83C0DD}Develop}
-\space
-\textbf{\color{#76B6DF}your}
-\space
-\textbf{\color{#67ABE0}senses ...}
-}$$
-
-$$\Huge{
-\textbf{\color{#579FE1}Especially}
-\space
-\textbf{\color{#4692E0}learn}
-\space
-\textbf{\color{#3583DE}how}
-\space
-\textbf{\color{#2474DC}to see.}
-\space
-\textbf{\color{#1265DA}Realize}
-\space
-\textbf{\color{#0057D9}that}
-\space
-\textbf{\color{#1265DA}everything}
-\space
-\textbf{\color{#2474DC}connects}
-\space
-\textbf{\color{#3583DE}to}
-\space
-\textbf{\color{#4692E0}everything}
-\space
-\textbf{\color{#579FE1}else.}
-}$$
-
-</div>
-
-
-<br>
-
-#### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
-
-
-
-#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
-
-<br><br><br>
-<!-- ========= END DA VINCI  REF ========= -->
-
-
+  　　. 　　　　　　　　　　　　　　　　 　　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　　　　* 　　　 　　　　　,　　　　　　　.　　　　　.
 
 
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ 
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　* 　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
+⠀⠀⠀⠀　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
 
-　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
-⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀
+
+<br>
+
+
+$$
+\Huge{
+\color{#0057D9}{\textbf{Study}}
+\space
+\color{#1265DA}{\textbf{the}}
+\space
+\color{#2474DC}{\textbf{science}}
+\space
+\color{#3583DE}{\textbf{of}}
+\space
+\color{#4692E0}{\textbf{art.}}
+\space
+\color{#579FE1}{\textbf{Study}}
+\space
+\color{#67ABE0}{\textbf{the}}
+\space
+\color{#76B6DF}{\textbf{art}}
+\space
+\color{#83C0DD}{\textbf{of}}
+\space
+\color{#8BC8DA}{\textbf{science.}}
+\space
+\color{#83C0DD}{\textbf{Develop}}
+\space
+\color{#76B6DF}{\textbf{your}}
+\space
+\color{#67ABE0}{\textbf{senses ...}}
+}
+$$　  ⠀⠀⠀   
+$$
+\Huge{
+\color{#579FE1}{\textbf{Especially}}
+\space
+\color{#4692E0}{\textbf{learn}}
+\space
+\color{#3583DE}{\textbf{how}}
+\space
+\color{#2474DC}{\textbf{to}}
+\space
+\color{#1265DA}{\textbf{see.}}
+\space
+\color{#0057D9}{\textbf{Realize}}
+\space
+\color{#1265DA}{\textbf{that}}
+\space
+\color{#2474DC}{\textbf{everything}}
+\space
+\color{#3583DE}{\textbf{connects}}
+\space
+\color{#4692E0}{\textbf{to}}
+\space
+\color{#579FE1}{\textbf{everything}}
+\space
+\color{#67ABE0}{\textbf{else.}}
+}
+$$
+
+ 　✦⠀　　　　　,　　　　　　　.　　　　    　       　. 　　　  　　　　,　　　　　         　　.　　　　　.     　　　　,　　　　　　　.　　
+  
+#### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
+#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
+<!-- ========= END DA VINCI  REF ========= -->
+
+
+　　. 　　　　　　　　　    　　　⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀
+⠀⠀⠀⠀　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　.   .　　　　　　　　　　　　　  . 　　˚　⠀　   　　　,　　　　　　　　˚　
+
+　˚　　　　　　　　　　　　　　　　.⠀ 　　　　　　　　　　.　　　　　　　　.
+
+
 
 <!--   START Reference Readings   -- GRAY SMALL REGULAR-->
 ###### <p align="center">𖤐 *Curated AI Knowledge, Learning & Perspectives* 𖤐
 
 ###### <p align="center">✧ [↗](https://jazzy-gingersnap-38b5e2.netlify.app/) *Learning from Leading AI Companies* · [↗](https://omo.dev/#agents) *Google Prompt Engineering Guide* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/c30d147ff00d195a5427c49747aee2555a3181b1a/Goolge_Prompt-Engineering_Dec-%3A2025.pdf) *OpenAgent Harness Framework* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/fc6401983a4cb7da549fa6254281d128fcbe303c/On%20the%20Economic%20and%20Governance%20Mechanisms%20forthe%20Agentic%20Web%20-%20%20A%20Global%20South%20Perspective.pdf)   *Agentic Web: Economic & Governance Mechanisms* · [↗](https://github.com/Mindful-AI-Assistants/.github/blob/709df80c196629155bfac11c102f18471663e611/AI%20for%20the%20Good%20of%20All%20-%20Brazilian%20Artificial%20Intelligence%20Plan-Dec2025.pdf) *AI for the Good of All* · [↗](https://hai.stanford.edu/news/stanford-ai-experts-predict-what-will-happen-in-2026) *Stanford AI Experts: AI in 2026*  · [↗](https://github.com/Mindful-AI-Research/.github/blob/bb9041c852dee6cae224c7b1965f66d7ae96013d/Mission%20Intelligence_WAIC%20Report_2026.pdf) *Mission Intelligence · WAIC Report · 2026* ✧
 <!--   END Reference Readings   -- GRAY SMALL REGULAR-->
+⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 
+　　　　　　　　⠀　　, 　　　,　　　　　　　　　　　　　　　　　⠀ 　　　　　　　[𖤐]()  
 
-⠀⠀⠀⠀⠀⠀.　　　　　　　　　　[⚝　](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　.　　　　　.
-.　　　　　　　　　　　　　. 　　⠀　  
-　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  　　　　　　　　⠀ V　　　　　　　*  
-
-
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
-<br>    
-　⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　⠀  　　　　　⠀　
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*  　
 <!-- ========= Start SPONSOR BADGE ========= -->
 <p align="center">
 
@@ -145,27 +135,27 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 </p>
 <!-- ========= END SPONSOR BADGE ========= -->
 
-⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
 
 .　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.       
 　　　　　　　⠀  　　　　　⠀　
-### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 
-　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀　　　　　　　⠀  　　　　　⠀
+### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
+###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　                                                           .　　　　　　　　　　　　.   
 <!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
-###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　  🛸 　　　　　　.　　　　　.   ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+      
+###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
 <br>
 <!-- ========= ENDT VIDEO ========= -->
 
+　　　　　　. 　　　　[𖤐](https://github.com/user-attachments/assets/7ce239e3-bc80-44a4-b3d0-5db4f5207fca)⠀　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　　　　　　,　　　　　　　.　　　　　.
 
-#
 
-<br>
-
-###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub> <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
 <br><br><br>
 
