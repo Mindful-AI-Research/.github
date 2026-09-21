@@ -24,7 +24,7 @@ requests==2.34.2
 
 # Bibliotecas para trabalhar com bancos de dados
 
-psycopg2-binary==2.9.12
+psycopg2-binary==2.9.13
 sqlalchemy==2.0.52
 
 
