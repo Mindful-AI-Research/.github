@@ -144,8 +144,9 @@ $$
 ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　　　　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 
 　　　　　                                              　　　⠀  　　, 　　　,           　　　　　　　　　　　　　　　　　　　　　　　　[𖤐]()  
 
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*  　[↗](https://github.com/Mindful-AI-Research/.github/blob/64eb6ea4978efe1c0f718426d715d6728c9b6157/AI_in_Cybersecurity_Practical_Guide.pdf) *AI in Cybersecurity Practical Guide*
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*  　[↗](https://github.com/Mindful-AI-Research/.github/blob/64eb6ea4978efe1c0f718426d715d6728c9b6157/AI_in_Cybersecurity_Practical_Guide.pdf) *AI Cybersecurity Guide*
 <!-- ========= Start SPONSOR BADGE ========= -->
+
 <p align="center">
 
   <a href="https://github.com/sponsors/Mindful-AI-Research">
