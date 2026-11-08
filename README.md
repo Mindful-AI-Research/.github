@@ -29,7 +29,9 @@
 
 <!--  START HEADER   -->
 
-<img width="557" height="124" alt="Image" src="https://github.com/user-attachments/assets/cffc6eb5-da4f-4cd8-bdc6-76c8c99a1720" />
+<p align="center">
+  <img width="557" height="124" alt="Image" src="https://github.com/user-attachments/assets/cffc6eb5-da4f-4cd8-bdc6-76c8c99a1720" />
+</p>
 
 <!-- <h1 align="center">  $$\Huge {\textbf{\color{cyan} ॐ} \space \textbf{\color{white} MindFul} \space \textbf{\color{cyan} AI}}$$ 𖤐 -->
 
