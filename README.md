@@ -28,7 +28,10 @@
 <br>
 
 <!--  START HEADER   -->
-<h1 align="center">  $$\Huge {\textbf{\color{cyan} ॐ} \space \textbf{\color{white} MindFul} \space \textbf{\color{cyan} AI}}$$ 𖤐
+
+<img width="557" height="124" alt="Image" src="https://github.com/user-attachments/assets/cffc6eb5-da4f-4cd8-bdc6-76c8c99a1720" />
+
+<!-- <h1 align="center">  $$\Huge {\textbf{\color{cyan} ॐ} \space \textbf{\color{white} MindFul} \space \textbf{\color{cyan} AI}}$$ 𖤐 -->
 
 #### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　
