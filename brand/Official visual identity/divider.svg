@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="24" viewBox="0 0 880 24" role="presentation" aria-hidden="true">
+<defs>
+<linearGradient id="edge" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="880" y2="0"><stop offset="0" stop-color="#9FB6BF" stop-opacity="0"/><stop offset=".3" stop-color="#9FB6BF" stop-opacity=".55"/><stop offset=".5" stop-color="#E6F0F4"/><stop offset=".7" stop-color="#9FB6BF" stop-opacity=".55"/><stop offset="1" stop-color="#9FB6BF" stop-opacity="0"/></linearGradient>
+<linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="880" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#00FFFF" stop-opacity="0"/><stop offset=".35" stop-color="#00FFFF" stop-opacity="0"/><stop offset=".5" stop-color="#A8FFFF"/><stop offset=".65" stop-color="#00FFFF" stop-opacity="0"/><stop offset="1" stop-color="#00FFFF" stop-opacity="0"/><animateTransform attributeName="gradientTransform" type="translate" from="-880 0" to="880 0" dur="9s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="tq" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00FFFF"><animate attributeName="stop-color" values="#00FFFF;#00F7FF;#00F5FF;#00FAFF;#00FFFF" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#00F2FF"><animate attributeName="stop-color" values="#00F2FF;#00FAFF;#00F8FF;#00F7FF;#00F2FF" dur="7s" repeatCount="indefinite"/></stop></linearGradient>
+<filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="3.5"/></filter>
+<style>@keyframes pu{0%,100%{opacity:.25}50%{opacity:.75}}@keyframes sp{to{transform:rotate(360deg)}}.pu{animation:pu 5s ease-in-out infinite}.dm{transform-box:fill-box;transform-origin:center;animation:sp 14s linear infinite}</style>
+</defs>
+<path d="M0 12H880" stroke="url(#edge)" stroke-width="1"/>
+<path d="M0 12H880" stroke="url(#flow)" stroke-width="1.6"/>
+<g class="pu"><path d="M440.0 5l7 7-7 7-7-7z" fill="url(#tq)" filter="url(#g)"/></g>
+<g class="dm"><path d="M440.0 5l7 7-7 7-7-7z" fill="url(#tq)"/></g>
+<circle cx="410.0" cy="12" r="1.6" fill="#C6D4DB"/><circle cx="470.0" cy="12" r="1.6" fill="#C6D4DB"/>
+<circle cx="382.0" cy="12" r="1.1" fill="#C6D4DB" opacity=".65"/><circle cx="498.0" cy="12" r="1.1" fill="#C6D4DB" opacity=".65"/>
+</svg>
