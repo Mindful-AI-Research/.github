@@ -36,7 +36,11 @@
   　　. 　　　　　　　　　　　　　　　　 　　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　* 　　　 　 🛰️ 　　　　　,　　　　　　　.　　　　　. 　　　　　　⠀⠀⠀.　　　　. ⠀⠀⠀
 
 
-<!--$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ -->
+Dá para deixar mais destacado, Fab — mas seu código já usa `\Huge`, o maior tamanho entre os comandos padrão do MathJax. Repetir `\Huge` não aumenta mais a fonte. [github](https://github.com/mathjax/MathJax/issues/3280)
+
+Uma opção é distribuir o texto em linhas menores, mantendo as cores e o tamanho atual. Não aumenta a fonte de fato, mas deixa a composição menos comprida. Ficaria assim, pronto para colar:
+
+
 $$
 \Huge{
 \color{#0057D9}{\textbf{Study}}
@@ -48,7 +52,11 @@ $$
 \color{#3583DE}{\textbf{of}}
 \space
 \color{#4692E0}{\textbf{art.}}
-\space
+}
+$$
+
+$$
+\Huge{
 \color{#579FE1}{\textbf{Study}}
 \space
 \color{#67ABE0}{\textbf{the}}
@@ -58,14 +66,19 @@ $$
 \color{#83C0DD}{\textbf{of}}
 \space
 \color{#8BC8DA}{\textbf{science.}}
-\space
+}
+$$
+
+$$
+\Huge{
 \color{#83C0DD}{\textbf{Develop}}
 \space
 \color{#76B6DF}{\textbf{your}}
 \space
 \color{#67ABE0}{\textbf{senses ...}}
 }
-$$　  ⠀⠀⠀   
+$$
+
 $$
 \Huge{
 \color{#579FE1}{\textbf{Especially}}
@@ -77,13 +90,21 @@ $$
 \color{#2474DC}{\textbf{to}}
 \space
 \color{#1265DA}{\textbf{see.}}
-\space
+}
+$$
+
+$$
+\Huge{
 \color{#0057D9}{\textbf{Realize}}
 \space
 \color{#1265DA}{\textbf{that}}
 \space
 \color{#2474DC}{\textbf{everything}}
-\space
+}
+$$
+
+$$
+\Huge{
 \color{#3583DE}{\textbf{connects}}
 \space
 \color{#4692E0}{\textbf{to}}
@@ -93,6 +114,7 @@ $$
 \color{#67ABE0}{\textbf{else.}}
 }
 $$
+
 
 ⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　           　* 　　　　　　　　.　　　ﾟ .　　　　　. 　　　　　　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　⠀⠀⠀.　　　　　　　　　　  ⠀⠀⠀⠀　　. 　　　　　　　　　    　                .       　　* ⠀⠀⠀.　　　　　. ⠀⠀⠀
