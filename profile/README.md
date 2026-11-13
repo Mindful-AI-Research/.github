@@ -185,22 +185,24 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
 <br><br><br>
 
+
+
+
+
 <!-- ========= START ABOUT US ========= -->
 ## [About Us]()
 
-𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
+𖤐 [**Mindful AI  Research**]() is an independent, open-source research and innovation lab *advancing human-centered artificial intelligence* through interdisciplinary expertise, applied research, technological experimentation, and *responsible innovation*. Its work spans machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), blockchain and decentralized technologies, and the Internet of Things (IoT).
 
-Founded by 👩🏻‍🚀 [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
+Founded by [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari);, a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, and currently pursuing her fourth undergraduate degree in Data Science and Artificial Intelligence at PUC–SP (Pontifícia Universidade Católica de São Paulo). Her multidisciplinary perspective connects technology, human behavior, cognition, semiotics, and human-centered design, shaping the lab's vision of intelligent technologies that respond to both technical challenges and human needs.
 
-Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
-<br>
+At the intersection of human cognition, semiotics, intelligent systems, and emerging technologies, Mindful AI Research brings together technological development and human insight to explore how people perceive, interpret, communicate, and interact with technology. This perspective informs the design, development, evaluation, and governance of AI-driven solutions, integrating behavioral insights, language, meaning-making, and human-computer interaction into practical technological innovation.
 
-[𖤐]()  Intelligence <br>
-[𖤐]()  Ethics & Governance <br>
-[𖤐]()  Cognitive Science <br>
-[𖤐]() Collective Intelligence <br>
-[𖤐]() Human-Centered Design
+Its areas of expertise encompass AI ethics, transparency, explainability, algorithmic accountability, and responsible technology governance, including evolving regulatory frameworks such as the EU AI Act. Through this approach, the lab seeks to develop intelligent solutions that are not only technically effective, but also transparent, trustworthy, and aligned with human needs.
+
+Grounded in technical excellence, scientific rigor, reproducibility, and open-source collaboration, Mindful AI Research brings together research, experimentation, and practical development to advance technology that is not only intelligent, but also *meaningful, responsible, and human-centered*.
+
 
 <br><br>
 
