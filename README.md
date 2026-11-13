@@ -28,20 +28,16 @@
 <br>
 
 <!--  START HEADER   -->
+<h1 align="center">  $$\Huge {\textbf{\color{cyan} ॐ} \space \textbf{\color{white} MindFul} \space \textbf{\color{cyan} AI}}$$ 𖤐
 
-<p align="center">
-  <img width="557" height="124" alt="Image" src="https://github.com/user-attachments/assets/cffc6eb5-da4f-4cd8-bdc6-76c8c99a1720" />
-</p>
+### <p align="center">Where Human Insight and Intelligent Technology [Converge](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d). 
 
-<!-- <h1 align="center">  $$\Huge {\textbf{\color{cyan} ॐ} \space \textbf{\color{white} MindFul} \space \textbf{\color{cyan} AI}}$$ 𖤐 -->
-
-#### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
+#### <p align="center"> ***Advancing Human-Centered AI, Data Science, Intelligent Systems, and Responsible Innovation***.</p>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　
 
   　　. 　　　　　　　　　　　　　　　　 　　　　　,　　　　　　　.　　　　　.     　　. 　　　　　　* 　　　 　 🛰️ 　　　　　,　　　　　　　.　　　　　. 　　　　　　⠀⠀⠀.　　　　. ⠀⠀⠀
 
 
-<!--$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$ -->
 $$
 \Huge{
 \color{#0057D9}{\textbf{Study}}
@@ -63,16 +59,17 @@ $$
 \color{#83C0DD}{\textbf{of}}
 \space
 \color{#8BC8DA}{\textbf{science.}}
-\space
+}
+$$
+
+$$
+\Huge{
 \color{#83C0DD}{\textbf{Develop}}
 \space
 \color{#76B6DF}{\textbf{your}}
 \space
 \color{#67ABE0}{\textbf{senses ...}}
-}
-$$　  ⠀⠀⠀   
-$$
-\Huge{
+\space
 \color{#579FE1}{\textbf{Especially}}
 \space
 \color{#4692E0}{\textbf{learn}}
@@ -81,8 +78,12 @@ $$
 \space
 \color{#2474DC}{\textbf{to}}
 \space
-\color{#1265DA}{\textbf{see.}}
-\space
+\color{#1265DA}{\textbf{see...}}
+}
+$$
+
+$$
+\Huge{
 \color{#0057D9}{\textbf{Realize}}
 \space
 \color{#1265DA}{\textbf{that}}
@@ -98,6 +99,7 @@ $$
 \color{#67ABE0}{\textbf{else.}}
 }
 $$
+
 
 ⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　           　* 　　　　　　　　.　　　ﾟ .　　　　　. 　　　　　　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　⠀⠀⠀.　　　　　　　　　　  ⠀⠀⠀⠀　　. 　　　　　　　　　    　                .       　　* ⠀⠀⠀.　　　　　. ⠀⠀⠀
@@ -124,7 +126,7 @@ $$
 
   
 #### <p align="center"> <sub>    [𝛂](https://github.com/user-attachments/assets/16c7b9ad-5cab-46aa-b096-2c0cbd7b7d7b) ———⋅⋆ [♂️](https://github.com/user-attachments/assets/1dc90875-ea1a-47e3-a24d-550738723bda)⋅⋆  —— [𓋹](https://github.com/user-attachments/assets/bc8fa49e-701e-438b-a88a-77a3914bfbb6) —— ⋅⋆[♀️](https://github.com/user-attachments/assets/ac2bbc8b-72ab-44b3-9979-0e5a0cf559e9)⋅⋆  ——— [Ω](https://github.com/user-attachments/assets/aaa05f34-97ae-4dc2-bd68-a1179a29bc7b) </sub>
-#### <p align="center"> <sub>  [✠](![Image](https://github.com/user-attachments/assets/d04bd821-0b5b-4cb3-952f-258d5b30712d)) Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
+#### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 <!-- ========= END DA VINCI  REF ========= -->
 
 
