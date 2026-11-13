@@ -89,11 +89,7 @@ $$
 \color{#1265DA}{\textbf{that}}
 \space
 \color{#2474DC}{\textbf{everything}}
-}
-$$
-
-$$
-\Huge{
+\space
 \color{#3583DE}{\textbf{connects}}
 \space
 \color{#4692E0}{\textbf{to}}
