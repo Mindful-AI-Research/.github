@@ -30,7 +30,7 @@
 <!--  START HEADER   -->
 <h1 align="center">  $$\Huge {\textbf{\color{cyan} ॐ} \space \textbf{\color{white} MindFul} \space \textbf{\color{cyan} AI}}$$ 𖤐
 
-### <p align="center">Where Human Insight and Intelligent Technology Converge 
+### <p align="center">Where Human Insight and Intelligent Technology [Converge](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d). 
 
 #### <p align="center"> ***Advancing Human-Centered AI, Data Science, Intelligent Systems, and Responsible Innovation***.</p>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀ 　　　 ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　
