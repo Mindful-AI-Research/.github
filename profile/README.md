@@ -212,10 +212,10 @@ Today, Mindful AI brings together a growing open-source community of **42+ contr
 
 To design, develop, and advance intelligent technologies that amplify human potential, transform ideas into meaningful solutions, and drive innovation while upholding:
 
-- **Ethical Intelligence** — embedding ethical principles into the design and development of AI.
-- **Responsible Innovation** — advancing technology with accountability and purpose.
-- **Transparency & Fairness** — promoting explainable, trustworthy, and equitable systems.
-- **Human-Centered Impact** — ensuring technology addresses real human needs and contributes positively to society.
+- [**Ethical Intelligence**]() — embedding ethical principles into the design and development of AI.
+- [**Responsible Innovation**]() — advancing technology with accountability and purpose.
+- [**Transparency & Fairness**]() — promoting explainable, trustworthy, and equitable systems.
+- [**Human-Centered Impact**]() — ensuring technology addresses real human needs and contributes positively to society.
 
 <br>
 
