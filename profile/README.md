@@ -223,7 +223,7 @@ We believe true progress is not only technological, but **human**, **ethical**, 
 
 <br>
 
-> [!NOTEI]
+> [!NOTE]
 >
 > *Every project, every model, every line of code contributes to a greater mission:*
 >
