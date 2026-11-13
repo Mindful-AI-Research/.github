@@ -192,51 +192,42 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 <!-- ========= START ABOUT US ========= -->
 ## [About Us]()
 
-𖤐 [**Mindful AI  Research**]() is an independent, open-source research and innovation lab *advancing human-centered artificial intelligence* through interdisciplinary expertise, applied research, technological experimentation, and *responsible innovation*. Its work spans machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), blockchain and decentralized technologies, and the Internet of Things (IoT).
+𖤐 [**Mindful AI Research**](https://github.com/Mindful-AI-Research) is an independent, open-source research and innovation lab *advancing human-centered artificial intelligence* through applied research, technological development, interdisciplinary expertise, and *responsible innovation*. Its work spans machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), blockchain and decentralized technologies, and the Internet of Things (IoT).
 
-Founded by [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari);, a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, and currently pursuing her fourth undergraduate degree in Data Science and Artificial Intelligence at PUC–SP (Pontifícia Universidade Católica de São Paulo). Her multidisciplinary perspective connects technology, human behavior, cognition, semiotics, and human-centered design, shaping the lab's vision of intelligent technologies that respond to both technical challenges and human needs.
+Founded by [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari), a multidisciplinary professional with backgrounds in Design, Software Development, and Psychology, who is currently pursuing her fourth undergraduate degree in Data Science and Artificial Intelligence at PUC–SP (Pontifícia Universidade Católica de São Paulo). Her interdisciplinary background brings together technology, human behavior, cognition, semiotics, and human-centered design, shaping the organization's vision of technology that connects computational intelligence with human understanding.
 
+Bringing together perspectives from psychology, cognitive science, semiotics, and human-computer interaction, Mindful AI Research considers not only how intelligent systems process information, but also how people perceive, interpret, communicate, and create meaning through their interactions with technology. This perspective informs the design and development of AI-driven solutions, connecting technical capabilities with human needs, meaningful digital experiences, and practical applications.
 
-At the intersection of human cognition, semiotics, intelligent systems, and emerging technologies, Mindful AI Research brings together technological development and human insight to explore how people perceive, interpret, communicate, and interact with technology. This perspective informs the design, development, evaluation, and governance of AI-driven solutions, integrating behavioral insights, language, meaning-making, and human-computer interaction into practical technological innovation.
+The organization's approach also encompasses AI ethics, transparency, explainability, algorithmic accountability, and responsible technology governance, including emerging regulatory frameworks such as the EU AI Act. These principles guide the development and evaluation of intelligent systems, with an emphasis on trust, fairness, accountability, and positive societal impact.
 
-Its areas of expertise encompass AI ethics, transparency, explainability, algorithmic accountability, and responsible technology governance, including evolving regulatory frameworks such as the EU AI Act. Through this approach, the lab seeks to develop intelligent solutions that are not only technically effective, but also transparent, trustworthy, and aligned with human needs.
+Combining technical expertise, scientific rigor, reproducibility, and open-source collaboration, Mindful AI Research bridges research, experimentation, and practical innovation to transform ideas and complex challenges into meaningful technological solutions.
 
-Grounded in technical excellence, scientific rigor, reproducibility, and open-source collaboration, Mindful AI Research brings together research, experimentation, and practical development to advance technology that is not only intelligent, but also *meaningful, responsible, and human-centered*.
+We are proud to be connected to PUC–SP, whose [Data Science and Artificial Intelligence program received a five-star rating](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) in the 2024 Guia da Faculdade, reflecting an educational approach that brings together artificial intelligence, ethics, governance, and responsible innovation.
 
-
-<br><br>
-
-
-We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
-
-Today, Mindful AI grows as a collaborative organization with 42+ contributors, building solutions aligned with the future of Human-Centered AI.
-
+Today, Mindful AI brings together a growing open-source community of **42+ contributors**, collaborating to build intelligent solutions and advance a future where technology empowers people, strengthens collective intelligence, and serves humanity.
 
 <br><br>
 
+## Our Mission
 
-## [Our Mission]()
+To design, develop, and advance intelligent technologies that amplify human potential, transform ideas into meaningful solutions, and drive innovation while upholding:
 
-</sub>To design and develop intelligent systems that amplify human potential, while ensuring:</sub>
-
-[-]()  Ethical alignment <br>
-[-]()  Responsible innovation <br>
-[-]()  Transparency and fairness <br>
-[-]()  Positive societal impact 
-
-<br>
-
-</sub>We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()</sub>
-
+- **Ethical Intelligence** — embedding ethical principles into the design and development of AI.
+- **Responsible Innovation** — advancing technology with accountability and purpose.
+- **Transparency & Fairness** — promoting explainable, trustworthy, and equitable systems.
+- **Human-Centered Impact** — ensuring technology addresses real human needs and contributes positively to society.
 
 <br>
 
-> [!IMPORTANT]
+We believe true progress is not only technological, but **human**, **ethical**, and **conscious**.
+
+<br>
+
+> [!NOTEI]
 >
->  *Every project, every model, every line of code contributes to a greater mission:*
-> 
->  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
-
+> *Every project, every model, every line of code contributes to a greater mission:*
+>
+> *Shaping a future where* **[AI Serves Humanity]() - [Never the Opposite]().**
 
 
 <br><br>
