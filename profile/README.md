@@ -212,6 +212,8 @@ Today, Mindful AI brings together a growing open-source community of **42+ contr
 
 To design, develop, and advance intelligent technologies that amplify human potential, transform ideas into meaningful solutions, and drive innovation while upholding:
 
+<br>
+
 - [**Ethical Intelligence**]() — embedding ethical principles into the design and development of AI.
 - [**Responsible Innovation**]() — advancing technology with accountability and purpose.
 - [**Transparency & Fairness**]() — promoting explainable, trustworthy, and equitable systems.
@@ -221,7 +223,7 @@ To design, develop, and advance intelligent technologies that amplify human pote
 
 We believe true progress is not only technological, but **human**, **ethical**, and **conscious**.
 
-<br>
+<br><br>
 
 > [!NOTE]
 >
