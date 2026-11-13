@@ -78,7 +78,7 @@ $$
 \space
 \color{#2474DC}{\textbf{to}}
 \space
-\color{#1265DA}{\textbf{see.}}
+\color{#1265DA}{\textbf{see...}}
 }
 $$
 
