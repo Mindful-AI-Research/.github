@@ -69,11 +69,7 @@ $$
 \color{#76B6DF}{\textbf{your}}
 \space
 \color{#67ABE0}{\textbf{senses ...}}
-}
-$$
-
-$$
-\Huge{
+\space
 \color{#579FE1}{\textbf{Especially}}
 \space
 \color{#4692E0}{\textbf{learn}}
