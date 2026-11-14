@@ -212,6 +212,89 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 .mir .cp{position:absolute;left:0;right:0;bottom:14px;text-align:center;font:500 .72rem Inter,sans-serif;letter-spacing:.22em;text-transform:uppercase;color:#cfe9f7;text-shadow:0 1px 8px #000}
 .mir .cp span[lang]{display:none}body:not([data-lang=pt]) .mir .cp [lang=en],body[data-lang=pt] .mir .cp [lang=pt]{display:inline}
 @media print{#intro{display:none}}
+
+/* --- REFINAMENTOS: ESTRELAS SUAVES E ESPAÇAMENTO DO INTRO --- */
+/* 1. Estrelas atenuadas em cinza suave e baixa opacidade para não atrapalhar a leitura */
+#sky {
+  opacity: 0.38 !important;
+  filter: contrast(85%) !important;
+}
+#sky::before {
+  opacity: 0.18 !important;
+}
+#sky i {
+  background: #7a889b !important;
+  opacity: 0.45 !important;
+}
+#sky svg {
+  opacity: 0.4 !important;
+  filter: grayscale(85%) brightness(0.85) !important;
+}
+
+/* 2. Espaçamento ampliado entre a imagem espelho e a frase para não cortar a letra 'l' */
+#intro .ivid, .ivid {
+  margin: 0 auto 2.4rem !important; /* Espaço generoso antes do texto */
+}
+
+#intro .qt {
+  padding-top: 0.22em !important;
+  margin-top: 0 !important;
+  line-height: 1.25 !important; /* Evita que o ascendente do 'l' e 'h' bata na imagem */
+  overflow: visible !important;
+}
+
+/* 3. Cards ultra-suaves e sensíveis com glow cósmico */
+.pillars article, .card {
+  transition: transform 0.75s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.75s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.65s ease,
+              background 0.65s ease !important;
+  will-change: transform, box-shadow;
+  position: relative;
+  overflow: hidden;
+}
+
+.pillars article:hover, .card:hover {
+  transform: translateY(-8px) scale(1.028) !important;
+  box-shadow: 0 20px 48px -10px rgba(0, 0, 0, 0.88),
+              0 0 30px -4px var(--tg2),
+              0 0 55px -8px var(--tg1) !important;
+  transition: transform 0.85s cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 0.85s cubic-bezier(0.16, 1, 0.3, 1),
+              border-color 0.7s ease,
+              background 0.7s ease !important;
+  z-index: 5;
+}
+
+.pillars article::before, .card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 2px;
+  background: linear-gradient(90deg, transparent, var(--tq), #ffffff, var(--tq), transparent);
+  opacity: 0.15;
+  transition: opacity 0.7s ease, height 0.7s ease;
+  pointer-events: none;
+}
+
+.pillars article:hover::before, .card:hover::before {
+  opacity: 1;
+  height: 3px;
+}
+
+.pillars article::after, .card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  background: radial-gradient(circle at top, color-mix(in srgb, var(--c) 18%, transparent) 0%, transparent 70%);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.pillars article:hover::after, .card:hover::after {
+  opacity: 1;
+}
 </style></head><body data-lang="en">
 <div id="intro" role="dialog" aria-label="Opening quote"><div class="glow"></div>
 <div class="wrap stage2"><div class="ivid"><video muted loop autoplay playsinline preload="auto"></video></div><p class="qt">What we do in life,</p><p class="qt">echoes in eternity</p>
