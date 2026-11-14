@@ -228,18 +228,16 @@ Our mission is guided by four principles:
 
 <br>
 
-</sub>Technology grows stronger when knowledge is shared and innovation is built collectively.</sub>
+</sub>We believe true progress is not only technological, but also **human, ethical, and conscious**..</sub>
 
 
 <br>
 
 > [!NOTE]
 >
->  *Every project, every model, every line of code contributes to a greater mission:*
-> 
->  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
+> *Every project, every model, every line of code moves us closer to a shared vision:*
 >
-> *Everyone is welcome to learn, build, contribute, and grow with us* ! 🛸
+> **A future where AI serves humanity - never the other way around.**
 
 
 ====
