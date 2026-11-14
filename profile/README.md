@@ -290,59 +290,56 @@ Our work spans interconnected areas of research and development:
 <br><br>
 
 
-## Intelligent Applications
+## [Intelligent Applications]()
 
 We explore and develop applications that combine computational intelligence, automation, and human-centered interaction.
 
-<br>
-
-
 ### AI Assistants and Copilots
 
-- Conversational tools for coding, research, analysis, and decision support
-- Context-aware interfaces and productivity tools
-- Intelligent information retrieval and knowledge synthesis
+[-]() Conversational tools for coding, research, analysis, and decision support <br>
+[-]() Context-aware interfaces and productivity tools <br>
+[-]() Intelligent information retrieval and knowledge synthesis
 
 <br>
 
 ### Bots and Workflow Automation
 
-- Task automation and workflow orchestration
-- Customer service and operational support
-- API integrations and platform connectivity
+[-]() Task automation and workflow orchestration <br>
+[-]() Customer service and operational support <br>
+[-]() API integrations and platform connectivity
 
 <br>
 
 
 ### Intelligent Agents and Autonomous Systems
 
-- Goal-oriented agents for multi-step tasks
-- Agent-based workflows and orchestration
-- Adaptive systems for dynamic environments
+[-]() Goal-oriented agents for multi-step tasks <br>
+[-]() Agent-based workflows and orchestration <br>
+[-]() Adaptive systems for dynamic environments 
 
 <br>
 
 ### Predictive and Decision Intelligence
 
-- Data-driven forecasting and pattern recognition
-- Predictive modeling and analytical insights
-- Intelligent decision-support applications
+[-]() Data-driven forecasting and pattern recognition <br>
+[-]() Predictive modeling and analytical insights <br>
+[-]() Intelligent decision-support applications 
 
 
 <br><br>
 
 ## Responsible AI and Governance
 
-We approach **AI governance by design**, considering responsibility, transparency, accountability, security, and human oversight throughout the AI lifecycle.
+We approach [**AI governance by design**](), considering responsibility, transparency, accountability, security, and human oversight throughout the AI lifecycle.
 
 Our work is informed by:
 
 <br>
 
-- Brazil's AI policy and applicable national requirements
-- The European Union AI Act
-- Data-protection frameworks, including Brazil's LGPD and the GDPR
-- International responsible-AI principles and best practices
+[-]() Brazil's AI policy and applicable national requirements <br>
+[-]() The European Union AI Act <br>
+[-]() Data-protection frameworks, including Brazil's LGPD and the GDPR <br>
+[-]() International responsible-AI principles and best practices
 
 <br>
 
@@ -352,11 +349,11 @@ Our work is informed by:
 
 <br>
 
-- **Explainable** - designed to make AI-generated outputs and decisions more understandable.
-- **Auditable** - supported by appropriate documentation, evaluation, and accountability.
-- **Secure** - developed with attention to security and data protection.
-- **Fair** - evaluated for potential bias and unequal impacts.
-- **Human-centered** - designed around human needs, values, and meaningful oversight.
+- [**Explainable**](): designed to make AI-generated outputs and decisions more understandable. <br>
+- [**Auditable**](): supported by appropriate documentation, evaluation, and accountability. <br>
+- [**Secure**](): developed with attention to security and data protection. <br>
+- [**Fair**](): evaluated for potential bias and unequal impacts. <br>
+- [**Human-centered**](): designed around human needs, values, and meaningful oversight.
 
 <br>
 
