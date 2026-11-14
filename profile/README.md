@@ -231,13 +231,13 @@ Our mission is guided by four principles:
 </sub>We believe true progress is not only technological, but also **human, ethical, and conscious**..</sub>
 
 
-<br>
+<br><br>
 
 > [!NOTE]
 >
 > *Every project, every model, every line of code moves us closer to a shared vision:*
 >
-> **A future where AI serves humanity - never the other way around.**
+> **A future where AI serves humanity - Never the other way around.**
 
 
 <br><br>
@@ -332,7 +332,38 @@ We explore and develop applications that combine computational intelligence, aut
 
 <br><br>
 
+## Responsible AI and Governance
 
+We approach **AI governance by design**, considering responsibility, transparency, accountability, security, and human oversight throughout the AI lifecycle.
+
+Our work is informed by:
+
+<br>
+
+- Brazil's AI policy and applicable national requirements
+- The European Union AI Act
+- Data-protection frameworks, including Brazil's LGPD and the GDPR
+- International responsible-AI principles and best practices
+
+<br>
+
+We aim to develop and promote systems that are:
+
+<br>
+
+- **Explainable** - designed to make AI-generated outputs and decisions more understandable.
+- **Auditable** - supported by appropriate documentation, evaluation, and accountability.
+- **Secure** - developed with attention to security and data protection.
+- **Fair** - evaluated for potential bias and unequal impacts.
+- **Human-centered** - designed around human needs, values, and meaningful oversight.
+
+<br><br>
+
+> [!NOTE]
+>
+> *Governance is not a separate afterthought. It is part of how responsible systems are conceived, built, evaluated, and maintained.*
+
+<br><br>
 
 
 
