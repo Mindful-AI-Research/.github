@@ -205,6 +205,8 @@ Our approach places particular emphasis on responsible AI, transparency, explain
 
 By combining technical rigor, experimentation, reproducibility, and open-source collaboration, we connect research with practical innovation—turning ideas and complex challenges into meaningful technological solutions.
 
+We are also proud to highlight PUC–SP's Data Science and Artificial Intelligence program, which received a [five-star rating](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) in the 2024 Guia da Faculdade.
+
 
 
 
