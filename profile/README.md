@@ -291,10 +291,46 @@ Our work spans interconnected areas of research and development:
 <br><br>
 
 
+## Intelligent Applications
+
+We explore and develop applications that combine computational intelligence, automation, and human-centered interaction.
+
+<br>
 
 
+### AI Assistants and Copilots
+
+- Conversational tools for coding, research, analysis, and decision support
+- Context-aware interfaces and productivity tools
+- Intelligent information retrieval and knowledge synthesis
+
+<br>
+
+### Bots and Workflow Automation
+
+- Task automation and workflow orchestration
+- Customer service and operational support
+- API integrations and platform connectivity
+
+<br>
 
 
+### Intelligent Agents and Autonomous Systems
+
+- Goal-oriented agents for multi-step tasks
+- Agent-based workflows and orchestration
+- Adaptive systems for dynamic environments
+
+<br>
+
+### Predictive and Decision Intelligence
+
+- Data-driven forecasting and pattern recognition
+- Predictive modeling and analytical insights
+- Intelligent decision-support applications
+
+
+<br><br>
 
 
 
