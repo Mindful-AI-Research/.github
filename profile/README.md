@@ -192,9 +192,10 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 <!-- ========= START ABOUT US ========= -->
 ## [About Us]()
 
-𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
+𖤐 [**Mindful AI  Research**]()  is an independent, open-source research and innovation lab advancing human-centered artificial intelligence through interdisciplinary expertise, applied research, and responsible innovation. Its work spans machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), and the Internet of Things (IoT).
 
-Founded by 👩🏻‍🚀 [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
+
+Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
