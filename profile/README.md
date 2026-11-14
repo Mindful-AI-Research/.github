@@ -195,7 +195,7 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 𖤐 [**Mindful AI  Research**]()  is an independent, open-source research and innovation lab advancing human-centered artificial intelligence through interdisciplinary expertise, applied research, and responsible innovation. Its work spans machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), and the Internet of Things (IoT).
 
 
-Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
+Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari);  a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, who is currently pursuing her fourth undergraduate degree, in Data Science and Artificial Intelligence at PUC-SP (Pontifícia Universidade Católica de São Paulo), the lab connects technology, human behavior, cognition, semiotics, and human-centered design to create intelligent technol⚡️ogies that respond to both technical challenges and human needs.
 
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
