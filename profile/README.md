@@ -343,9 +343,7 @@ Our work is informed by:
 
 <br>
 
-> [!NOTE]
->
-> **We aim to develop and promote systems that are:**
+ *We aim to develop and promote systems that are:*
 
 <br>
 
