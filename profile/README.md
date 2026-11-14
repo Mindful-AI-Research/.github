@@ -361,7 +361,19 @@ Our work is informed by:
 
 <br><br>
 
+### Governance, Risk, and Compliance (GRC)
 
+Our GRC perspective translates responsible-AI principles into practical considerations, including:
+
+- Risk identification, assessment, and mitigation
+- Regulatory alignment and documentation
+- Monitoring, evaluation, and lifecycle oversight
+- Transparency, explainability, and accountability
+- Evidence-based assessment and reproducible practices
+
+<br>
+
+The objective is to support intelligent systems that can be understood, evaluated, and responsibly managed.
 
 
 
