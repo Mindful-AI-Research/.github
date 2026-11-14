@@ -239,7 +239,7 @@ Our mission is guided by four principles:
 > 
 >  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
 >
-> 🛸*Everyone is welcome to learn, build, contribute, and grow with us* !
+> *Everyone is welcome to learn, build, contribute, and grow with us* ! 🛸
 
 
 ====
