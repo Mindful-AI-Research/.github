@@ -240,9 +240,80 @@ Our mission is guided by four principles:
 > **A future where AI serves humanity - never the other way around.**
 
 
-====
 <br><br>
 
+
+## [Research and Technology Areas]()
+
+Our work spans interconnected areas of research and development:
+
+<br>
+
+### Artificial Intelligence and Data Science
+
+- Machine learning and deep learning
+- Neural networks
+- Generative AI
+- Predictive modeling and analytics
+- Data science and statistical modeling
+- Natural language processing (NLP)
+
+<br>
+
+### Computer Vision and Geospatial Intelligence
+
+- Object detection and image recognition
+- Visual intelligence and image analysis
+- Geospatial data processing
+- Geographic information systems (GIS)
+
+<br>
+
+### Language Technologies and Conversational AI
+
+- Large language models (LLMs)
+- Conversational AI
+- Text generation and summarization
+- Semantic analysis and knowledge synthesis
+- Retrieval-augmented generation (RAG)
+
+<br>
+
+### Intelligent and Emerging Systems
+
+- Intelligent agents and multi-agent systems
+- Autonomous systems and workflow orchestration
+- Blockchain and decentralized technologies
+- Internet of Things (IoT)
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚧🚧
+
+<br><br>
 
 ##  [Governance & Responsible AI]()
 
