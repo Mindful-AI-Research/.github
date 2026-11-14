@@ -221,10 +221,10 @@ Our mission is guided by four principles:
 
  <br>
  
-- [**Ethical Intelligence**]()   - integrating ethical considerations into the design and development of AI.   <br>
-- [**Responsible Innovation**]() - advancing technology with accountability, care, and purpose.   <br>
-- [**Transparency and Fairness**]() - promoting systems that are understandable, trustworthy, and equitable.   <br>
-- [**Human-Centered Impact**]() - addressing real human needs and considering technology's broader effects on society.
+- [**Ethical Intelligence**](): integrating ethical considerations into the design and development of AI.   <br>
+- [**Responsible Innovation**](): advancing technology with accountability, care, and purpose.   <br>
+- [**Transparency and Fairness**](): promoting systems that are understandable, trustworthy, and equitable.   <br>
+- [**Human-Centered Impact**](): addressing real human needs and considering technology's broader effects on society.
 
 <br>
 
