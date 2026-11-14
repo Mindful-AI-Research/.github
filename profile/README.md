@@ -451,90 +451,7 @@ At Mindful AI:
 We believe technological progress should strengthen human understanding, encourage collaboration, and remain aligned with the values that make innovation meaningful.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🚧🚧🚧🚧
-
-<br><br>
-
-##  [Governance & Responsible AI]()
-
-</sub>We embed [**AI Governance by Design**]() into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.</sub>
-
-<b><b>
-
-[***Our approach is guided by***:]()
-
-[-]()  🇧🇷 Brazilian AI Strategy  <br>
-[-]() 🌍 Global Responsible AI frameworks  <br>
-[-]()  ⚖️ Core ethical principles: fairness, accountability, transparency  <br>
-
 <br>
-
-[***We design systems that are***:]()
-
-[-]()  Explainable  <br>
-[-]()  Auditable  <br>
-[-]()  Secure  <br>
-[-]()  Human-centered and aligned with societal values  <br>
-
-
-<br><br>
-
-
-##  [Governance, Risk & Compliance (GRC)]()
-
-At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
-
-<sub>We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.</sub>
-
-<br>
-
-[***Our framework ensures alignment with:***]()
-
-[-]()  🇧🇷 Alignment with the Brazilian AI Strategy <br>
-[-]()  🇪🇺 EU AI Act  <br>
-[-]()  🔐 Data protection regulations (LGPD/GDPR principles) 
-
-<br>
-
-[***Our approach integrates:***]()
-
-[-]()  Risk assessment and mitigation <br> 
-
-[-]()  Continuous monitoring, auditing, and lifecycle management  <br>
-
-[-]()  Regulatory compliance and documentation practices  <br>
-
-[-]()  Transparency, explainability, and verifiable trustworthiness — ensuring AI systems are interpretable, auditable, aligned with global standards, and grounded in truthful, evidence-based, and reproducible outputs  
-
-<br><br>
-
-## [What We Offer]()
-
-</sub>Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:</sub>
-
-<br>
-
-[-]() Reduce operational costs <br>
-[-]() Improve decision-making accuracy <br>
-[-]() Automate complex workflows <br>
-[-]() Scale intelligent systems responsibly
 
 #
 
@@ -554,6 +471,28 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 #### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
 
 ###### <p align="center"> 🪷 ***LET’S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED , BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION !*** 
+
+
+ <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚧🚧🚧🚧
+
+
+
+
 
  <br><br>
 
