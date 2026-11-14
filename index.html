@@ -213,113 +213,37 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 .mir .cp span[lang]{display:none}body:not([data-lang=pt]) .mir .cp [lang=en],body[data-lang=pt] .mir .cp [lang=pt]{display:inline}
 @media print{#intro{display:none}}
 
-/* ====================================================================
-   REFINAMENTOS: ANIMAÇÃO DA VINCI, ESTRELAS, ESPAÇAMENTO E GLYPHS
-   ==================================================================== */
-
-/* 1. Estrelas restauradas com brilho celestial equilibrado (Print 1) */
+/* --- REFINAMENTOS: ESTRELAS SUAVES E ESPAÇAMENTO DO INTRO --- */
+/* 1. Estrelas atenuadas em cinza suave e baixa opacidade para não atrapalhar a leitura */
 #sky {
-  opacity: 0.82 !important;
-  filter: none !important;
+  opacity: 0.38 !important;
+  filter: contrast(85%) !important;
 }
 #sky::before {
-  opacity: 0.42 !important;
+  opacity: 0.18 !important;
 }
 #sky i {
-  background: #a8cdfc !important;
-  box-shadow: 0 0 6px rgba(111, 180, 255, 0.6) !important;
+  background: #7a889b !important;
+  opacity: 0.45 !important;
 }
-#sky svg path {
-  fill: #cde4ff !important;
-  filter: drop-shadow(0 0 4px rgba(0, 242, 254, 0.45)) !important;
-}
-
-/* 2. Intro: Imagem deslocada mais para baixo e espaçamento generoso */
-#intro .wrap {
-  padding-top: clamp(2.8rem, 5vh, 4.8rem) !important;
-}
-#intro .ivid {
-  margin: 0 auto 2.2rem !important;
-  transform: translateY(12px);
+#sky svg {
+  opacity: 0.4 !important;
+  filter: grayscale(85%) brightness(0.85) !important;
 }
 
-/* 3. Correção tipográfica: Letras 'f' em life e 'y' em eternity sem cortes */
+/* 2. Espaçamento ampliado entre a imagem espelho e a frase para não cortar a letra 'l' */
+#intro .ivid, .ivid {
+  margin: 0 auto 2.4rem !important; /* Espaço generoso antes do texto */
+}
+
 #intro .qt {
-  line-height: 1.38 !important;
-  padding: 0.2em 0.5em !important;
-  margin: 0.1em 0 !important;
+  padding-top: 0.22em !important;
+  margin-top: 0 !important;
+  line-height: 1.25 !important; /* Evita que o ascendente do 'l' e 'h' bata na imagem */
   overflow: visible !important;
-  display: block;
-}
-#intro .qt:first-of-type {
-  padding-right: 0.65em !important;
-}
-#intro .qt:last-of-type {
-  padding-bottom: 0.35em !important;
 }
 
-/* 4. Redução de tamanho dos botões de som na abertura */
-#intro .ch {
-  padding: 9px 20px !important;
-  font-size: 0.82rem !important;
-  letter-spacing: 0.07em !important;
-  gap: 8px !important;
-}
-#intro .ch .e {
-  font-size: 1.02rem !important;
-}
-#intro .choices {
-  margin-top: 1.3rem !important;
-  gap: 12px !important;
-}
-
-/* 5. Animação de escrita e degradê luminoso de Leonardo da Vinci */
-.wr .c {
-  display: inline-block;
-  position: relative;
-  padding: 0.14em 0.14em;
-  margin: -0.14em -0.14em;
-  background-image: linear-gradient(
-    90deg,
-    #0055ff 0%,
-    #00c8ff 22%,
-    #71e2ff 42%,
-    #ffffff 50%,
-    #71e2ff 58%,
-    #00c8ff 78%,
-    #0055ff 100%
-  ) !important;
-  background-size: var(--P, 640px) 100% !important;
-  background-position: calc(var(--ox, 0px) + var(--g, 0px)) 0;
-  -webkit-background-clip: text !important;
-  background-clip: text !important;
-  color: transparent !important;
-  opacity: 0;
-  clip-path: inset(-30% 100% -30% -10%);
-  transition: opacity 0.4s ease, clip-path 0.65s cubic-bezier(0.3, 0.6, 0.3, 1) !important;
-  text-shadow: 0 0 16px rgba(0, 200, 255, 0.25);
-}
-
-.wr .c.on {
-  opacity: 1 !important;
-  clip-path: inset(-40% -30% -40% -30%) !important;
-}
-
-.wr.done .c {
-  opacity: 1 !important;
-  clip-path: none !important;
-  transition: none !important;
-}
-
-.wr.plain .c, .qloop .qline.qattr .c {
-  background: none !important;
-  -webkit-background-clip: border-box !important;
-  background-clip: border-box !important;
-  color: #8da4be !important;
-  text-shadow: none !important;
-}
-
-/* 6. Cards ultra-suaves mantidos */
+/* 3. Cards ultra-suaves e sensíveis com glow cósmico */
 .pillars article, .card {
   transition: transform 0.75s cubic-bezier(0.16, 1, 0.3, 1),
               box-shadow 0.75s cubic-bezier(0.16, 1, 0.3, 1),
@@ -437,7 +361,7 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 <circle cx="410.0" cy="12" r="1.6" fill="#C6D4DB"/><circle cx="470.0" cy="12" r="1.6" fill="#C6D4DB"/>
 <circle cx="382.0" cy="12" r="1.1" fill="#C6D4DB" opacity=".65"/><circle cx="498.0" cy="12" r="1.1" fill="#C6D4DB" opacity=".65"/>
 </svg></div>
-<section class="quote" id="s3"><div class="qloop" id="ql"><div class="qb" lang="en"><p class="qline">Study the science of art. Study the art of science.</p><p class="qline">Develop your senses ...</p><p class="qline gap">Especially learn how to see.</p><p class="qline">Realize that everything connects to everything else.</p><p class="qline qattr">Leonardo da Vinci (April 15, 1452 – May 2, 1519)</p></div><div class="qb" lang="pt"><p class="qline">Estude a ciência da arte. Estude a arte da ciência.</p><p class="qline">Desenvolva seus sentidos ...</p><p class="qline gap">Aprenda, sobretudo, a ver.</p><p class="qline">Perceba que tudo se conecta a tudo o mais.</p><p class="qline qattr">Leonardo da Vinci (15 de abril de 1452 – 2 de maio de 1519)</p></div></div></section>
+<section class="quote" id="s3"><div class="qloop" id="ql"><div class="qb" lang="en"><p class="qline">Study the science of art.</p><p class="qline">Study the art of science.</p><p class="qline">Develop your senses ...</p><p class="qline gap">Especially learn how to see.</p><p class="qline">Realize that everything connects to everything else.</p><p class="qline qattr">Leonardo da Vinci (April 15, 1452 – May 2, 1519)</p></div><div class="qb" lang="pt"><p class="qline">Estude a ciência da arte.</p><p class="qline">Estude a arte da ciência.</p><p class="qline">Desenvolva seus sentidos ...</p><p class="qline gap">Aprenda, sobretudo, a ver.</p><p class="qline">Perceba que tudo se conecta a tudo o mais.</p><p class="qline qattr">Leonardo da Vinci (15 de abril de 1452 – 2 de maio de 1519)</p></div></div></section>
 <div class="div dq"><svg xmlns="http://www.w3.org/2000/svg" width="880" height="24" viewBox="0 0 880 24" role="presentation" aria-hidden="true">
 <defs>
 <linearGradient id="edgeb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="880" y2="0"><stop offset="0" stop-color="#9FB6BF" stop-opacity="0"/><stop offset=".3" stop-color="#9FB6BF" stop-opacity=".55"/><stop offset=".5" stop-color="#E6F0F4"/><stop offset=".7" stop-color="#9FB6BF" stop-opacity=".55"/><stop offset="1" stop-color="#9FB6BF" stop-opacity="0"/></linearGradient>
@@ -614,38 +538,4 @@ setTimeout(begin,700);setTimeout(function(){var a=document.getElementById("mus")
 function go(){m.classList.add("off");m.parentNode.classList.add("pv");try{rv.currentTime=0}catch(e){}rv.muted=false;var p=rv.play();if(p&&p.catch)p.catch(function(){m.classList.remove("off")})}
 m.addEventListener("click",go);m.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();go()}});
 rv.addEventListener("ended",function(){m.classList.remove("off");m.parentNode.classList.remove("pv")})})();
-</script>
-<script>
-/* Garantir execução contínua e infalível da animação de Leonardo da Vinci */
-(function(){
-  function startDaVinci(){
-    if(typeof qcycle === 'function'){
-      // Se ainda não iniciou, dispara o ciclo
-      if(!window._daVinciStarted){
-        window._daVinciStarted = true;
-        qcycle();
-      }
-    }
-  }
-
-  // Dispara quando o intro fechar
-  document.addEventListener('introend', function(){
-    setTimeout(startDaVinci, 400);
-  });
-
-  // Dispara ao rolar para a seção #s3
-  window.addEventListener('scroll', function(){
-    var s3 = document.getElementById('s3');
-    if(s3 && !window._daVinciStarted){
-      var r = s3.getBoundingClientRect();
-      if(r.top < window.innerHeight * 0.9 && r.bottom > 0){
-        startDaVinci();
-      }
-    }
-  }, { passive: true });
-
-  // Fallback: se em 2.5s após carregamento ainda não iniciou
-  setTimeout(startDaVinci, 2500);
-})();
-</script>
-</body></html>
+</script></body></html>
