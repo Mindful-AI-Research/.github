@@ -214,10 +214,10 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 @media print{#intro{display:none}}
 
 /* ====================================================================
-   REFINAMENTOS VISUAIS: ESTRELAS, ESPAÇAMENTO, GLYPHS E DEGRADE DA VINCI
+   REFINAMENTOS: ANIMAÇÃO DA VINCI, ESTRELAS, ESPAÇAMENTO E GLYPHS
    ==================================================================== */
 
-/* 1. Estrelas restauradas com brilho celestial equilibrado (estilo print 1) */
+/* 1. Estrelas restauradas com brilho celestial equilibrado (Print 1) */
 #sky {
   opacity: 0.82 !important;
   filter: none !important;
@@ -252,10 +252,10 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
   display: block;
 }
 #intro .qt:first-of-type {
-  padding-right: 0.65em !important; /* Espaço para a cauda e o traço longo do 'f' */
+  padding-right: 0.65em !important;
 }
 #intro .qt:last-of-type {
-  padding-bottom: 0.35em !important; /* Espaço para o descendente longo do 'y' */
+  padding-bottom: 0.35em !important;
 }
 
 /* 4. Redução de tamanho dos botões de som na abertura */
@@ -273,8 +273,12 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
   gap: 12px !important;
 }
 
-/* 5. Novo degradê cósmico luminoso para o bloco Leonardo da Vinci */
-.wr .c, .qloop .qline {
+/* 5. Animação de escrita e degradê luminoso de Leonardo da Vinci */
+.wr .c {
+  display: inline-block;
+  position: relative;
+  padding: 0.14em 0.14em;
+  margin: -0.14em -0.14em;
   background-image: linear-gradient(
     90deg,
     #0055ff 0%,
@@ -286,11 +290,28 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
     #0055ff 100%
   ) !important;
   background-size: var(--P, 640px) 100% !important;
+  background-position: calc(var(--ox, 0px) + var(--g, 0px)) 0;
   -webkit-background-clip: text !important;
   background-clip: text !important;
-  text-shadow: 0 0 18px rgba(0, 200, 255, 0.28);
+  color: transparent !important;
+  opacity: 0;
+  clip-path: inset(-30% 100% -30% -10%);
+  transition: opacity 0.4s ease, clip-path 0.65s cubic-bezier(0.3, 0.6, 0.3, 1) !important;
+  text-shadow: 0 0 16px rgba(0, 200, 255, 0.25);
 }
-.qloop .qline.qattr .c, .qloop .qattr.plain .c {
+
+.wr .c.on {
+  opacity: 1 !important;
+  clip-path: inset(-40% -30% -40% -30%) !important;
+}
+
+.wr.done .c {
+  opacity: 1 !important;
+  clip-path: none !important;
+  transition: none !important;
+}
+
+.wr.plain .c, .qloop .qline.qattr .c {
   background: none !important;
   -webkit-background-clip: border-box !important;
   background-clip: border-box !important;
@@ -298,7 +319,7 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
   text-shadow: none !important;
 }
 
-/* 6. Cards ultra-suaves e sensíveis mantidos */
+/* 6. Cards ultra-suaves mantidos */
 .pillars article, .card {
   transition: transform 0.75s cubic-bezier(0.16, 1, 0.3, 1),
               box-shadow 0.75s cubic-bezier(0.16, 1, 0.3, 1),
@@ -593,4 +614,38 @@ setTimeout(begin,700);setTimeout(function(){var a=document.getElementById("mus")
 function go(){m.classList.add("off");m.parentNode.classList.add("pv");try{rv.currentTime=0}catch(e){}rv.muted=false;var p=rv.play();if(p&&p.catch)p.catch(function(){m.classList.remove("off")})}
 m.addEventListener("click",go);m.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();go()}});
 rv.addEventListener("ended",function(){m.classList.remove("off");m.parentNode.classList.remove("pv")})})();
-</script></body></html>
+</script>
+<script>
+/* Garantir execução contínua e infalível da animação de Leonardo da Vinci */
+(function(){
+  function startDaVinci(){
+    if(typeof qcycle === 'function'){
+      // Se ainda não iniciou, dispara o ciclo
+      if(!window._daVinciStarted){
+        window._daVinciStarted = true;
+        qcycle();
+      }
+    }
+  }
+
+  // Dispara quando o intro fechar
+  document.addEventListener('introend', function(){
+    setTimeout(startDaVinci, 400);
+  });
+
+  // Dispara ao rolar para a seção #s3
+  window.addEventListener('scroll', function(){
+    var s3 = document.getElementById('s3');
+    if(s3 && !window._daVinciStarted){
+      var r = s3.getBoundingClientRect();
+      if(r.top < window.innerHeight * 0.9 && r.bottom > 0){
+        startDaVinci();
+      }
+    }
+  }, { passive: true });
+
+  // Fallback: se em 2.5s após carregamento ainda não iniciou
+  setTimeout(startDaVinci, 2500);
+})();
+</script>
+</body></html>
