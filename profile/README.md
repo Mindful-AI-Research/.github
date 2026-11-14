@@ -201,6 +201,10 @@ Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); a mu
   
 This interdisciplinary foundation informs how we investigate the relationship between people and intelligent systems: how people perceive, interpret, communicate, and interact with technology. We bring human insight into the design, development, evaluation, and practical application of AI-driven solutions.
 
+Our approach places particular emphasis on responsible AI, transparency, explainability, algorithmic accountability, and technology governance. We consider relevant regulatory and data-protection frameworks, including the EU AI Act, Brazil's LGPD, and the GDPR, where applicable.
+
+By combining technical rigor, experimentation, reproducibility, and open-source collaboration, we connect research with practical innovation—turning ideas and complex challenges into meaningful technological solutions.
+
 
 
 
