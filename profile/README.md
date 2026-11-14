@@ -383,7 +383,9 @@ The objective is to support intelligent systems that can be understood, evaluate
 
 Our research and development seek to help people and organizations:
 
-- **Reduce operational friction** through process improvement and appropriate automation. <br>
+<br>
+
+- [**Reduce operational friction**]() through process improvement and appropriate automation. <br>
 - **Improve decision-making** by transforming data into useful insights. <br>
 - **Coordinate complex workflows** through integrated intelligent systems. <br>
 - **Enhance productivity** with assistants, copilots, and automation. <br>
@@ -393,6 +395,42 @@ Our research and development seek to help people and organizations:
 <br>
 
 We combine technical capabilities, strategic thinking, and human-centered design to pursue practical value while keeping human judgment and oversight in view.
+
+
+<br><br>
+
+## Open-Source Approach
+
+We believe in **collective intelligence** and the value of open collaboration.
+
+Our approach encourages:
+
+<br>
+
+- **Collaboration** — bringing together different perspectives, skills, and ideas.
+- **Transparency** — making knowledge accessible and supporting reproducible development.
+- **Shared Innovation** — building solutions that can improve through community contributions.
+
+Technology grows stronger when knowledge is shared and innovation is built collectively.
+
+<br>
+
+> [!IMPORTANT]
+>
+> 🛸 ***Everyone is welcome to learn, build, contribute, and grow with us***
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 
