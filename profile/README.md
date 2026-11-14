@@ -101,6 +101,10 @@ $$
 $$
 
 
+
+###### <p align="center">  𖤐 *Leonardo da Vinci (April 15, 1452 – May 2, 1519)*   𖤐
+ 
+
 ⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　           　* 　　　　　　　　.　　　ﾟ .　　　　　. 　　　　　　　　* ⠀⠀⠀.　　　　　　　　　　. ⠀⠀⠀⠀　　　* ⠀⠀⠀.　　　　　　　. ⠀⠀⠀⠀
 ⠀⠀⠀⠀　　⠀⠀⠀.　　　　　　　　　　  ⠀⠀⠀⠀　　. 　　　　　　　　　    　                .       　　* ⠀⠀⠀.　　　　　. ⠀⠀⠀
 
@@ -185,323 +189,275 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
 <br><br><br>
 
+<!-- ========= START ABOUT US ========= -->
+## [About Us]()
 
+𖤐 [**Mindful AI**]()  is an open-source organization born from a vision: to integrate technology, human consciousness, and ethical intelligence into a new paradigm of innovation.
 
+Founded by 👩🏻‍🚀 [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); designer, software developer, psychologist, and researcher in Data Science and Humanistic AI, currently pursuing her fourth undergraduate degree at PUC–SP (Pontifícia Universidade Católica de São Paulo).
 
-
-<!-- ========================================================= -->
-<!--                    MINDFUL AI RESEARCH                    -->
-<!-- ========================================================= -->
-
-## [About Us](#about-us)
-
-𖤐 [**Mindful AI Research**](https://github.com/Mindful-AI-Research) is an independent, open-source research and innovation lab focused on *advancing human-centered artificial intelligence* through applied research, technological development, interdisciplinary expertise, and *responsible innovation*.
-
-Bridging artificial intelligence, human insight, and emerging technologies, Mindful AI develops and explores intelligent solutions across machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), blockchain and decentralized technologies, and the Internet of Things (IoT).
-
-Founded by [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari), a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, currently pursuing her **fourth undergraduate degree** in Data Science and Artificial Intelligence at PUC–SP (Pontifícia Universidade Católica de São Paulo).
-
-Her multidisciplinary background connects technology, human behavior, cognition, semiotics, and human-centered design, bringing a distinctive perspective to the development of intelligent systems. This approach considers not only how technology processes information, but also how people perceive, interpret, communicate, and create meaning through their interactions with digital environments.
-
-By integrating psychology, cognitive science, semiotics, language, and human-computer interaction with technological development, Mindful AI seeks to transform complex challenges into practical solutions, meaningful digital experiences, and intelligent systems aligned with human needs.
-
-Its approach incorporates AI ethics, transparency, explainability, algorithmic accountability, and responsible technology governance, including regulatory frameworks such as the EU AI Act and data protection principles under Brazil's LGPD and the GDPR.
-
-Combining technical expertise, scientific rigor, reproducibility, and open-source collaboration, Mindful AI Research bridges research, experimentation, and practical innovation to advance technology that is not only intelligent, but also *meaningful, trustworthy, and human-centered*.
-
-We are proud to be connected to PUC–SP, whose [Data Science and Artificial Intelligence program received a five-star rating](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) in the 2024 Guia da Faculdade.
-
-Today, Mindful AI brings together a growing open-source community of **42+ contributors**, connecting people, ideas, and technologies to build intelligent solutions and shape a future where technology empowers people, strengthens collective intelligence, and serves humanity.
-
-<br><br>
-
-## [Our Mission](#our-mission)
-
-To design, develop, and advance intelligent technologies that amplify human potential, transform ideas into meaningful solutions, and drive responsible innovation.
-
-Our work is guided by four fundamental principles:
-
-- **Ethical Intelligence** — integrating ethical principles into the design, development, and deployment of AI.
-- **Responsible Innovation** — advancing technology with accountability, transparency, and purpose.
-- **Transparency & Fairness** — promoting explainable, trustworthy, and equitable intelligent systems.
-- **Human-Centered Impact** — ensuring technology addresses real human needs and contributes positively to society.
+Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
 <br>
 
-We believe true progress is not only technological, but **human**, **ethical**, and **conscious**.
+[𖤐]()  Intelligence <br>
+[𖤐]()  Ethics & Governance <br>
+[𖤐]()  Cognitive Science <br>
+[𖤐]() Collective Intelligence <br>
+[𖤐]() Human-Centered Design
+
+<br><br>
+
+
+We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
+
+Today, Mindful AI grows as a collaborative organization with 42+ contributors, building solutions aligned with the future of Human-Centered AI.
+
+
+<br><br>
+
+
+## [Our Mission]()
+
+</sub>To design and develop intelligent systems that amplify human potential, while ensuring:</sub>
+
+[-]()  Ethical alignment <br>
+[-]()  Responsible innovation <br>
+[-]()  Transparency and fairness <br>
+[-]()  Positive societal impact 
 
 <br>
 
-> [!NOTE]
->
-> *Every project, every model, every line of code moves us closer to a shared vision:*
->
-> **A future where AI serves humanity — never the other way around.**
+</sub>We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()</sub>
 
-<br><br>
-
-## [What We Do](#what-we-do)
-
-Mindful AI combines technological expertise, applied experimentation, and human-centered thinking to explore, design, and develop solutions across the AI ecosystem.
-
-Our work encompasses:
-
-- **AI & Machine Learning** — intelligent models, predictive analytics, pattern recognition, and data-driven insights.
-- **Computer Vision & Geospatial Intelligence** — visual recognition, image analysis, spatial intelligence, and location-based applications.
-- **Generative AI & LLMs** — conversational systems, content generation, summarization, knowledge synthesis, and intelligent interfaces.
-- **AI Agents & Autonomous Systems** — adaptive agents, task orchestration, automation, and intelligent workflows.
-- **Blockchain & Decentralized Technologies** — distributed systems and emerging decentralized applications.
-- **Internet of Things (IoT)** — connected technologies, intelligent environments, and data-driven applications.
-- **Human-Centered AI** — solutions informed by psychology, cognition, semiotics, human-computer interaction, and human-centered design.
-
-<br><br>
-
-## [AI Governance & Responsible Innovation](#ai-governance--responsible-innovation)
-
-We embed **AI Governance by Design** into our approach to intelligent systems, integrating responsibility, transparency, ethics, and human alignment throughout the technology lifecycle.
-
-Our approach is informed by:
-
-- 🇧🇷 Brazilian AI Strategy and national regulatory developments.
-- 🇪🇺 European Union AI Act and emerging AI regulatory frameworks.
-- 🌍 Global Responsible AI principles and governance practices.
-- ⚖️ Core ethical principles: fairness, accountability, transparency, and human oversight.
-
-We strive to develop and promote systems that are:
-
-- **Explainable** — supporting the understanding of AI-generated decisions and outputs.
-- **Auditable** — enabling systematic evaluation and accountability.
-- **Secure** — incorporating security and data protection considerations.
-- **Human-Centered** — designed around human needs, values, and meaningful outcomes.
-
-<br><br>
-
-## [Governance, Risk & Compliance (GRC)](#governance-risk--compliance-grc)
-
-Responsible AI requires more than ethical principles. It requires practical governance, structured risk management, and continuous attention to regulatory and operational requirements.
-
-At Mindful AI, **compliance is a core consideration, not an afterthought**.
-
-Our GRC approach encompasses:
-
-**Regulatory & Standards Alignment**
-
-- 🇧🇷 Brazilian AI Strategy and applicable national requirements.
-- 🇪🇺 EU AI Act.
-- 🔐 Data protection principles under LGPD and GDPR.
-
-**Risk Management & Oversight**
-
-- AI risk assessment and mitigation.
-- Transparency, explainability, and accountability.
-- Continuous monitoring and evaluation.
-- Auditing and lifecycle management.
-- Documentation and regulatory alignment.
-- Evidence-based, reproducible, and verifiable outputs.
-
-Our goal is to support intelligent systems that are understandable, accountable, and developed with responsible technology practices.
-
-<br><br>
-
-## [What We Offer](#what-we-offer)
-
-We explore and develop AI-driven solutions that help individuals and organizations:
-
-- **Automate Operations** — streamline repetitive tasks and complex workflows.
-- **Optimize Resources** — reduce operational overhead and improve efficiency.
-- **Enhance Decision-Making** — transform data into actionable insights.
-- **Improve Productivity** — empower people through intelligent assistants and automation.
-- **Scale Intelligent Solutions** — develop adaptable systems that support evolving needs.
-- **Enable Innovation** — turn ideas and technological opportunities into practical applications.
-
-Our approach connects AI capabilities with real-world challenges, balancing technical performance, usability, and responsible implementation.
-
-<br><br>
-
-## [Core Technologies](#core-technologies)
-
-Our technology ecosystem spans multiple AI and emerging technology domains:
-
-**Artificial Intelligence & Data Science**
-
-- Machine Learning (ML)
-- Deep Learning and Neural Networks
-- Predictive Analytics
-- Data Science and Statistical Modeling
-- Generative Artificial Intelligence
-- Natural Language Processing (NLP)
-
-**Computer Vision & Geospatial Intelligence**
-
-- Object Detection and Image Recognition
-- Visual Intelligence and Image Analysis
-- Geospatial Data Processing
-- Geographic Information Systems (GIS)
-
-**Generative AI & Language Technologies**
-
-- Large Language Models (LLMs)
-- Conversational AI
-- Text Generation and Summarization
-- Semantic Analysis and Knowledge Synthesis
-- Retrieval-Augmented Generation (RAG)
-
-**Intelligent Automation & Emerging Technologies**
-
-- Intelligent Agents and Multi-Agent Systems
-- Autonomous Systems
-- Workflow Automation
-- Blockchain and Decentralized Technologies
-- Internet of Things (IoT)
-
-<br><br>
-
-## [Intelligent Systems & AI Solutions](#intelligent-systems--ai-solutions)
-
-We explore and develop intelligent applications that combine automation, computational intelligence, and human-centered interaction.
-
-**AI Assistants & Copilots**
-
-- Conversational assistants for information retrieval, analysis, and productivity.
-- AI-powered copilots for coding, research, and decision support.
-- Context-aware interfaces for human-AI interaction.
-
-**Bots & Workflow Automation**
-
-- Task automation and workflow orchestration.
-- Customer service and operational support.
-- Integrations with APIs, platforms, and digital services.
-
-**Intelligent Agents & Autonomous Systems**
-
-- Goal-oriented agents capable of executing multi-step tasks.
-- Agent-based workflows and orchestration.
-- Adaptive systems operating in dynamic environments.
-
-**Predictive & Decision Intelligence**
-
-- Data-driven forecasting and pattern recognition.
-- Predictive modeling and analytical insights.
-- Intelligent decision-support applications.
-
-<br><br>
-
-## [Strategic Value](#strategic-value)
-
-We aim to turn technological capabilities into meaningful organizational and human value.
-
-Our solutions and initiatives seek to help organizations:
-
-- Optimize processes and operational performance.
-- Enhance productivity and decision-making.
-- Unlock data-driven opportunities and strategies.
-- Automate workflows while preserving human oversight.
-- Improve digital experiences and human-computer interaction.
-- Focus human resources on creative, strategic, and high-impact work.
-
-<br><br>
-
-## [Open Source & Collective Intelligence](#open-source--collective-intelligence)
-
-We believe that **collective intelligence accelerates innovation**.
-
-Our open-source approach encourages collaboration, knowledge sharing, transparency, and continuous improvement.
-
-We promote:
-
-- **Collaboration** — bringing together different perspectives, skills, and ideas.
-- **Transparency** — encouraging accessible knowledge and reproducible development.
-- **Shared Innovation** — building solutions that can evolve through community contributions.
-- **Collective Learning** — creating opportunities to exchange knowledge and grow together.
-
-Mindful AI is more than a collection of projects. It is an evolving ecosystem where technology and people develop together.
 
 <br>
 
-> [!TIP]
+> [!IMPORTANT]
 >
-> 🛸 Everyone is welcome to contribute, share ideas, and grow with us.
+>  *Every project, every model, every line of code contributes to a greater mission:*
+> 
+>  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
+
+
 
 <br><br>
 
-## [Our Philosophy](#our-philosophy)
 
-We believe technology is not only engineered; it is also **imagined, experienced, and lived**.
+##  [Governance & Responsible AI]()
 
-Our perspective explores the intersection of:
+</sub>We embed [**AI Governance by Design**]() into every solution — ensuring that intelligence is developed with responsibility, ethics, and human alignment from the ground up.</sub>
 
-- Human Consciousness
-- Artificial and Collective Intelligence
-- Psychology and Cognition
-- Semiotics, Language, and Meaning
-- Ethics and Responsible Innovation
-- Human Evolution and Technological Progress
+<b><b>
 
-At Mindful AI:
+[***Our approach is guided by***:]()
 
-- 𖤐 **Code is intention.**
-- 𖤐 **Systems are extensions of thought.**
-- 𖤐 **Innovation is a collective awakening.**
+[-]()  🇧🇷 Brazilian AI Strategy  <br>
+[-]() 🌍 Global Responsible AI frameworks  <br>
+[-]()  ⚖️ Core ethical principles: fairness, accountability, transparency  <br>
 
-We envision a relationship between humans and technology built on mutual understanding, responsible intelligence, and shared progress.
+<br>
+
+[***We design systems that are***:]()
+
+[-]()  Explainable  <br>
+[-]()  Auditable  <br>
+[-]()  Secure  <br>
+[-]()  Human-centered and aligned with societal values  <br>
+
 
 <br><br>
 
-### <p align="center">*One People. One World. One Spirit...* [**We Are All One**](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)! 🌎🤍</p>
 
-<p align="center">
+##  [Governance, Risk & Compliance (GRC)]()
+
+At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
+
+<sub>We operationalize governance through structured risk management, regulatory alignment, and continuous oversight.</sub>
+
+<br>
+
+[***Our framework ensures alignment with:***]()
+
+[-]()  🇧🇷 Alignment with the Brazilian AI Strategy <br>
+[-]()  🇪🇺 EU AI Act  <br>
+[-]()  🔐 Data protection regulations (LGPD/GDPR principles) 
+
+<br>
+
+[***Our approach integrates:***]()
+
+[-]()  Risk assessment and mitigation <br> 
+
+[-]()  Continuous monitoring, auditing, and lifecycle management  <br>
+
+[-]()  Regulatory compliance and documentation practices  <br>
+
+[-]()  Transparency, explainability, and verifiable trustworthiness — ensuring AI systems are interpretable, auditable, aligned with global standards, and grounded in truthful, evidence-based, and reproducible outputs  
+
+<br><br>
+
+## [What We Offer]()
+
+</sub>Mindful AI Assistants provides a complete ecosystem of AI solutions designed to:</sub>
+
+<br>
+
+[-]() Reduce operational costs <br>
+[-]() Improve decision-making accuracy <br>
+[-]() Automate complex workflows <br>
+[-]() Scale intelligent systems responsibly
+
+#
+
+<br>
+
+### *<p align="center"> One People. One World. One Spirit... [We Are All One](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)!* 🌎🤍 
+
+
+
+ <p align="center">
   <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
-    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" alt="Mindful AI community artwork" />
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
   </a>
 </p>
 
-### <p align="center">***TOGETHER WE ARE STRONGER. TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎</p>
 
-###### <p align="center">🪷 *LET'S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED, BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION.*</p>
+#### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎
+
+###### <p align="center"> 🪷 ***LET’S BUILD A COMMUNITY WHERE DIFFERENCE IS NOT JUDGED , BUT RECOGNIZED AS A SOURCE OF INTELLIGENCE AND INNOVATION !*** 
+
+ <br><br>
+
+## [Core Technologies]()
+
+[-]() Generative AI <br>
+[-]() Content generation, summarization, ideation, and creative intelligence <br>
+[-]() Predictive AI <br>
+[-]() Data-driven forecasting, pattern recognition, and strategic insights <br>
+[-]() Adaptive AI Agents <br>
+[-]() Autonomous systems that learn, evolve, and act in dynamic environments
 
 <br><br>
 
-## [Contribute](#contribute)
+## [Intelligent Systems]()
 
-Every contribution, big or small, helps make Mindful AI better. We welcome developers, researchers, designers, technology enthusiasts, and anyone interested in contributing ideas and perspectives.
+[-]() Real-time assistants for coding, analysis, and decision support <br>
+[-]() Bots <br>
+[-]() Task automation systems (customer service, operations, workflows) <br>
+[-]() Agents <br>
+[-]() Autonomous decision-making systems with continuous learning capabilities
 
-Whether you want to improve an existing project, suggest a new feature, share feedback, or explore a collaboration, **your contribution matters**.
+<br><br>
+
+
+## [Strategic Value]()
+
+</sub>Our solutions enable organizations to:</sub>
+
+[-]() Optimize performance <br>
+[-]() Enhance productivity <br>
+[-]() Unlock data-driven strategies <br>
+[-]() Focus on high-impact human work
+
+<br><br>
+
+
+## [Open Source Approach]()
+
+</sub>We believe in collective intelligence.
+
+[***Our open-source model promotes:***]()
+
+[𖤐]() Collaboration <br>
+[𖤐]() Transparency <br>
+[𖤐]() Shared innovation
 
 <br>
 
-## [Get Involved & Spread the Word](#get-involved--spread-the-word)
 
-There are several ways to become part of the Mindful AI ecosystem:
+>[!TIP]
+>
+> ###### 🛸 Everyone is invited to build, contribute, and evolve with us.   
 
-- ⭐ **Star our repositories** — help others discover our work and support open-source development.
-- 💡 **Share your ideas** — propose improvements, features, and new directions.
-- 🛠️ **Contribute code** — submit fixes, enhancements, and new implementations.
-- 🌍 **Spread the word** — share our projects and help grow the community.
+<br><br>
+
+
+## [Philosophy]()
+
+</sub>We embrace the idea that:</sub>
+
+Technology [***Is Not Only***]() Engineered ;  It is [***Imagined***](), [***Experienced***](), and [***Lived***]().
 
 <br>
 
-### 💡 Have an Idea?
+[***We explore the intersection of:***]()
 
-We would love to hear it.
+[-]() Consciousness <br>
+[-]() Intelligence <br>
+[-]() Ethics <br>
+[-]() Human evolution
 
-Open an issue and share your suggestion. Whether it is a new feature, an improvement, a bug report, documentation, or a different perspective, **every idea is welcome, respected, and thoughtfully considered**.
+<br>
+
+[***At Mindful AI:***]()
+
+[𖤐]() Code is intention <br>
+[𖤐]() Systems are extensions of thought <br>
+[𖤐]() Innovation is a collective awakening 
+
+<br><br>
+
+
+## 𖤐 [Contribute]()
+
+</sub>Every contribution—big or small—helps make this project better. We'd love to hear your ideas and collaborate with you.</sub>
+
+<br>
+
+## 🛸 [Get Involved & Spread the Word]()
+
+</sub>Ready to join the Mindful AI ecosystem? Here are a few ways you can help:</sub>
+
+[-]() ⭐ If this project has been helpful, consider giving it a star. It helps others discover the project and supports the community. <br>
+
+[-]() Share your ideas, suggestions, or feedback by opening an issue. <br>
+
+[-]()  Contribute code or improvements by submitting a pull request.
+
+<br>
+
+### 💡 Have an idea?
+
+Create an issue and tell us about it.
+
+[**Every idea is welcome, respected, and thoughtfully considered.**]() Whether it's a new feature, an improvement, a bug report, documentation, or simply a different perspective, we'd love to hear from you.
 
 Please use the **`new idea`** label when submitting new suggestions. ⚡
 
 <br>
 
-### 🔭 Ready to Contribute?
+### 🔭 Ready to contribute?
 
-Fork a repository, explore the project, and submit a pull request.
+Fork the repository and submit a pull request.
 
 Before getting started, please read our **[Contribution Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTING.md)** for contribution guidelines and best practices.
 
-<br>
+Together, we can build something meaningful for everyone. 💙
 
-### <p align="center">  [***Together, we can build something meaningful for everyone***]().
 
 
 <br><br>
+
+
+### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+
+<br><br>
+
+     
+### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
+
 
 #
 
