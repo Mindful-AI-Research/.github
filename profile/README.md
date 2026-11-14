@@ -207,29 +207,7 @@ By combining technical rigor, experimentation, reproducibility, and open-source 
 
 We are also proud to highlight PUC–SP's Data Science and Artificial Intelligence program, which received a [five-star rating](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) in the 2024 Guia da Faculdade.
 
-
-
-
-----
-
-Its expertise encompasses AI ethics, transparency, explainability, algorithmic accountability, and technology governance, including evolving regulatory frameworks such as the EU AI Act, so that intelligent solutions are not only technically effective, but also transparent, trustworthy, and aligned with human needs.
-
- Grounded in technical excellence, scientific rigor, reproducibility, and open-source collaboration, Mindful AI Research seeks to advance technology that is not only intelligent, but also meaningful, responsible, and human-centered.
-  
-<br>
-
-[𖤐]()  Intelligence <br>
-[𖤐]()  Ethics & Governance <br>
-[𖤐]()  Cognitive Science <br>
-[𖤐]() Collective Intelligence <br>
-[𖤐]() Human-Centered Design
-
-<br><br>
-
-
-We proudly highlight PUC–SP’s [top-rated (5-star ⭐)](https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas) program in Data Science and Artificial Intelligence (Humanistic AI), the only one in Brazil integrating AI, Ethics, Governance, and Responsible AI in alignment with the EU AI Act.
-
-Today, Mindful AI grows as a collaborative organization with 42+ contributors, building solutions aligned with the future of Human-Centered AI.
+Mindful AI Research brings together a growing open-source community of 42+ contributors (community figure to be kept current), connecting people, ideas, and technologies to build solutions that empower people and serve humanity.
 
 
 <br><br>
@@ -237,16 +215,20 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 ## [Our Mission]()
 
-</sub>To design and develop intelligent systems that amplify human potential, while ensuring:</sub>
+To design and develop intelligent technologies that amplify human potential, transform ideas into meaningful solutions, and advance responsible innovation.
 
-[-]()  Ethical alignment <br>
-[-]()  Responsible innovation <br>
-[-]()  Transparency and fairness <br>
-[-]()  Positive societal impact 
+Our mission is guided by four principles:
+
+ <br>
+ 
+- [**Ethical Intelligence**]()   - integrating ethical considerations into the design and development of AI.   <br>
+- [**Responsible Innovation**]() - advancing technology with accountability, care, and purpose.   <br>
+- [**Transparency and Fairness**]() - promoting systems that are understandable, trustworthy, and equitable.   <br>
+- [**Human-Centered Impact**]() - addressing real human needs and considering technology's broader effects on society.
 
 <br>
 
-</sub>We believe true progress is not only technological , but [**human**](), [**ethical**](), and [**conscious.**]()</sub>
+</sub>Technology grows stronger when knowledge is shared and innovation is built collectively.</sub>
 
 
 <br>
@@ -256,9 +238,11 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 >  *Every project, every model, every line of code contributes to a greater mission:*
 > 
 >  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
+>
+> 🛸*Everyone is welcome to learn, build, contribute, and grow with us* !
 
 
-
+====
 <br><br>
 
 
