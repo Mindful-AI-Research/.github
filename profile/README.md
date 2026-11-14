@@ -386,11 +386,11 @@ Our research and development seek to help people and organizations:
 <br>
 
 - [**Reduce operational friction**]() through process improvement and appropriate automation. <br>
-- **Improve decision-making** by transforming data into useful insights. <br>
-- **Coordinate complex workflows** through integrated intelligent systems. <br>
-- **Enhance productivity** with assistants, copilots, and automation. <br>
-- **Develop adaptable solutions** that can evolve with changing needs. <br>
-- **Turn ideas into applications** through experimentation and applied research.
+- [**Improve decision-making**]()  by transforming data into useful insights. <br>
+- [**Coordinate complex workflows**]()  through integrated intelligent systems. <br>
+- [**Enhance productivity**]()  with assistants, copilots, and automation. <br>
+- [**Develop adaptable solutions**]()  that can evolve with changing needs. <br>
+- [**Turn ideas into applications**]()  through experimentation and applied research.
 
 <br>
 
