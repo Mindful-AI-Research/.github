@@ -197,6 +197,8 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 
 Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari);  a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, who is currently pursuing her fourth undergraduate degree, in Data Science and Artificial Intelligence at PUC-SP (Pontifícia Universidade Católica de São Paulo), the lab connects technology, human behavior, cognition, semiotics, and human-centered design to create intelligent technol⚡️ogies that respond to both technical challenges and human needs.
 
+At the intersection of human cognition, semiotics, intelligent systems, and emerging technologies, the lab explores how people perceive, interpret, communicate, and interact with technology. This perspective informs the design, development, evaluation, and governance of AI-driven solutions, bringing behavioral insight, language, meaning-making, and human-computer interaction into practical innovation.
+
 Her multidisciplinary journey bridges technology, human behavior, cognition, and consciousness, shaping the foundation of Mindful AI as a convergence of:
 
 <br>
