@@ -231,7 +231,7 @@ Our mission is guided by four principles:
 </sub>We believe true progress is not only technological, but also **human, ethical, and conscious**..</sub>
 
 
-<br><br>
+<br>
 
 > [!NOTE]
 >
@@ -285,7 +285,6 @@ Our work spans interconnected areas of research and development:
 - Autonomous systems and workflow orchestration
 - Blockchain and decentralized technologies
 - Internet of Things (IoT)
-
 
 
 <br><br>
@@ -347,7 +346,9 @@ Our work is informed by:
 
 <br>
 
-We aim to develop and promote systems that are:
+> [!NOTE]
+>
+> **We aim to develop and promote systems that are:**
 
 <br>
 
@@ -357,7 +358,7 @@ We aim to develop and promote systems that are:
 - **Fair** - evaluated for potential bias and unequal impacts.
 - **Human-centered** - designed around human needs, values, and meaningful oversight.
 
-<br><br>
+<br>
 
 > [!NOTE]
 >
