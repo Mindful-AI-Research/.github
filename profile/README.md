@@ -192,12 +192,19 @@ https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952
 <!-- ========= START ABOUT US ========= -->
 ## [About Us]()
 
-𖤐 [**Mindful AI  Research**]()  is an independent, open-source research and innovation lab advancing human-centered artificial intelligence through interdisciplinary expertise, applied research, and responsible innovation. Its work spans machine learning and data science, computer vision and geospatial intelligence, intelligent agents and autonomous systems, conversational AI and large language models (LLMs), and the Internet of Things (IoT).
+𖤐 [**Mindful AI  Research**]()  is an independent, open-source research and innovation lab advancing human-centered artificial intelligence through applied research, technological development, interdisciplinary collaboration, and responsible innovation.
+
+Our work explores machine learning and data science, computer vision, geospatial intelligence, intelligent agents, conversational AI and large language models (LLMs), as well as emerging and decentralized technologies.
 
 
-Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari);  a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, who is currently pursuing her fourth undergraduate degree, in Data Science and Artificial Intelligence at PUC-SP (Pontifícia Universidade Católica de São Paulo), the lab connects technology, human behavior, cognition, semiotics, and human-centered design to create intelligent technologies that respond to both technical challenges and human needs.
+Founded by  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari); a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, and currently pursuing undergraduate studies in Data Science and Artificial Intelligence at PUC–SP (Pontifícia Universidade Católica de São Paulo), the lab brings together perspectives from technology, human behavior, cognition, design, and semiotics.
+  
+This interdisciplinary foundation informs how we investigate the relationship between people and intelligent systems: how people perceive, interpret, communicate, and interact with technology. We bring human insight into the design, development, evaluation, and practical application of AI-driven solutions.
 
-At the intersection of human cognition, semiotics, intelligent systems, and emerging technologies, the lab explores how people perceive, interpret, communicate, and interact with technology. This perspective informs the design, development, evaluation, and governance of AI-driven solutions, bringing behavioral insight, language, meaning-making, and human-computer interaction into practical innovation.
+
+
+
+----
 
 Its expertise encompasses AI ethics, transparency, explainability, algorithmic accountability, and technology governance, including evolving regulatory frameworks such as the EU AI Act, so that intelligent solutions are not only technically effective, but also transparent, trustworthy, and aligned with human needs.
 
