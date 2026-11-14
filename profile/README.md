@@ -422,6 +422,33 @@ Technology grows stronger when knowledge is shared and innovation is built colle
 
 <br><br>
 
+## Our Philosophy
+
+Technology is not only engineered; it is also **imagined, experienced, interpreted, and lived**.
+
+We explore the intersections of:
+
+- Human cognition and intelligence
+- Psychology and behavior
+- Semiotics, language, and meaning
+- Ethics and responsibility
+- Human-computer interaction
+- Emerging technologies and human development
+
+<br>
+
+
+At Mindful AI:
+
+<br>
+
+- **Code is intention.**
+- **Systems are extensions of thought.**
+- **Innovation is a collective endeavor.**
+
+<br>
+
+We believe technological progress should strengthen human understanding, encourage collaboration, and remain aligned with the values that make innovation meaningful.
 
 
 
@@ -440,7 +467,8 @@ Technology grows stronger when knowledge is shared and innovation is built colle
 
 
 
-🚧🚧
+
+🚧🚧🚧🚧
 
 <br><br>
 
