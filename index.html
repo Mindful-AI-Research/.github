@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>MindFul AI: Research &amp; Consulting</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@400;500;600&family=Noto+Sans+Devanagari:wght@300&family=Pinyon+Script&family=Playfair+Display:ital,wght@1,500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@400;500;600&family=Noto+Sans+Devanagari:wght@300&family=Pinyon+Script&family=Cormorant+Garamond:ital,wght@1,500;1,600&family=Playfair+Display:ital,wght@1,500&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#010103;--ink:#E8EEF6;--mute:#A4AFBD;--line:#161b27;--bl:#3F9DE6;--cb:#02030a;--w20:rgba(255,255,255,.12);--w10:rgba(255,255,255,.06);--w50:rgba(255,255,255,.5);--hud:rgba(13,15,16,.84);--pl:rgba(8,10,16,.9);--tq:#00FFFF;--tg1:#006AE8;--tg2:#01FFFF}
 body[data-theme=light]{--bg:#f3f6fb;--ink:#0b1220;--mute:#4a5668;--line:#d5dce8;--cb:#ffffff;--w20:rgba(0,0,0,.14);--w10:rgba(0,0,0,.07);--w50:rgba(0,0,0,.5);--hud:rgba(255,255,255,.92);--pl:rgba(255,255,255,.92);--tq:#0097A7;--tg1:#006AE8;--tg2:#00B8C4}
@@ -480,6 +480,20 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 .def p.vis.big.sub{font-family:Inter,system-ui,sans-serif!important;font-weight:300!important;font-style:normal!important;text-transform:uppercase;letter-spacing:.34em;font-size:clamp(.82rem,2.3vw,1.2rem)!important;line-height:1.7!important;color:#bcd6ee!important;margin:.9em auto 2.2em!important;text-shadow:0 1px 2px rgba(2,6,16,.95),0 0 14px rgba(2,6,16,.9)!important}
 .quote{text-shadow:0 1px 2px rgba(2,6,16,.9),0 0 18px rgba(2,6,16,.7)}
 @media(max-width:560px){.def{line-height:1.85!important}.def p.vis.big.sub{letter-spacing:.22em}}
+
+/* ===== ROUND 6: frase epica uniforme, tooltips, efeito nos cards ===== */
+.def p.vis.big{font-family:'Cormorant Garamond','Playfair Display',Lora,Georgia,serif!important;font-style:italic!important;font-weight:600!important;font-size:clamp(2.3rem,7.4vw,4.4rem)!important;line-height:1.14!important;letter-spacing:0!important;text-shadow:none!important}
+.def p.vis.big .c,.def p.vis.big .c.pl{background-image:none!important;-webkit-background-clip:border-box!important;background-clip:border-box!important;color:#f4faff!important;-webkit-text-fill-color:#f4faff!important;text-shadow:0 0 26px rgba(0,190,255,.28),0 2px 4px rgba(2,6,16,.9)!important}
+.def p.vis.big .c:not(.pl){color:#5fd9f2!important;-webkit-text-fill-color:#5fd9f2!important}
+.def p.vis.big.sub .c,.def p.vis.big.sub .c.pl{color:#bcd6ee!important;-webkit-text-fill-color:#bcd6ee!important;text-shadow:0 1px 2px rgba(2,6,16,.95)!important}
+.def p.vis.big.sub{font-family:Inter,system-ui,sans-serif!important;font-style:normal!important;font-weight:400!important}
+#tip{position:fixed;z-index:3000;pointer-events:none;max-width:240px;padding:6px 10px;border-radius:8px;background:rgba(6,14,30,.96);border:1px solid rgba(63,157,230,.45);color:#e8f2ff;font:500 12px/1.35 Inter,system-ui,sans-serif;letter-spacing:.01em;box-shadow:0 6px 22px rgba(0,0,0,.5);opacity:0;transform:translateY(4px);transition:opacity .15s,transform .15s;white-space:nowrap}
+#tip.on{opacity:1;transform:none}
+.card .gl{position:absolute;inset:0;border-radius:inherit;pointer-events:none;opacity:0;transition:opacity .35s;background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),rgba(25,198,198,.17),rgba(63,157,230,.07) 45%,transparent 70%)}
+.card:hover .gl{opacity:1}
+.card .sp{position:absolute;pointer-events:none;width:var(--z,9px);height:var(--z,9px);margin:calc(var(--z,9px)/-2) 0 0 calc(var(--z,9px)/-2);background:var(--c,#3FE0D0);clip-path:polygon(50% 0,60% 40%,100% 50%,60% 60%,50% 100%,40% 60%,0 50%,40% 40%);filter:drop-shadow(0 0 4px var(--c,#3FE0D0));animation:spk .95s ease-out forwards;z-index:3}
+@keyframes spk{0%{opacity:0;transform:translate(0,0) scale(.3) rotate(0)}18%{opacity:1}100%{opacity:0;transform:translate(var(--dx,0),var(--dy,-26px)) scale(1.1) rotate(80deg)}}
+@media print{#tip,.card .gl,.card .sp{display:none!important}}
 </style></head><body data-lang="en">
 <div id="intro" role="dialog" aria-label="Opening quote"><div class="glow"></div>
 <div class="wrap stage2"><div class="ivid"><video muted loop autoplay playsinline preload="auto"></video></div><p class="qt">What we do in life,</p><p class="qt">echoes in eternity</p>
@@ -617,7 +631,7 @@ if(rqi)rqi.addEventListener("input",function(){cq=rqi.value.trim().toLowerCase()
 
 (function(){var secs=[0,1,2,3,4,5,6].map(function(i){return document.getElementById("s"+i)}).filter(Boolean),cur=0,C=87.96,v=document.getElementById("rv"),$=function(i){return document.getElementById(i)};
 function lg(){return document.body.dataset.lang==="pt"?1:0}
-function titles(){document.querySelectorAll("[data-t]").forEach(function(b){b.title=b.dataset.t.split("|")[lg()]})}
+function titles(){document.querySelectorAll("[data-t]").forEach(function(b){b.dataset.tip=b.dataset.t.split("|")[lg()]})}
 var _L=L;L=function(l){_L(l);titles()};titles();
 var dest=null,dt=0;
 function P(){var vh=innerHeight,max=document.documentElement.scrollHeight-vh,out=[];
@@ -747,4 +761,18 @@ setTimeout(begin,700);setTimeout(function(){var a=document.getElementById("mus")
 function go(){m.classList.add("off");m.parentNode.classList.add("pv");try{rv.currentTime=0}catch(e){}rv.muted=false;var p=rv.play();if(p&&p.catch)p.catch(function(){m.classList.remove("off")})}
 m.addEventListener("click",go);m.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){e.preventDefault();go()}});
 rv.addEventListener("ended",function(){m.classList.remove("off");m.parentNode.classList.remove("pv")})})();
+
+(function(){var tip=document.createElement("div");tip.id="tip";tip.setAttribute("role","tooltip");document.body.appendChild(tip);var cur=null;
+function txt(e){if(e.getAttribute("title")){e.dataset.tip=e.getAttribute("title");e.removeAttribute("title")}return e.dataset.tip||""}
+function show(e){var t=txt(e);if(!t){hide();return}cur=e;tip.textContent=t;var r=e.getBoundingClientRect();tip.classList.add("on");var w=tip.offsetWidth,h=tip.offsetHeight,x=r.left+r.width/2-w/2,y=r.bottom+10;if(y+h>innerHeight-8||r.top>innerHeight*.6)y=r.top-h-10;x=Math.max(8,Math.min(innerWidth-w-8,x));y=Math.max(8,y);tip.style.left=x+"px";tip.style.top=y+"px"}
+function hide(){cur=null;tip.classList.remove("on")}
+var sel=".hud-btn,.hud-ring,.fab,.lang button,.ft .ic a,.vol,.tl,[data-t],[title]";
+document.addEventListener("mouseover",function(e){var t=e.target.closest&&e.target.closest(sel);if(t&&t!==cur)show(t);else if(!t)hide()});
+document.addEventListener("focusin",function(e){var t=e.target.closest&&e.target.closest(sel);if(t)show(t)});
+["focusout","scroll","pointerdown"].forEach(function(n){addEventListener(n,hide,{passive:true,capture:true})});
+// efeito nos cards: brilho que segue o mouse + estrelinhas teal
+var rm=matchMedia("(prefers-reduced-motion:reduce)").matches,cols=["#19C6C6","#3FE0D0","#7FF0E6","#3F9DE6","#9FF5EE"],last=0;
+document.addEventListener("pointermove",function(e){if(e.pointerType==="touch")return;var c=e.target.closest&&e.target.closest(".card");if(!c)return;var r=c.getBoundingClientRect(),x=e.clientX-r.left,y=e.clientY-r.top,g=c.querySelector(":scope>.gl");if(!g){g=document.createElement("i");g.className="gl";c.insertBefore(g,c.firstChild)}c.style.setProperty("--mx",x+"px");c.style.setProperty("--my",y+"px");
+if(rm)return;var n=performance.now();if(n-last<55)return;last=n;if(c.querySelectorAll(".sp").length>16)return;var s=document.createElement("i");s.className="sp";var a=Math.random()*6.28;s.style.left=(x+(Math.random()*16-8))+"px";s.style.top=(y+(Math.random()*16-8))+"px";s.style.setProperty("--c",cols[Math.random()*cols.length|0]);s.style.setProperty("--z",(6+Math.random()*9).toFixed(1)+"px");s.style.setProperty("--dx",(Math.cos(a)*22).toFixed(0)+"px");s.style.setProperty("--dy",(Math.sin(a)*22-14).toFixed(0)+"px");s.addEventListener("animationend",function(){s.remove()});c.appendChild(s)},{passive:true});
+})();
 </script></body></html>
