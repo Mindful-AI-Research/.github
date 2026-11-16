@@ -430,20 +430,12 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 .card:hover .acc{top:10px;bottom:10px;opacity:1}
 .card .no{position:absolute;top:18px;right:20px;font:600 .66rem 'JetBrains Mono',monospace;letter-spacing:.1em;color:var(--c);opacity:.8}
 .card .th{padding-right:54px}
-.ft .ic a{--c1:#00E5FF;--c2:#3F7BFF;background:linear-gradient(var(--pl),var(--pl)) padding-box,linear-gradient(135deg,var(--c1),var(--c2)) border-box!important}
+.ft .ic a{--c1:#2F6BFF;--c2:#7FD3FF;background:linear-gradient(var(--pl),var(--pl)) padding-box,linear-gradient(135deg,var(--c1),var(--c2)) border-box!important}
 .ft .ic a svg{fill:var(--c1)!important;filter:drop-shadow(0 0 5px color-mix(in srgb,var(--c1) 55%,transparent))!important}
 .ft .ic a svg .st{stroke:var(--c1)!important}
 .ft .ic a b,.ft .ic a b.g{color:var(--c1)!important}
 .ft .ic a:hover{box-shadow:0 8px 26px -6px var(--c1)!important}
 .ft .ic a:hover svg{fill:var(--c2)!important}.ft .ic a:hover b,.ft .ic a:hover b.g{color:var(--c2)!important}.ft .ic a:hover svg .st{stroke:var(--c2)!important}
-.ft .ic a:nth-child(1){--c1:#43E660;--c2:#B6F58A}
-.ft .ic a:nth-child(2){--c1:#2D8CFF;--c2:#8CC7FF}
-.ft .ic a:nth-child(3){--c1:#00E5FF;--c2:#7C9CFF}
-.ft .ic a:nth-child(4){--c1:#A66BFF;--c2:#F06BFF}
-.ft .ic a:nth-child(5){--c1:#EAF2FB;--c2:#9AA9BC}
-.ft .ic a:nth-child(6){--c1:#FF6B6B;--c2:#FFB36B}
-.ft .ic a:nth-child(7){--c1:#FFD21E;--c2:#FF9D00}
-.ft .ic a:nth-child(8){--c1:#FF5CAA;--c2:#C77DFF}
 
 /* ===== VOLUME SEMPRE VISIVEL ===== */
 .vol{-webkit-appearance:none;appearance:none;opacity:.92!important;height:34px!important;width:132px!important;right:92px!important;bottom:38px!important;padding:0 12px;border-radius:100px;background:rgba(6,14,28,.88);border:1px solid rgba(63,157,230,.4);backdrop-filter:blur(14px);cursor:pointer;display:block!important;touch-action:none}
@@ -455,11 +447,39 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 @media(max-width:820px){.vol{display:block!important;right:14px!important;bottom:92px!important;width:140px!important}}
 
 #intro .choices{bottom:max(64px,9vh)!important}#intro .hint{bottom:12px!important}
+.ft .ic a:nth-child(1){--c1:#2F6BFF;--c2:#7EA3FF}
+.ft .ic a:nth-child(2){--c1:#2B78FD;--c2:#7CABFE}
+.ft .ic a:nth-child(3){--c1:#2786FB;--c2:#79B4FC}
+.ft .ic a:nth-child(4){--c1:#2393F9;--c2:#77BCFB}
+.ft .ic a:nth-child(5){--c1:#20A0F6;--c2:#74C4FA}
+.ft .ic a:nth-child(6){--c1:#1CADF4;--c2:#72CCF8}
+.ft .ic a:nth-child(7){--c1:#18BBF2;--c2:#70D5F7}
+.ft .ic a:nth-child(8){--c1:#14C8F0;--c2:#6DDDF6}
 /* ===== ROUND 4: avatar da ABERTURA maior (o video da pagina principal volta ao tamanho moderado) ===== */
 #intro .ivid{width:min(720px,92vw,calc((100vh - 3.8*min(64px,7.6vh) - 200px)*1.667))!important;aspect-ratio:1000/600!important;margin:0 auto .9rem!important}
 #intro .ivid video{object-position:50% 38%!important}
 @media(max-height:760px){#intro .qt{font-size:min(clamp(2rem,6vw,4rem),7.6vh)!important}#intro .att{margin-top:.6rem!important}#intro .wrap.stage2{padding-bottom:clamp(5.5rem,17vh,9rem)!important}#intro .choices{bottom:max(64px,9vh)!important}}
 @media(max-width:820px){#intro .ivid{width:min(92vw,calc((100vh - 3.8*min(64px,7.6vh) - 230px)*1.667))!important}}
+
+/* ===== VISION: nova tipografia (Lora reta + destaque em degrade, quebras equilibradas) ===== */
+.def p.vis{font-style:normal!important;text-wrap:balance}
+.def p.vis.lead{font-family:Inter,sans-serif!important;font-size:clamp(.78rem,1.5vw,.92rem)!important;font-weight:500;letter-spacing:.16em;text-transform:uppercase;line-height:1.9!important;color:#8fa6bf!important;max-width:560px!important;margin:3.2em auto 1.3em!important;padding-top:34px;position:relative}
+.def p.vis.lead::before{content:"";position:absolute;left:50%;top:0;width:64px;height:1px;translate:-50% 0;background:linear-gradient(90deg,transparent,#3F9DE6,#00E5FF,#3F9DE6,transparent);box-shadow:0 0 12px rgba(0,229,255,.55)}
+.def p.vis.big{font-family:Lora,Georgia,serif!important;font-weight:500!important;font-size:clamp(1.55rem,4.4vw,2.7rem)!important;line-height:1.28!important;color:#EEF6FF!important;text-shadow:none!important;margin:0 auto!important;max-width:820px!important}
+.def p.vis.big em.gt{font-style:normal;font-weight:600}
+.def p.vis.big.sub{font-weight:400!important;font-style:italic!important;font-size:clamp(1.2rem,3.1vw,1.9rem)!important;color:#9fb8d2!important;margin:.55em auto 1.6em!important}
+
+/* ===== ROUND 5: legibilidade do crawl, frase epica, ceu dimmer ===== */
+#sky{transition:opacity 1.1s ease}body.rd #sky{opacity:.26}
+.def{font-size:clamp(1.14rem,2.2vw,1.34rem)!important;line-height:1.95!important;font-weight:500;color:#d9e4f2!important;text-shadow:0 1px 2px rgba(2,6,16,.95),0 0 16px rgba(2,6,16,.9),0 0 34px rgba(2,6,16,.75)}
+.def p:last-child{color:#fff!important}
+.def .gt,.def .wr .c{text-shadow:none}
+.def p.vis.lead{font-size:clamp(.82rem,1.7vw,1rem)!important;font-weight:600;color:#a9c2dc!important}
+.def p.vis.big{font-family:'Pinyon Script','Snell Roundhand','Apple Chancery',cursive!important;font-style:normal!important;font-weight:400!important;font-size:clamp(2.6rem,9.5vw,5.2rem)!important;line-height:1.12!important;letter-spacing:.005em;text-align:center;color:#f2f9ff!important;margin:.1em auto .15em!important;max-width:900px!important;text-shadow:0 0 30px rgba(0,200,255,.35),0 2px 3px rgba(2,6,16,.9)!important}
+.def p.vis.big em.gt{font-weight:400;text-shadow:none}
+.def p.vis.big.sub{font-family:Inter,system-ui,sans-serif!important;font-weight:300!important;font-style:normal!important;text-transform:uppercase;letter-spacing:.34em;font-size:clamp(.82rem,2.3vw,1.2rem)!important;line-height:1.7!important;color:#bcd6ee!important;margin:.9em auto 2.2em!important;text-shadow:0 1px 2px rgba(2,6,16,.95),0 0 14px rgba(2,6,16,.9)!important}
+.quote{text-shadow:0 1px 2px rgba(2,6,16,.9),0 0 18px rgba(2,6,16,.7)}
+@media(max-width:560px){.def{line-height:1.85!important}.def p.vis.big.sub{letter-spacing:.22em}}
 </style></head><body data-lang="en">
 <div id="intro" role="dialog" aria-label="Opening quote"><div class="glow"></div>
 <div class="wrap stage2"><div class="ivid"><video muted loop autoplay playsinline preload="auto"></video></div><p class="qt">What we do in life,</p><p class="qt">echoes in eternity</p>
@@ -476,8 +496,8 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 <div class="hud" id="hud">
 <svg width="34" height="34" viewBox="0 0 34 34" class="hud-ring" id="ring"><circle cx="17" cy="17" r="14" fill="none" stroke="var(--w20)" stroke-width="2.5"/><circle id="rc" cx="17" cy="17" r="14" fill="none" stroke="#3F9DE6" stroke-width="2.5" stroke-dasharray="87.96" stroke-dashoffset="87.96" stroke-linecap="round" transform="rotate(-90 17 17)" style="transition:stroke-dashoffset .5s"/><text id="rt" x="17" y="21" text-anchor="middle" font-size="9" fill="#3F9DE6">1</text></svg>
 <div class="hud-sep"></div>
-<button class="hud-btn" id="bp" data-t="Previous|Anterior">◀</button>
-<button class="hud-btn" id="bn" data-t="Next|Próximo">▶</button>
+<button class="hud-btn" id="bp" data-t="Previous passage|Trecho anterior">◀</button>
+<button class="hud-btn" id="bn" data-t="Next passage|Próximo trecho">▶</button>
 <button class="hud-btn" id="br" data-t="Restart (R)|Reiniciar (R)">↺</button>
 <button class="hud-btn" id="bf" data-t="Fullscreen (F)|Tela cheia (F)">⛶</button>
 <button class="hud-btn" id="bm" data-t="Replay text motion|Repetir movimento do texto">✨</button>
@@ -488,8 +508,8 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 <button class="hud-btn" id="bd" data-t="Download PDF|Baixar PDF" style="font-weight:600;color:#3F9DE6">⬇</button>
 </div>
 <div class="md" id="md"><div><h3><span lang="en">Keyboard Shortcuts</span><span lang="pt">Atalhos de teclado</span></h3>
-<p><kbd>→ / ↓</kbd><span lang="en">Next section</span><span lang="pt">Próxima seção</span></p>
-<p><kbd>← / ↑</kbd><span lang="en">Previous section</span><span lang="pt">Seção anterior</span></p>
+<p><kbd>→ / ↓</kbd><span lang="en">Next passage</span><span lang="pt">Próximo trecho</span></p>
+<p><kbd>← / ↑</kbd><span lang="en">Previous passage</span><span lang="pt">Trecho anterior</span></p>
 <p><kbd>F</kbd><span lang="en">Toggle fullscreen</span><span lang="pt">Alternar tela cheia</span></p>
 <p><kbd>R</kbd><span lang="en">Restart from cover</span><span lang="pt">Reiniciar a partir da capa</span></p>
 <p><kbd>?</kbd><span lang="en">Toggle this panel</span><span lang="pt">Abrir/fechar este painel</span></p>
@@ -507,7 +527,7 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 <a class="vl" href="https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952" target="_blank" rel="noopener"><span lang="en">Open the video on GitHub</span><span lang="pt">Abrir o vídeo no GitHub</span></a>
 <p class="sub">🛸 A Visual Reflection · Digital Consciousness · Human Identity 🎶 Visual &amp; Sound Design · Fab ⚡</p>
 <div class="pts"><span>✦</span> <em class="gt">Breathe deeply</em> <span>✦</span> <em class="gt">Dive within yourself</em> <span>✦</span> <em class="gt">Discover your essence</em> <span>✦</span></div></section>
-<div class="def" id="s2"><span lang="en"><p>Mindful AI Research is an independent, open-source research and innovation lab <em class='gt hl'>advancing human-centered artificial intelligence</em> through applied research, technological development, interdisciplinary collaboration, and <em class='gt hl'>responsible innovation</em>.</p><p>Our work explores machine learning and data science, computer vision, geospatial intelligence, intelligent agents, conversational AI and large language models (LLMs), as well as emerging and decentralized technologies.</p><p>Founded by <a class='fl' href='https://linktr.ee/fabianacampanari' target='_blank' rel='noopener'>Fabiana ⚡️ Campanari</a>, a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, and currently pursuing undergraduate studies in Data Science and Artificial Intelligence at PUC-SP (Pontifícia Universidade Católica de São Paulo), the lab brings together perspectives from technology, human behavior, cognition, design, and semiotics.</p><p>This interdisciplinary foundation informs how we investigate the relationship between people and intelligent systems: how people perceive, interpret, communicate, and interact with technology. We bring human insight into the design, development, evaluation, and practical application of AI-driven solutions.</p><p>Our approach places particular emphasis on responsible AI, transparency, explainability, algorithmic accountability, and technology governance. We consider relevant regulatory and data-protection frameworks, including the EU AI Act, Brazil's LGPD, and the GDPR, where applicable.</p><p>By combining technical rigor, experimentation, reproducibility, and open-source collaboration, we connect research with practical innovation, turning ideas and complex challenges into <em class='gt hl'>meaningful technological solutions</em>.</p><p>We are also proud to highlight PUC-SP's Data Science and Artificial Intelligence program, which received a <a class='fl' href='https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas' target='_blank' rel='noopener'>five-star rating</a> in the 2024 Guia da Faculdade.</p><p>Mindful AI Research brings together a growing open-source community of 42+ contributors, connecting people, ideas, and technologies to build solutions that empower people and serve humanity.</p><p class='vis'>Every project, every model, every line of code moves us closer to a shared vision:</p><p class='vis big'>A future where AI serves humanity. Never the other way around.</p></span><span lang="pt"><p>A Mindful AI Research é um laboratório independente e open source de pesquisa e inovação que <em class='gt hl'>avança a inteligência artificial centrada no ser humano</em> por meio de pesquisa aplicada, desenvolvimento tecnológico, colaboração interdisciplinar e <em class='gt hl'>inovação responsável</em>.</p><p>Nosso trabalho explora aprendizado de máquina e ciência de dados, visão computacional, inteligência geoespacial, agentes inteligentes, IA conversacional e grandes modelos de linguagem (LLMs), além de tecnologias emergentes e descentralizadas.</p><p>Fundado por <a class='fl' href='https://linktr.ee/fabianacampanari' target='_blank' rel='noopener'>Fabiana ⚡️ Campanari</a>, profissional multidisciplinar com formação acadêmica em Design, Desenvolvimento de Software e Psicologia, e atualmente cursando graduação em Ciência de Dados e Inteligência Artificial na PUC-SP (Pontifícia Universidade Católica de São Paulo), o laboratório reúne perspectivas de tecnologia, comportamento humano, cognição, design e semiótica.</p><p>Essa base interdisciplinar orienta como investigamos a relação entre pessoas e sistemas inteligentes: como as pessoas percebem, interpretam, comunicam e interagem com a tecnologia. Trazemos a perspectiva humana para o projeto, o desenvolvimento, a avaliação e a aplicação prática de soluções baseadas em IA.</p><p>Nossa abordagem dá ênfase especial a IA responsável, transparência, explicabilidade, responsabilização algorítmica e governança tecnológica. Consideramos marcos regulatórios e de proteção de dados relevantes, incluindo o EU AI Act, a LGPD brasileira e o GDPR, quando aplicáveis.</p><p>Ao combinar rigor técnico, experimentação, reprodutibilidade e colaboração open source, conectamos pesquisa e inovação prática, transformando ideias e desafios complexos em <em class='gt hl'>soluções tecnológicas significativas</em>.</p><p>Também temos orgulho de destacar o curso de Ciência de Dados e Inteligência Artificial da PUC-SP, que recebeu a <a class='fl' href='https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas' target='_blank' rel='noopener'>classificação cinco estrelas</a> no Guia da Faculdade 2024.</p><p>A Mindful AI Research reúne uma comunidade open source em crescimento, com mais de 42 colaboradores, conectando pessoas, ideias e tecnologias para construir soluções que fortaleçam as pessoas e sirvam à humanidade.</p><p class='vis'>Cada projeto, cada modelo, cada linha de código nos aproxima de uma visão compartilhada:</p><p class='vis big'>Um futuro em que a IA serve à humanidade. Nunca o contrário.</p></span></div>
+<div class="def" id="s2"><span lang="en"><p>Mindful AI Research is an independent, open-source research and innovation lab <em class='gt hl'>advancing human-centered artificial intelligence</em> through applied research, technological development, interdisciplinary collaboration, and <em class='gt hl'>responsible innovation</em>.</p><p>Our work explores machine learning and data science, computer vision, geospatial intelligence, intelligent agents, conversational AI and large language models (LLMs), as well as emerging and decentralized technologies.</p><p>Founded by <a class='fl' href='https://linktr.ee/fabianacampanari' target='_blank' rel='noopener'>Fabiana ⚡️ Campanari</a>, a multidisciplinary professional with academic backgrounds in Design, Software Development, and Psychology, and currently pursuing undergraduate studies in Data Science and Artificial Intelligence at PUC-SP (Pontifícia Universidade Católica de São Paulo), the lab brings together perspectives from technology, human behavior, cognition, design, and semiotics.</p><p>This interdisciplinary foundation informs how we investigate the relationship between people and intelligent systems: how people perceive, interpret, communicate, and interact with technology. We bring human insight into the design, development, evaluation, and practical application of AI-driven solutions.</p><p>Our approach places particular emphasis on responsible AI, transparency, explainability, algorithmic accountability, and technology governance. We consider relevant regulatory and data-protection frameworks, including the EU AI Act, Brazil's LGPD, and the GDPR, where applicable.</p><p>By combining technical rigor, experimentation, reproducibility, and open-source collaboration, we connect research with practical innovation, turning ideas and complex challenges into <em class='gt hl'>meaningful technological solutions</em>.</p><p>We are also proud to highlight PUC-SP's Data Science and Artificial Intelligence program, which received a <a class='fl' href='https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas' target='_blank' rel='noopener'>five-star rating</a> in the 2024 Guia da Faculdade.</p><p>Mindful AI Research brings together a growing open-source community of 42+ contributors, connecting people, ideas, and technologies to build solutions that empower people and serve humanity.</p><p class='vis lead'>Every project, every model, every line of code moves us closer to a shared vision:</p><p class='vis big'>A future where <em class='gt hl'>AI serves humanity.</em></p><p class='vis big sub'>Never the other way around.</p></span><span lang="pt"><p>A Mindful AI Research é um laboratório independente e open source de pesquisa e inovação que <em class='gt hl'>avança a inteligência artificial centrada no ser humano</em> por meio de pesquisa aplicada, desenvolvimento tecnológico, colaboração interdisciplinar e <em class='gt hl'>inovação responsável</em>.</p><p>Nosso trabalho explora aprendizado de máquina e ciência de dados, visão computacional, inteligência geoespacial, agentes inteligentes, IA conversacional e grandes modelos de linguagem (LLMs), além de tecnologias emergentes e descentralizadas.</p><p>Fundado por <a class='fl' href='https://linktr.ee/fabianacampanari' target='_blank' rel='noopener'>Fabiana ⚡️ Campanari</a>, profissional multidisciplinar com formação acadêmica em Design, Desenvolvimento de Software e Psicologia, e atualmente cursando graduação em Ciência de Dados e Inteligência Artificial na PUC-SP (Pontifícia Universidade Católica de São Paulo), o laboratório reúne perspectivas de tecnologia, comportamento humano, cognição, design e semiótica.</p><p>Essa base interdisciplinar orienta como investigamos a relação entre pessoas e sistemas inteligentes: como as pessoas percebem, interpretam, comunicam e interagem com a tecnologia. Trazemos a perspectiva humana para o projeto, o desenvolvimento, a avaliação e a aplicação prática de soluções baseadas em IA.</p><p>Nossa abordagem dá ênfase especial a IA responsável, transparência, explicabilidade, responsabilização algorítmica e governança tecnológica. Consideramos marcos regulatórios e de proteção de dados relevantes, incluindo o EU AI Act, a LGPD brasileira e o GDPR, quando aplicáveis.</p><p>Ao combinar rigor técnico, experimentação, reprodutibilidade e colaboração open source, conectamos pesquisa e inovação prática, transformando ideias e desafios complexos em <em class='gt hl'>soluções tecnológicas significativas</em>.</p><p>Também temos orgulho de destacar o curso de Ciência de Dados e Inteligência Artificial da PUC-SP, que recebeu a <a class='fl' href='https://j.pucsp.br/noticia/guia-da-faculdade-2024-puc-sp-possui-sete-cursos-com-cinco-estrelas' target='_blank' rel='noopener'>classificação cinco estrelas</a> no Guia da Faculdade 2024.</p><p>A Mindful AI Research reúne uma comunidade open source em crescimento, com mais de 42 colaboradores, conectando pessoas, ideias e tecnologias para construir soluções que fortaleçam as pessoas e sirvam à humanidade.</p><p class='vis lead'>Cada projeto, cada modelo, cada linha de código nos aproxima de uma visão compartilhada:</p><p class='vis big'>Um futuro em que <em class='gt hl'>a IA serve à humanidade.</em></p><p class='vis big sub'>Nunca o contrário.</p></span></div>
 
 <div class="div"><svg xmlns="http://www.w3.org/2000/svg" width="880" height="24" viewBox="0 0 880 24" role="presentation" aria-hidden="true">
 <defs>
@@ -599,11 +619,23 @@ if(rqi)rqi.addEventListener("input",function(){cq=rqi.value.trim().toLowerCase()
 function lg(){return document.body.dataset.lang==="pt"?1:0}
 function titles(){document.querySelectorAll("[data-t]").forEach(function(b){b.title=b.dataset.t.split("|")[lg()]})}
 var _L=L;L=function(l){_L(l);titles()};titles();
-function upd(){var y=scrollY,max=document.documentElement.scrollHeight-innerHeight,pc=max>0?y/max:0;$("tlf").style.width=(pc*100)+"%";var k=0;secs.forEach(function(e,i){if(e.getBoundingClientRect().top<=innerHeight*.4)k=i});if(max>0&&y>=max-4)k=secs.length-1;cur=k;$("rc").style.strokeDashoffset=C*(1-k/(secs.length-1));$("rt").textContent=k+1;$("bp").disabled=k===0;$("bn").disabled=k===secs.length-1}
-function go(i){if(i<0||i>=secs.length)return;secs[i].scrollIntoView({behavior:"smooth",block:"start"})}
+var dest=null,dt=0;
+function P(){var vh=innerHeight,max=document.documentElement.scrollHeight-vh,out=[];
+function ab(e){var y=0;while(e){y+=e.offsetTop;e=e.offsetParent}return y}
+var list=[];["s0","s1"].forEach(function(i){var e=$(i);if(e)list.push([e,"t"])});
+[].forEach.call(document.querySelectorAll("#s2 p"),function(e){if(e.offsetParent)list.push([e,"c"])});
+var q=$("s3");if(q)list.push([q,"c"]);var s4=$("s4");if(s4){list.push([s4,"t"]);var pr=[],pl=-999;[].forEach.call(s4.children,function(c){if(!c.offsetParent)return;var y=ab(c);if(Math.abs(y-pl)>8){pr.push(c);pl=y}});pr.forEach(function(c,i){if(i>0)list.push([c,"c"])})}
+var s5=$("s5");if(s5){list.push([s5,"t"]);var rows=[],last=-999;[].forEach.call(s5.querySelectorAll(".card"),function(c){if(!c.offsetParent)return;var y=ab(c);if(Math.abs(y-last)>8){rows.push(c);last=y}});rows.forEach(function(c,i){if(i>0)list.push([c,"c"])})}
+var cta=document.querySelector(".cta");if(cta)list.push([cta,"c"]);var ft=$("s6");if(ft)list.push([ft,"t"]);
+list.forEach(function(x){var e=x[0],h=e.offsetHeight,t=ab(e),y;if(e.id==="s0")y=0;else if(x[1]==="t"||h>vh*.5)y=t-Math.max(14,vh*.12);else y=t+h/2-vh*.3;y=Math.max(0,Math.min(max,Math.round(y)));if(!out.length||y-out[out.length-1]>24)out.push(y)});
+if(max>0&&max-out[out.length-1]>24)out.push(max);return out}
+function upd(){var y=scrollY,max=document.documentElement.scrollHeight-innerHeight,pc=max>0?y/max:0;$("tlf").style.width=(pc*100)+"%";var p=P(),k=0;p.forEach(function(v,i){if(v<=y+24)k=i});if(max>0&&y>=max-4)k=p.length-1;cur=k;$("rc").style.strokeDashoffset=C*(1-k/Math.max(1,p.length-1));$("rt").textContent=k+1;$("bp").disabled=y<=4;$("bn").disabled=max<=0||y>=max-4}
+function base(){return dest!==null&&Date.now()-dt<1100?dest:scrollY}
+function step(d){var p=P(),y=base(),t=null;if(d>0){for(var i=0;i<p.length;i++)if(p[i]>y+24){t=p[i];break}}else{for(var j=p.length-1;j>=0;j--)if(p[j]<y-24){t=p[j];break}}if(t===null)return;dest=t;dt=Date.now();scrollTo({top:t,behavior:"smooth"})}
+function go(i){step(i<cur?-1:1)}
 addEventListener("scroll",upd,{passive:true});addEventListener("resize",upd);upd();
-$("bp").onclick=function(){go(cur-1)};$("bn").onclick=function(){go(cur+1)};$("br").onclick=function(){scrollTo({top:0,behavior:"smooth"})};
-$("ring").onclick=function(){go(cur===secs.length-1?0:cur+1)};
+$("bp").onclick=function(){step(-1)};$("bn").onclick=function(){step(1)};$("br").onclick=function(){dest=0;dt=Date.now();scrollTo({top:0,behavior:"smooth"})};
+$("ring").onclick=function(){var max=document.documentElement.scrollHeight-innerHeight;if(scrollY>=max-4){dest=0;dt=Date.now();scrollTo({top:0,behavior:"smooth"})}else step(1)};
 function fs(){document.fullscreenElement?document.exitFullscreen():document.documentElement.requestFullscreen&&document.documentElement.requestFullscreen()}
 $("bf").onclick=fs;
 function snd(){$("bs").textContent=v.muted?"🔇":"🔊"}
@@ -614,7 +646,7 @@ $("bd").onclick=function(){print()};
 $("tl").onclick=function(e){var max=document.documentElement.scrollHeight-innerHeight;scrollTo({top:max*e.clientX/innerWidth,behavior:"smooth"})};
 addEventListener("keydown",function(e){if(e.ctrlKey||e.metaKey||e.altKey)return;var o=$("md").classList.contains("on");
 if(o){if(e.key==="Escape"||e.key==="?")md(false);return}
-if(e.key==="ArrowRight"||e.key==="ArrowDown"){e.preventDefault();go(cur+1)}else if(e.key==="ArrowLeft"||e.key==="ArrowUp"){e.preventDefault();go(cur-1)}
+if(e.key==="ArrowRight"||e.key==="ArrowDown"){e.preventDefault();step(1)}else if(e.key==="ArrowLeft"||e.key==="ArrowUp"){e.preventDefault();step(-1)}
 else if(e.key==="f"||e.key==="F")fs();else if(e.key==="r"||e.key==="R")scrollTo({top:0,behavior:"smooth"});else if(e.key==="?")md(true)})})();
 
 (function(){var d=document.documentElement;if(!("IntersectionObserver" in window))return;if(matchMedia("(prefers-reduced-motion:reduce)").matches)d.classList.add("fxr");
@@ -630,9 +662,9 @@ var all=els.concat([].slice.call(document.querySelectorAll(".def")));all.forEach
 })();
 
 (function(){if(matchMedia("(prefers-reduced-motion:reduce)").matches)return;
-var els=[].slice.call(document.querySelectorAll(".def p:not(.vis)")),st=els.map(function(){return{c:1,t:1}}),run=0;els.forEach(function(e){e.classList.add("cr")});
+var els=[].slice.call(document.querySelectorAll(".def p,#s3")),st=els.map(function(){return{c:1,t:1}}),run=0;els.forEach(function(e){e.classList.add("cr")});
 function cl(v){return v<0?0:v>1?1:v}
-function target(){var vh=innerHeight;els.forEach(function(e,i){if(!e.offsetParent)return;var r=e.getBoundingClientRect(),c=r.top+r.height/2,t=cl((c-vh*.30)/(vh*.70));st[i].t=t*t*(3-2*t)})}
+function target(){var vh=innerHeight;var df=document.getElementById("s2"),q3=document.getElementById("s3"),rd=0;[df,q3].forEach(function(z){if(z){var r=z.getBoundingClientRect();if(r.bottom>vh*.1&&r.top<vh*.9)rd=1}});document.body.classList.toggle("rd",!!rd);els.forEach(function(e,i){if(!e.offsetParent)return;var r=e.getBoundingClientRect(),c=r.top+r.height/2,t=cl((c-vh*.30)/(vh*.70));st[i].t=t*t*(3-2*t)})}
 function paint(){var more=0;els.forEach(function(e,i){var o=st[i];if(!e.offsetParent)return;var d=o.t-o.c;if(Math.abs(d)>.002){o.c+=d*.045;more=1}else o.c=o.t;var t=o.c;
 e.style.transform=t<.004?"":"perspective(560px) rotateX("+(t*68).toFixed(1)+"deg) translateY("+(t*46).toFixed(1)+"px) scale("+(1-t*.18).toFixed(3)+")";
 e.style.opacity=t<.004?"":(1-t*.82).toFixed(2)});run=more?requestAnimationFrame(paint):0}
