@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>MindFul AI: Research &amp; Consulting</title>
@@ -849,5 +850,14 @@ if(rm)return;var n=performance.now();if(n-last<55)return;last=n;if(c.querySelect
 document.addEventListener("pointerdown",function(e){if(e.button>0)return;var c=e.target.closest&&e.target.closest(".card");if(!c)return;var r=c.getBoundingClientRect(),x=e.clientX-r.left,y=e.clientY-r.top;c.style.setProperty("--mx",x+"px");c.style.setProperty("--my",y+"px");c.classList.add("pulse");setTimeout(function(){c.classList.remove("pulse")},900);if(rm)return;
 var rp=document.createElement("i");rp.className="rp";rp.style.setProperty("--x",x+"px");rp.style.setProperty("--y",y+"px");rp.addEventListener("animationend",function(){rp.remove()});c.appendChild(rp);
 for(var i=0;i<18;i++){var s=document.createElement("i");s.className="sp big";var a=i/18*6.283+Math.random()*.4,d=38+Math.random()*52;s.style.left=x+"px";s.style.top=y+"px";s.style.setProperty("--c",cols[i%cols.length]);s.style.setProperty("--z",(7+Math.random()*10).toFixed(1)+"px");s.style.setProperty("--dx",(Math.cos(a)*d).toFixed(0)+"px");s.style.setProperty("--dy",(Math.sin(a)*d).toFixed(0)+"px");s.addEventListener("animationend",function(){this.remove()});c.appendChild(s)}},{passive:true});
+})();
+
+(function(){var rm=matchMedia("(prefers-reduced-motion:reduce)").matches,cols=["#19C6C6","#3FE0D0","#7FF0E6","#3F9DE6","#9FF5EE","#fff","#FFE9A8"];
+function wave(c,x,y,n,d0,d1){for(var i=0;i<n;i++){var s=document.createElement("i");s.className="sp big";var a=i/n*6.283+Math.random()*.5,d=d0+Math.random()*(d1-d0);s.style.left=x+"px";s.style.top=y+"px";s.style.setProperty("--c",cols[(Math.random()*cols.length)|0]);s.style.setProperty("--z",(8+Math.random()*13).toFixed(1)+"px");s.style.setProperty("--dx",(Math.cos(a)*d).toFixed(0)+"px");s.style.setProperty("--dy",(Math.sin(a)*d-10).toFixed(0)+"px");s.style.animationDuration=(1+Math.random()*.5).toFixed(2)+"s";s.addEventListener("animationend",function(){this.remove()});c.appendChild(s)}}
+function ring(c,x,y){var r=document.createElement("i");r.className="rp";r.style.setProperty("--x",x+"px");r.style.setProperty("--y",y+"px");r.addEventListener("animationend",function(){r.remove()});c.appendChild(r)}
+document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest(".card a[href],a.card[href]");if(!a||e.defaultPrevented||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||e.button>0)return;var c=a.closest(".card");if(!c||rm)return;if(!/^https?:/i.test(a.href))return;e.preventDefault();if(c.dataset.go)return;c.dataset.go="1";
+var r=c.getBoundingClientRect(),x=e.clientX?e.clientX-r.left:r.width/2,y=e.clientY?e.clientY-r.top:r.height/2;c.classList.add("pulse");
+wave(c,x,y,34,50,125);ring(c,x,y);setTimeout(function(){wave(c,x,y,40,70,150);ring(c,x,y)},230);setTimeout(function(){wave(c,x,y,26,40,110)},460);
+var url=a.href;setTimeout(function(){c.classList.remove("pulse");delete c.dataset.go;var w=window.open(url,"_blank");if(w){try{w.opener=null}catch(_){}}else location.href=url},900)},false);
 })();
 </script></body></html>
