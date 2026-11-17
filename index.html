@@ -482,11 +482,6 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 @media(max-width:560px){.def{line-height:1.85!important}.def p.vis.big.sub{letter-spacing:.22em}}
 
 /* ===== ROUND 6: frase epica uniforme, tooltips, efeito nos cards ===== */
-.def p.vis.big{font-family:'Cormorant Garamond','Playfair Display',Lora,Georgia,serif!important;font-style:italic!important;font-weight:600!important;font-size:clamp(2.3rem,7.4vw,4.4rem)!important;line-height:1.14!important;letter-spacing:0!important;text-shadow:none!important}
-.def p.vis.big .c,.def p.vis.big .c.pl{background-image:none!important;-webkit-background-clip:border-box!important;background-clip:border-box!important;color:#f4faff!important;-webkit-text-fill-color:#f4faff!important;text-shadow:0 0 26px rgba(0,190,255,.28),0 2px 4px rgba(2,6,16,.9)!important}
-.def p.vis.big .c:not(.pl){color:#5fd9f2!important;-webkit-text-fill-color:#5fd9f2!important}
-.def p.vis.big.sub .c,.def p.vis.big.sub .c.pl{color:#bcd6ee!important;-webkit-text-fill-color:#bcd6ee!important;text-shadow:0 1px 2px rgba(2,6,16,.95)!important}
-.def p.vis.big.sub{font-family:Inter,system-ui,sans-serif!important;font-style:normal!important;font-weight:400!important}
 #tip{position:fixed;z-index:3000;pointer-events:none;max-width:240px;padding:6px 10px;border-radius:8px;background:rgba(6,14,30,.96);border:1px solid rgba(63,157,230,.45);color:#e8f2ff;font:500 12px/1.35 Inter,system-ui,sans-serif;letter-spacing:.01em;box-shadow:0 6px 22px rgba(0,0,0,.5);opacity:0;transform:translateY(4px);transition:opacity .15s,transform .15s;white-space:nowrap}
 #tip.on{opacity:1;transform:none}
 .card .gl{position:absolute;inset:0;border-radius:inherit;pointer-events:none;opacity:0;transition:opacity .35s;background:radial-gradient(240px circle at var(--mx,50%) var(--my,50%),rgba(25,198,198,.17),rgba(63,157,230,.07) 45%,transparent 70%)}
@@ -494,6 +489,30 @@ body:not([data-lang=pt]) #intro [lang=pt],body[data-lang=pt] #intro [lang=en]{di
 .card .sp{position:absolute;pointer-events:none;width:var(--z,9px);height:var(--z,9px);margin:calc(var(--z,9px)/-2) 0 0 calc(var(--z,9px)/-2);background:var(--c,#3FE0D0);clip-path:polygon(50% 0,60% 40%,100% 50%,60% 60%,50% 100%,40% 60%,0 50%,40% 40%);filter:drop-shadow(0 0 4px var(--c,#3FE0D0));animation:spk .95s ease-out forwards;z-index:3}
 @keyframes spk{0%{opacity:0;transform:translate(0,0) scale(.3) rotate(0)}18%{opacity:1}100%{opacity:0;transform:translate(var(--dx,0),var(--dy,-26px)) scale(1.1) rotate(80deg)}}
 @media print{#tip,.card .gl,.card .sp{display:none!important}}
+
+/* ===== ROUND 7: um so tipo (Inter), gradiente + brilho; Da Vinci maior ===== */
+@keyframes vgl{0%,100%{filter:drop-shadow(0 0 8px rgba(0,190,255,.28))}50%{filter:drop-shadow(0 0 22px rgba(0,229,255,.72))}}
+body .def p.vis.big{font-family:Inter,system-ui,sans-serif!important;font-style:normal!important;font-weight:600!important;font-size:clamp(1.7rem,4.8vw,3.1rem)!important;line-height:1.25!important;letter-spacing:-.01em!important;max-width:880px!important;margin:.15em auto .25em!important;text-shadow:none!important;color:#f4faff!important;animation:vgl 3.8s ease-in-out infinite}
+body .def p.vis.big.sub{font-weight:600!important;text-transform:uppercase;letter-spacing:.28em!important;font-size:clamp(.82rem,2.3vw,1.3rem)!important;margin:.9em auto 2.2em!important;animation-delay:-1.9s}
+body .def p.vis.big .c.pl{color:#f4faff!important;-webkit-text-fill-color:#f4faff!important;background:none!important}
+body .def p.vis .c:not(.pl){background-image:linear-gradient(90deg,#2A8EE5,#4fd0ee,#EAF4FF,#4fd0ee,#2A8EE5)!important}
+body .def p.vis.lead{font-weight:600!important}
+body .qloop{font-size:clamp(1.55rem,3.6vw,3rem)!important;line-height:1.45!important}
+body .qloop .qline{margin:.55em 0!important}
+body .qloop .qline.gap{font-size:1.22em!important;margin-top:1.4em!important}
+body .qloop .qline.qattr{font-size:clamp(.95rem,1.7vw,1.25rem)!important}
+body .quote{max-width:1180px!important}
+@media(prefers-reduced-motion:reduce){body .def p.vis.big{animation:none}}
+
+/* ===== ROUND 8: frases gemeas (mesmo tamanho/efeito); Da Vinci maior que o bloco ===== */
+body .def p.vis.big,body .def p.vis.big.sub{font-size:clamp(1.35rem,3.4vw,2.3rem)!important;text-transform:none!important;letter-spacing:-.005em!important;font-weight:600!important;line-height:1.3!important;animation:vgl 3.8s ease-in-out infinite!important;animation-delay:0s!important}
+body .def p.vis.big.sub{margin:.1em auto 2.2em!important}
+body .def p.vis.big.sub .c{color:transparent}
+body .qloop{font-size:clamp(1.9rem,4.5vw,3.7rem)!important;line-height:1.4!important}
+body .qloop .qline.gap{font-size:1.15em!important}
+body .qloop .qline.qattr{font-size:clamp(1rem,1.8vw,1.3rem)!important}
+body .quote{max-width:1240px!important}
+body .def p.vis.big.sub .c,body .def p.vis.big.sub .c.pl{background-image:linear-gradient(90deg,#2A8EE5,#4fd0ee,#EAF4FF,#4fd0ee,#2A8EE5)!important;-webkit-background-clip:text!important;background-clip:text!important;color:transparent!important;-webkit-text-fill-color:transparent!important}
 </style></head><body data-lang="en">
 <div id="intro" role="dialog" aria-label="Opening quote"><div class="glow"></div>
 <div class="wrap stage2"><div class="ivid"><video muted loop autoplay playsinline preload="auto"></video></div><p class="qt">What we do in life,</p><p class="qt">echoes in eternity</p>
