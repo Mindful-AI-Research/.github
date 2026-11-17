@@ -524,6 +524,18 @@ body .def p.vis.big,body .def p.vis.big.sub{font-size:clamp(1.12rem,2.5vw,1.75re
 @media(min-width:821px) and (max-width:1080px){.hud{left:16px!important;transform:none;max-width:calc(100vw - 330px)!important}}
 @media(max-width:820px){.ft{padding-bottom:110px!important}}
 .lang{background:rgba(6,14,28,.82)!important}
+
+/* ===== ROUND 10: abertura em fluxo normal (sem position:fixed nos botoes), escala por vw E vh ===== */
+#intro{display:flex!important;overflow-x:hidden;overflow-y:auto;--fs:min(8.4vw,8.2vh,5rem)}
+#intro .wrap.stage2{margin:auto!important;width:100%;max-width:1040px;padding:clamp(10px,3vh,34px) 20px clamp(10px,3vh,28px)!important;display:flex!important;flex-direction:column;align-items:center}
+#intro .ivid{width:min(720px,92vw,calc(33vh*1.667))!important;margin:0 auto clamp(6px,1.6vh,18px)!important;transform:none!important}
+#intro .qt{font-size:var(--fs)!important;line-height:1.2!important;padding:.08em .45em!important;margin:0!important;max-width:100%}
+#intro .qt:first-of-type{padding-right:.6em!important}#intro .qt:last-of-type{padding-bottom:.2em!important}
+#intro .att{margin:clamp(2px,1vh,10px) 0 0!important;font-size:clamp(.8rem,min(1.9vw,2.2vh),1.1rem)!important}
+#intro .tr{margin-top:.3rem!important;font-size:clamp(.72rem,min(1.6vw,1.9vh),.9rem)!important}
+#intro .choices{position:static!important;translate:none!important;left:auto!important;bottom:auto!important;margin:clamp(8px,2.2vh,22px) 0 0!important;width:auto!important;max-width:100%}
+#intro .hint{position:static!important;translate:none!important;left:auto!important;bottom:auto!important;margin:clamp(6px,1.4vh,14px) auto 0!important;width:min(520px,92vw)!important;font-size:clamp(.68rem,min(1.5vw,1.8vh),.78rem)!important}
+#intro .ch{padding:clamp(7px,1.3vh,11px) clamp(14px,2.2vw,22px)!important;font-size:clamp(.74rem,min(2vw,2.1vh),.86rem)!important}
 </style></head><body data-lang="en">
 <div id="intro" role="dialog" aria-label="Opening quote"><div class="glow"></div>
 <div class="wrap stage2"><div class="ivid"><video muted loop autoplay playsinline preload="auto"></video></div><p class="qt">What we do in life,</p><p class="qt">echoes in eternity</p>
