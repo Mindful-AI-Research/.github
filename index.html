@@ -833,7 +833,8 @@ for(var i=0;i<4;i++){(function(i){setTimeout(function(){var s=document.createEle
 function end(){if(it.classList.contains("out"))return;it.classList.add("out");document.dispatchEvent(new Event("introend"));h.classList.remove("lock");setTimeout(function(){if(it.parentNode)it.remove()},2600)}
 function begin(){if(started)return;started=true;it.classList.add("go");var T=window.__introGo?window.__introGo():4000;setTimeout(function(){it.classList.add("sig")},T+600)}
 function enter(){it.classList.add("fin");setTimeout(end,1400)}
-it.querySelector("#kon").addEventListener("click",enter);it.querySelector("#koff").addEventListener("click",function(){if(window.__musPause)window.__musPause();enter()});
+it.querySelector("#kon").addEventListener("click",function(){try{localStorage.removeItem("snd")}catch(e){}enter()});it.querySelector("#koff").addEventListener("click",function(){try{localStorage.setItem("snd","off")}catch(e){}if(window.__musPause)window.__musPause();enter()});
+try{if(localStorage.getItem("snd")==="off"&&!/[?&]intro\b/.test(location.search)){var qp=function(){if(window.__musPause)window.__musPause()};qp();setTimeout(qp,300);setTimeout(qp,1200);it.classList.add("fin");end()}}catch(e){}
 addEventListener("keydown",function(e){if(!it.isConnected||it.classList.contains("out"))return;if(e.key==="Escape")end();else if(it.classList.contains("sig")&&(e.key==="Enter"||e.key===" ")){e.preventDefault();enter()}});
 setTimeout(begin,700);setTimeout(function(){var a=document.getElementById("mus");if(a&&a.paused&&!it.classList.contains("out"))it.classList.add("blk")},2200)})();
 (function(){var m=document.getElementById("mir"),rv=document.getElementById("rv");if(!m||!rv)return;
@@ -883,9 +884,12 @@ if(T>1.8&&T<2.9){var gp=Math.sin(Math.min(1,(T-1.8)/1.1)*Math.PI)*fq,g3=x.create
 var gw=Math.max(0,Math.min(1,(T-.35)/.45));if(gw>0){x.lineWidth=1;for(var i=0;i<A.length;i++){var a1=A[i];if(a1.t>=1)continue;var nn=[];for(var j=0;j<A.length;j++){if(j===i||A[j].t>=1)continue;nn.push([Math.hypot(a1.x-A[j].x,a1.y-A[j].y),j])}nn.sort(function(u,v){return u[0]-v[0]});for(var k=0;k<2&&k<nn.length;k++){var b=A[nn[k][1]];if(nn[k][1]<i&&nn[k][0]<reach*.9&&false)continue;var al=Math.min(a1.a,b.a)*.5*gw*(nn[k][0]<reach*.8?1:.4);x.globalAlpha=Math.max(0,al);x.strokeStyle="#9FF5EE";x.beginPath();x.moveTo(a1.x,a1.y);x.lineTo(a1.x+(b.x-a1.x)*gw,a1.y+(b.y-a1.y)*gw);x.stroke()}}}
 x.globalAlpha=1;if(T<3.4)requestAnimationFrame(fr);else cv.remove()}
 requestAnimationFrame(fr)}
+
+function chime(){var a=document.getElementById("mus");if(!a||a.paused||a.muted||a.volume<.03)return;var AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;try{var c=new AC(),m=c.createGain();m.gain.value=Math.min(.9,a.volume+.15);m.connect(c.destination);var n=[587.33,659.25,739.99,880,987.77],t=c.currentTime;function note(f,at,d,v){[[f,"sine",v],[f*2.005,"triangle",v*.22]].forEach(function(o){var os=c.createOscillator(),g=c.createGain();os.type=o[1];os.frequency.value=o[0];g.gain.setValueAtTime(0,t+at);g.gain.linearRampToValueAtTime(o[2],t+at+.012);g.gain.exponentialRampToValueAtTime(.0001,t+at+d);os.connect(g);g.connect(m);os.start(t+at);os.stop(t+at+d+.05)})}
+n.forEach(function(f,i){note(f,1+i*.17,1.4,.05)});note(1174.66,1.95,2.2,.055);note(1760,1.97,2.4,.03);note(587.33,1.95,2.6,.04);setTimeout(function(){c.close()},5200)}catch(e){}}
 document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest(".card a[href],a.card[href]");if(!a||e.defaultPrevented||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey||e.button>0)return;var c=a.closest(".card");if(!c||rm)return;if(!/^https?:/i.test(a.href))return;e.preventDefault();if(c.dataset.go)return;c.dataset.go="1";
 var r=c.getBoundingClientRect(),x=e.clientX?e.clientX-r.left:r.width/2,y=e.clientY?e.clientY-r.top:r.height/2;c.classList.add("pulse");
-ring(c,x,y);setTimeout(function(){ring(c,x,y)},230);var ar=a.getBoundingClientRect();cele(e.clientX||ar.left+ar.width/2,e.clientY||ar.top+ar.height/2);
+ring(c,x,y);setTimeout(function(){ring(c,x,y)},230);var ar=a.getBoundingClientRect();cele(e.clientX||ar.left+ar.width/2,e.clientY||ar.top+ar.height/2);chime();
 var url=a.href;setTimeout(function(){c.classList.remove("pulse");delete c.dataset.go;var w=window.open(url,"_blank");if(w){try{w.opener=null}catch(_){}}else location.href=url},2100)},false);
 })();
 </script></body></html>
